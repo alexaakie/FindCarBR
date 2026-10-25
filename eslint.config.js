@@ -23,7 +23,12 @@ export default defineConfig([
       },
     },
     rules: {
-      'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
+      'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]', argsIgnorePattern: '^_', destructuredArrayIgnorePattern: '^_' }],
     },
+  },
+  {
+    // API e scripts rodam no Node
+    files: ['server/**/*.js', 'vite.config.js'],
+    languageOptions: { globals: globals.node },
   },
 ])

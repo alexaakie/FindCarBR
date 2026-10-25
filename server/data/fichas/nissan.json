@@ -1,0 +1,1050 @@
+{
+  "marca": {
+    "nome": "Nissan",
+    "pais": "Japão"
+  },
+  "modelos": [
+    {
+      "nome": "Kicks",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2025,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Advance 1.0 Turbo",
+              "ano_modelo": 2026,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR10DDT 1.0 Turbo",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 125,
+                "potencia_rpm": "5000",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 22.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Platinum 1.0 Turbo",
+              "ano_modelo": 2026,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR10DDT 1.0 Turbo",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 125,
+                "potencia_rpm": "5000",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 22.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2016,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Sense 1.6 MT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR16DE 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 113,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.9,
+                "torque_kgfm_etanol": 15.5,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4300,
+                "largura_mm": 1760,
+                "altura_mm": 1590,
+                "entre_eixos_mm": 2620,
+                "porta_malas_l": 432,
+                "tanque_l": 41,
+                "peso_kg": 1120
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/65 R16"
+            },
+            {
+              "nome": "Advance 1.6 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR16DE 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 113,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.9,
+                "torque_kgfm_etanol": 15.5,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.4,
+                "estrada_gasolina": 13.0,
+                "urbano_etanol": 8.0,
+                "estrada_etanol": 9.2
+              },
+              "dimensoes": {
+                "comprimento_mm": 4300,
+                "largura_mm": 1760,
+                "altura_mm": 1590,
+                "entre_eixos_mm": 2620,
+                "porta_malas_l": 432,
+                "tanque_l": 41,
+                "peso_kg": 1140
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/60 R17"
+            },
+            {
+              "nome": "Exclusive 1.6 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR16DE 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 113,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.9,
+                "torque_kgfm_etanol": 15.5,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.4,
+                "estrada_gasolina": 13.0,
+                "urbano_etanol": 8.0,
+                "estrada_etanol": 9.2
+              },
+              "dimensoes": {
+                "comprimento_mm": 4300,
+                "largura_mm": 1760,
+                "altura_mm": 1590,
+                "entre_eixos_mm": 2620,
+                "porta_malas_l": 432,
+                "tanque_l": 41,
+                "peso_kg": 1150
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/55 R17"
+            },
+            {
+              "nome": "SL 1.6 CVT",
+              "ano_modelo": 2018,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR16DE 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 114,
+                "potencia_cv_etanol": 114,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 15.2,
+                "torque_kgfm_etanol": 15.5,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4300,
+                "largura_mm": 1760,
+                "altura_mm": 1590,
+                "entre_eixos_mm": 2620,
+                "porta_malas_l": 432,
+                "tanque_l": 41,
+                "peso_kg": 1140
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/55 R17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Versa",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "3ª geração (N18)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Sense 1.6 MT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR16DE 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 113,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.9,
+                "torque_kgfm_etanol": 15.5,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4495,
+                "largura_mm": 1740,
+                "altura_mm": 1465,
+                "entre_eixos_mm": 2620,
+                "porta_malas_l": 482,
+                "tanque_l": 41,
+                "peso_kg": 1085
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "195/65 R15"
+            },
+            {
+              "nome": "Advance 1.6 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR16DE 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 113,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.9,
+                "torque_kgfm_etanol": 15.5,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4495,
+                "largura_mm": 1740,
+                "altura_mm": 1465,
+                "entre_eixos_mm": 2620,
+                "porta_malas_l": 482,
+                "tanque_l": 41,
+                "peso_kg": 1105
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/55 R16"
+            },
+            {
+              "nome": "Exclusive 1.6 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR16DE 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 113,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.9,
+                "torque_kgfm_etanol": 15.5,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4495,
+                "largura_mm": 1740,
+                "altura_mm": 1465,
+                "entre_eixos_mm": 2620,
+                "porta_malas_l": 482,
+                "tanque_l": 41,
+                "peso_kg": 1115
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/50 R17"
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (N17)",
+          "ano_inicio": 2011,
+          "ano_fim": 2020,
+          "versoes": [
+            {
+              "nome": "SV 1.6 CVT",
+              "ano_modelo": 2019,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HR16DE 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 111,
+                "potencia_cv_etanol": 111,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 15.1,
+                "torque_kgfm_etanol": 15.1,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4495,
+                "largura_mm": 1695,
+                "altura_mm": 1515,
+                "entre_eixos_mm": 2600,
+                "porta_malas_l": 460,
+                "tanque_l": 41,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/65 R15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Sentra",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "8ª geração (B18)",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Advance 2.0 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "MR20DD 2.0 16V",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 151,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4641,
+                "largura_mm": 1815,
+                "altura_mm": 1446,
+                "entre_eixos_mm": 2712,
+                "porta_malas_l": 466,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/55 R17"
+            },
+            {
+              "nome": "Exclusive 2.0 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "MR20DD 2.0 16V",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 151,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4641,
+                "largura_mm": 1815,
+                "altura_mm": 1446,
+                "entre_eixos_mm": 2712,
+                "porta_malas_l": 466,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "235/40 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Frontier",
+      "categoria": "Picape",
+      "geracoes": [
+        {
+          "nome": "3ª geração (D23)",
+          "ano_inicio": 2017,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Attack 2.3 4x4 AT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "YS23DDTT 2.3 Biturbo Diesel",
+                "cilindrada_cc": 2298,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Biturbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 190,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3750",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-2500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5260,
+                "largura_mm": 1850,
+                "altura_mm": 1840,
+                "entre_eixos_mm": 3150,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Multilink com molas helicoidais"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "255/70 R16"
+            },
+            {
+              "nome": "XE 2.3 4x4 AT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "YS23DDTT 2.3 Biturbo Diesel",
+                "cilindrada_cc": 2298,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Biturbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 190,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3750",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-2500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5260,
+                "largura_mm": 1850,
+                "altura_mm": 1840,
+                "entre_eixos_mm": 3150,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Multilink com molas helicoidais"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "255/60 R18"
+            },
+            {
+              "nome": "Platinum 2.3 4x4 AT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "YS23DDTT 2.3 Biturbo Diesel",
+                "cilindrada_cc": 2298,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Biturbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 190,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3750",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-2500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5260,
+                "largura_mm": 1850,
+                "altura_mm": 1840,
+                "entre_eixos_mm": 3150,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Multilink com molas helicoidais"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "255/60 R18"
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (D40)",
+          "ano_inicio": 2008,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "SEL 2.5 4x4 AT",
+              "ano_modelo": 2016,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "YD25DDTi 2.5 Turbo Diesel",
+                "cilindrada_cc": 2488,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 172,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Leaf",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "2ª geração (ZE1)",
+          "ano_inicio": 2019,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "40 kWh",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 149,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 32.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 40.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": 50
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4490,
+                "largura_mm": 1790,
+                "altura_mm": 1540,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 435,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "215/50 R17"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

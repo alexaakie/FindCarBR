@@ -1,0 +1,733 @@
+{
+  "marca": {
+    "nome": "Mitsubishi",
+    "pais": "Japão"
+  },
+  "modelos": [
+    {
+      "nome": "L200 Triton",
+      "categoria": "Picape",
+      "geracoes": [
+        {
+          "nome": "6ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GL 2.4 TD 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4N16 2.4 Turbodiesel",
+                "cilindrada_cc": 2442,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5320,
+                "largura_mm": 1865,
+                "altura_mm": 1795,
+                "entre_eixos_mm": 3130,
+                "porta_malas_l": null,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GLS 2.4 Biturbo 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4N16 2.4 Biturbo Diesel",
+                "cilindrada_cc": 2442,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Biturbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 205,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3500",
+                "torque_kgfm": 47.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-2750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5320,
+                "largura_mm": 1865,
+                "altura_mm": 1795,
+                "entre_eixos_mm": 3130,
+                "porta_malas_l": null,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "265/65 R17"
+            },
+            {
+              "nome": "HPE 2.4 Biturbo 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4N16 2.4 Biturbo Diesel",
+                "cilindrada_cc": 2442,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Biturbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 205,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3500",
+                "torque_kgfm": 47.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-2750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5320,
+                "largura_mm": 1865,
+                "altura_mm": 1795,
+                "entre_eixos_mm": 3130,
+                "porta_malas_l": null,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "265/60 R18"
+            },
+            {
+              "nome": "HPE-S 2.4 Biturbo 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4N16 2.4 Biturbo Diesel",
+                "cilindrada_cc": 2442,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Biturbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 205,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3500",
+                "torque_kgfm": 47.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-2750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5320,
+                "largura_mm": 1865,
+                "altura_mm": 1795,
+                "entre_eixos_mm": 3130,
+                "porta_malas_l": null,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "265/60 R18"
+            }
+          ]
+        },
+        {
+          "nome": "5ª geração (Triton Sport)",
+          "ano_inicio": 2016,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Triton Sport GLS 2.4 TD 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4N15 2.4 MIVEC Turbodiesel",
+                "cilindrada_cc": 2442,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 190,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3500",
+                "torque_kgfm": 43.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5305,
+                "largura_mm": 1815,
+                "altura_mm": 1795,
+                "entre_eixos_mm": 3000,
+                "porta_malas_l": null,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "245/70 R16"
+            },
+            {
+              "nome": "Triton Sport HPE-S 2.4 TD 4x4",
+              "ano_modelo": 2024,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4N15 2.4 MIVEC Turbodiesel",
+                "cilindrada_cc": 2442,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 190,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3500",
+                "torque_kgfm": 43.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5305,
+                "largura_mm": 1815,
+                "altura_mm": 1795,
+                "entre_eixos_mm": 3000,
+                "porta_malas_l": null,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "265/60 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Pajero Sport",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "3ª geração (QE)",
+          "ano_inicio": 2016,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "HPE 2.4 TD 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "4N15 2.4 MIVEC Turbodiesel",
+                "cilindrada_cc": 2442,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 190,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3500",
+                "torque_kgfm": 43.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4825,
+                "largura_mm": 1815,
+                "altura_mm": 1835,
+                "entre_eixos_mm": 2800,
+                "porta_malas_l": null,
+                "tanque_l": 68,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com molas helicoidais"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "265/60 R18"
+            },
+            {
+              "nome": "Legend 2.4 TD 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "4N15 2.4 MIVEC Turbodiesel",
+                "cilindrada_cc": 2442,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 190,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3500",
+                "torque_kgfm": 43.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4825,
+                "largura_mm": 1815,
+                "altura_mm": 1835,
+                "entre_eixos_mm": 2800,
+                "porta_malas_l": null,
+                "tanque_l": 68,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com molas helicoidais"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "265/60 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Eclipse Cross",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (GK) — fase 2",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GLS 1.5 Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B40 1.5 MIVEC Turbo",
+                "cilindrada_cc": 1499,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2000-3500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": 8,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4545,
+                "largura_mm": 1805,
+                "altura_mm": 1685,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": 473,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/60 R18"
+            },
+            {
+              "nome": "HPE 1.5 Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B40 1.5 MIVEC Turbo",
+                "cilindrada_cc": 1499,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2000-3500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": 8,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4545,
+                "largura_mm": 1805,
+                "altura_mm": 1685,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": 473,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/55 R18"
+            },
+            {
+              "nome": "HPE-S 1.5 Turbo S-AWC",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B40 1.5 MIVEC Turbo",
+                "cilindrada_cc": 1499,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2000-3500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4545,
+                "largura_mm": 1805,
+                "altura_mm": 1685,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": 473,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/55 R18"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (GK) — fase 1",
+          "ano_inicio": 2018,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "HPE-S 1.5 Turbo S-AWC",
+              "ano_modelo": 2020,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B40 1.5 MIVEC Turbo",
+                "cilindrada_cc": 1499,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2000-3500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4405,
+                "largura_mm": 1805,
+                "altura_mm": 1685,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": 473,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/55 R18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

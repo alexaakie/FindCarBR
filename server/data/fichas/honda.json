@@ -1,0 +1,1128 @@
+{
+  "marca": {
+    "nome": "Honda",
+    "pais": "Japão"
+  },
+  "modelos": [
+    {
+      "nome": "City Hatchback",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "7ª geração",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "EX 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 i-VTEC DOHC",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 126,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 15.6,
+                "torque_kgfm_etanol": 15.8,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 13.1,
+                "estrada_gasolina": 15.5,
+                "urbano_etanol": 9.2,
+                "estrada_etanol": 10.9
+              },
+              "dimensoes": {
+                "comprimento_mm": 4349,
+                "largura_mm": 1748,
+                "altura_mm": 1488,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 268,
+                "tanque_l": 40,
+                "peso_kg": 1130
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/60 R15"
+            },
+            {
+              "nome": "EXL 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 i-VTEC DOHC",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 126,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 15.6,
+                "torque_kgfm_etanol": 15.8,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 13.1,
+                "estrada_gasolina": 15.5,
+                "urbano_etanol": 9.2,
+                "estrada_etanol": 10.9
+              },
+              "dimensoes": {
+                "comprimento_mm": 4349,
+                "largura_mm": 1748,
+                "altura_mm": 1488,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 268,
+                "tanque_l": 40,
+                "peso_kg": 1140
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/55 R16"
+            },
+            {
+              "nome": "Touring 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 i-VTEC DOHC",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 126,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 15.6,
+                "torque_kgfm_etanol": 15.8,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 13.1,
+                "estrada_gasolina": 15.5,
+                "urbano_etanol": 9.2,
+                "estrada_etanol": 10.9
+              },
+              "dimensoes": {
+                "comprimento_mm": 4349,
+                "largura_mm": 1748,
+                "altura_mm": 1488,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 268,
+                "tanque_l": 40,
+                "peso_kg": 1150
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "185/55 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "City",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "7ª geração",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "LX 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 i-VTEC DOHC",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 126,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 15.6,
+                "torque_kgfm_etanol": 15.8,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 13.3,
+                "estrada_gasolina": 15.6,
+                "urbano_etanol": 9.3,
+                "estrada_etanol": 11.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4553,
+                "largura_mm": 1748,
+                "altura_mm": 1477,
+                "entre_eixos_mm": 2600,
+                "porta_malas_l": 519,
+                "tanque_l": 40,
+                "peso_kg": 1135
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/60 R15"
+            },
+            {
+              "nome": "EXL 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 i-VTEC DOHC",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 126,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 15.6,
+                "torque_kgfm_etanol": 15.8,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 13.3,
+                "estrada_gasolina": 15.6,
+                "urbano_etanol": 9.3,
+                "estrada_etanol": 11.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4553,
+                "largura_mm": 1748,
+                "altura_mm": 1477,
+                "entre_eixos_mm": 2600,
+                "porta_malas_l": 519,
+                "tanque_l": 40,
+                "peso_kg": 1150
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/55 R16"
+            },
+            {
+              "nome": "Touring 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 i-VTEC DOHC",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 126,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 15.6,
+                "torque_kgfm_etanol": 15.8,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 13.3,
+                "estrada_gasolina": 15.6,
+                "urbano_etanol": 9.3,
+                "estrada_etanol": 11.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4553,
+                "largura_mm": 1748,
+                "altura_mm": 1477,
+                "entre_eixos_mm": 2600,
+                "porta_malas_l": 519,
+                "tanque_l": 40,
+                "peso_kg": 1160
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "185/55 R16"
+            }
+          ]
+        },
+        {
+          "nome": "6ª geração",
+          "ano_inicio": 2015,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "EXL 1.5 CVT",
+              "ano_modelo": 2021,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 i-VTEC SOHC",
+                "cilindrada_cc": 1497,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 116,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 15.2,
+                "torque_kgfm_etanol": 15.3,
+                "torque_rpm": "4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4455,
+                "largura_mm": 1695,
+                "altura_mm": 1485,
+                "entre_eixos_mm": 2600,
+                "porta_malas_l": 536,
+                "tanque_l": 46,
+                "peso_kg": 1130
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/55 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "HR-V",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "EX 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 i-VTEC DOHC",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 126,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 15.6,
+                "torque_kgfm_etanol": 15.8,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1590,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 354,
+                "tanque_l": 50,
+                "peso_kg": 1310
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "EXL 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 i-VTEC DOHC",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 126,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 15.6,
+                "torque_kgfm_etanol": 15.8,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1590,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 354,
+                "tanque_l": 50,
+                "peso_kg": 1320
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Advance 1.5 Turbo CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 VTEC Turbo",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 177,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1700-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1590,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 354,
+                "tanque_l": 50,
+                "peso_kg": 1385
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/50 R18"
+            },
+            {
+              "nome": "Touring 1.5 Turbo CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 VTEC Turbo",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 177,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1700-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1590,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 354,
+                "tanque_l": 50,
+                "peso_kg": 1395
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/50 R18"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2015,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "EXL 1.8 CVT",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "R18 1.8 i-VTEC",
+                "cilindrada_cc": 1799,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 139,
+                "potencia_cv_etanol": 140,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 17.3,
+                "torque_kgfm_etanol": 17.5,
+                "torque_rpm": "4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4294,
+                "largura_mm": 1772,
+                "altura_mm": 1605,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 437,
+                "tanque_l": 50,
+                "peso_kg": 1315
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/55 R17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ZR-V",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Touring 2.0 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 i-VTEC",
+                "cilindrada_cc": 1996,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 161,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 19.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4568,
+                "largura_mm": 1840,
+                "altura_mm": 1620,
+                "entre_eixos_mm": 2655,
+                "porta_malas_l": null,
+                "tanque_l": 57,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/55 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CR-V",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "6ª geração",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Advanced Hybrid AWD",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 i-VTEC e:HEV",
+                "cilindrada_cc": 1993,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4703,
+                "largura_mm": 1866,
+                "altura_mm": null,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "235/60 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Civic",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "11ª geração",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Advanced Hybrid",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 i-VTEC e:HEV",
+                "cilindrada_cc": 1993,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4674,
+                "largura_mm": 1802,
+                "altura_mm": 1415,
+                "entre_eixos_mm": 2735,
+                "porta_malas_l": null,
+                "tanque_l": 40,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "235/40 R18"
+            }
+          ]
+        },
+        {
+          "nome": "10ª geração",
+          "ano_inicio": 2016,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "Touring 1.5 Turbo CVT",
+              "ano_modelo": 2020,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 VTEC Turbo",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 173,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 22.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1700-5500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4637,
+                "largura_mm": 1799,
+                "altura_mm": 1433,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 519,
+                "tanque_l": 56,
+                "peso_kg": 1352
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/50 R17"
+            },
+            {
+              "nome": "EXL 2.0 CVT",
+              "ano_modelo": 2020,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "R20 2.0 i-VTEC",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": 155,
+                "potencia_rpm": "6300",
+                "torque_kgfm": 19.3,
+                "torque_kgfm_etanol": 19.5,
+                "torque_rpm": "4700"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4637,
+                "largura_mm": 1799,
+                "altura_mm": 1433,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 519,
+                "tanque_l": 56,
+                "peso_kg": 1294
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/50 R17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Civic Type R",
+      "categoria": "Esportivo",
+      "geracoes": [
+        {
+          "nome": "6ª geração (FL5)",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "2.0 VTEC Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "K20C1 2.0 VTEC Turbo",
+                "cilindrada_cc": 1996,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 297,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 42.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2600-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4595,
+                "largura_mm": 1890,
+                "altura_mm": 1405,
+                "entre_eixos_mm": 2735,
+                "porta_malas_l": null,
+                "tanque_l": 47,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "265/30 R19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

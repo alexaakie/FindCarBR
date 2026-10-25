@@ -1,0 +1,892 @@
+{
+  "marca": {
+    "nome": "Peugeot",
+    "pais": "França"
+  },
+  "modelos": [
+    {
+      "nome": "208",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "2ª geração (P21)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Like 1.0",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Firefly 1.0 6V",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 6,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 72,
+                "potencia_cv_etanol": 75,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 10.4,
+                "torque_kgfm_etanol": 10.7,
+                "torque_rpm": "3250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4055,
+                "largura_mm": 1745,
+                "altura_mm": 1453,
+                "entre_eixos_mm": 2540,
+                "porta_malas_l": 265,
+                "tanque_l": 47,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/65 R15"
+            },
+            {
+              "nome": "Active 1.0",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Firefly 1.0 6V",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 6,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 72,
+                "potencia_cv_etanol": 75,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 10.4,
+                "torque_kgfm_etanol": 10.7,
+                "torque_rpm": "3250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4055,
+                "largura_mm": 1745,
+                "altura_mm": 1453,
+                "entre_eixos_mm": 2540,
+                "porta_malas_l": 265,
+                "tanque_l": 47,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/65 R15"
+            },
+            {
+              "nome": "Style Turbo 200 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Turbo 200 1.0 (GSE T3)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 6,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 130,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4055,
+                "largura_mm": 1745,
+                "altura_mm": 1453,
+                "entre_eixos_mm": 2540,
+                "porta_malas_l": 265,
+                "tanque_l": 47,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "195/55 R16"
+            },
+            {
+              "nome": "GT Turbo 200 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Turbo 200 1.0 (GSE T3)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 6,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 130,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4055,
+                "largura_mm": 1745,
+                "altura_mm": 1453,
+                "entre_eixos_mm": 2540,
+                "porta_malas_l": 265,
+                "tanque_l": 47,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/45 R17"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (A9)",
+          "ano_inicio": 2013,
+          "ano_fim": 2020,
+          "versoes": [
+            {
+              "nome": "Griffe 1.6 Automático",
+              "ano_modelo": 2020,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EC5 1.6 16V",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 118,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.1,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3962,
+                "largura_mm": 1739,
+                "altura_mm": 1460,
+                "entre_eixos_mm": 2538,
+                "porta_malas_l": 285,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "195/55 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "e-208",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "2ª geração (P21)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Motor elétrico síncrono",
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 136,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 26.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 50,
+                "autonomia_km": 220,
+                "recarga_dc_kw": 100
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 8.1,
+                "vel_max_kmh": 150
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4055,
+                "largura_mm": 1745,
+                "altura_mm": 1430,
+                "entre_eixos_mm": 2540,
+                "porta_malas_l": 265,
+                "tanque_l": null,
+                "peso_kg": 1530
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "205/45 R17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "2008",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (P24 sul-americana)",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Active Turbo 200 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Turbo 200 1.0 (GSE T3)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 6,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 130,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4300,
+                "largura_mm": 1770,
+                "altura_mm": 1550,
+                "entre_eixos_mm": 2605,
+                "porta_malas_l": 434,
+                "tanque_l": 47,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/60 R16"
+            },
+            {
+              "nome": "Allure Turbo 200 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Turbo 200 1.0 (GSE T3)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 6,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 130,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4300,
+                "largura_mm": 1770,
+                "altura_mm": 1550,
+                "entre_eixos_mm": 2605,
+                "porta_malas_l": 434,
+                "tanque_l": 47,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "GT Turbo 200 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Turbo 200 1.0 (GSE T3)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 6,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": 130,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4300,
+                "largura_mm": 1770,
+                "altura_mm": 1550,
+                "entre_eixos_mm": 2605,
+                "porta_malas_l": 434,
+                "tanque_l": 47,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/55 R18"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (A94)",
+          "ano_inicio": 2015,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "Griffe 1.6 THP",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 THP Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": 173,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": 24.5,
+                "torque_rpm": "1400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4159,
+                "largura_mm": 1739,
+                "altura_mm": 1556,
+                "entre_eixos_mm": 2542,
+                "porta_malas_l": 402,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "205/60 R16"
+            },
+            {
+              "nome": "Allure 1.6 Automático",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EC5 1.6 16V",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 118,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.1,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4159,
+                "largura_mm": 1739,
+                "altura_mm": 1556,
+                "entre_eixos_mm": 2542,
+                "porta_malas_l": 402,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/60 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "e-2008",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (P24)",
+          "ano_inicio": 2019,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Motor elétrico síncrono",
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 136,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 26.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 50,
+                "autonomia_km": null,
+                "recarga_dc_kw": 100
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4300,
+                "largura_mm": 1770,
+                "altura_mm": 1550,
+                "entre_eixos_mm": 2605,
+                "porta_malas_l": 434,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Partner Rapid",
+      "categoria": "Utilitário",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "1.4 Flex",
+              "ano_modelo": 2025,
+              "carroceria": "Furgão",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "Fire Evo 1.4 8V",
+                "cilindrada_cc": 1368,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 85,
+                "potencia_cv_etanol": 88,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 12.4,
+                "torque_kgfm_etanol": 12.5,
+                "torque_rpm": "3500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4384,
+                "largura_mm": 1644,
+                "altura_mm": 1900,
+                "entre_eixos_mm": 2716,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco sólido",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Expert",
+      "categoria": "Utilitário",
+      "geracoes": [
+        {
+          "nome": "3ª geração (K0)",
+          "ano_inicio": 2017,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Business Pack 1.6 BlueHDi",
+              "ano_modelo": 2025,
+              "carroceria": "Furgão",
+              "portas": 4,
+              "lugares": 3,
+              "motor": {
+                "codigo": "1.6 BlueHDi Turbodiesel",
+                "cilindrada_cc": 1560,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3500",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4956,
+                "largura_mm": 1920,
+                "altura_mm": 1935,
+                "entre_eixos_mm": 3275,
+                "porta_malas_l": null,
+                "tanque_l": 69,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

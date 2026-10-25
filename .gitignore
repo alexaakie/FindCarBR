@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Banco SQLite gerado (recrie com npm run db:popular / db:fipe)
+server/data/*.db
+server/data/*.db-*
+
+# Segredos
+.env

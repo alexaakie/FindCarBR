@@ -1,5 +1,15 @@
 @import "tailwindcss";
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-marca-400: #fb923c;
+  --color-marca-500: #f97316;
+  --color-marca-600: #ea580c;
+  --color-fundo: #0b0b0c;
+  --color-painel: #141416;
+  --color-painel-2: #1b1b1e;
+}
+
+html { color-scheme: dark; }
+body { @apply bg-fundo text-zinc-100 antialiased; }
+::selection { @apply bg-marca-500/30; }

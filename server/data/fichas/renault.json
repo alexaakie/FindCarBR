@@ -1,0 +1,1070 @@
+{
+  "marca": {
+    "nome": "Renault",
+    "pais": "França"
+  },
+  "modelos": [
+    {
+      "nome": "Kwid",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2017,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Zen 1.0",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B4D 1.0 SCe 12V",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 68,
+                "potencia_cv_etanol": 71,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 9.4,
+                "torque_kgfm_etanol": 10.0,
+                "torque_rpm": "4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 14.9,
+                "estrada_gasolina": 15.6,
+                "urbano_etanol": 10.3,
+                "estrada_etanol": 10.8
+              },
+              "dimensoes": {
+                "comprimento_mm": 3680,
+                "largura_mm": 1579,
+                "altura_mm": 1474,
+                "entre_eixos_mm": 2423,
+                "porta_malas_l": 290,
+                "tanque_l": 38,
+                "peso_kg": 788
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco sólido",
+                "traseiros": "Tambor"
+              },
+              "pneus": "165/70 R14"
+            },
+            {
+              "nome": "Intense 1.0",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B4D 1.0 SCe 12V",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 68,
+                "potencia_cv_etanol": 71,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 9.4,
+                "torque_kgfm_etanol": 10.0,
+                "torque_rpm": "4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 14.9,
+                "estrada_gasolina": 15.6,
+                "urbano_etanol": 10.3,
+                "estrada_etanol": 10.8
+              },
+              "dimensoes": {
+                "comprimento_mm": 3680,
+                "largura_mm": 1579,
+                "altura_mm": 1474,
+                "entre_eixos_mm": 2423,
+                "porta_malas_l": 290,
+                "tanque_l": 38,
+                "peso_kg": 798
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco sólido",
+                "traseiros": "Tambor"
+              },
+              "pneus": "165/70 R14"
+            },
+            {
+              "nome": "Outsider 1.0",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B4D 1.0 SCe 12V",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 68,
+                "potencia_cv_etanol": 71,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 9.4,
+                "torque_kgfm_etanol": 10.0,
+                "torque_rpm": "4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 14.6,
+                "estrada_gasolina": 15.3,
+                "urbano_etanol": 10.1,
+                "estrada_etanol": 10.6
+              },
+              "dimensoes": {
+                "comprimento_mm": 3680,
+                "largura_mm": 1579,
+                "altura_mm": 1474,
+                "entre_eixos_mm": 2423,
+                "porta_malas_l": 290,
+                "tanque_l": 38,
+                "peso_kg": 805
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco sólido",
+                "traseiros": "Tambor"
+              },
+              "pneus": "165/70 R14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Kwid E-Tech",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Elétrico",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 65,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 11.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 26.8,
+                "autonomia_km": null,
+                "recarga_dc_kw": 30
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": 290,
+                "tanque_l": null,
+                "peso_kg": 977
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco sólido",
+                "traseiros": "Tambor"
+              },
+              "pneus": "165/70 R14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Duster",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (Brasil)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Intense 1.6 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H4M 1.6 SCe 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.2,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4376,
+                "largura_mm": 1832,
+                "altura_mm": 1693,
+                "entre_eixos_mm": 2676,
+                "porta_malas_l": 475,
+                "tanque_l": 50,
+                "peso_kg": 1290
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/65 R16"
+            },
+            {
+              "nome": "Iconic 1.3 Turbo CVT",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H5Ht 1.3 TCe",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 163,
+                "potencia_cv_etanol": 170,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4376,
+                "largura_mm": 1832,
+                "altura_mm": 1693,
+                "entre_eixos_mm": 2676,
+                "porta_malas_l": 475,
+                "tanque_l": 50,
+                "peso_kg": 1330
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/60 R17"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2011,
+          "ano_fim": 2020,
+          "versoes": [
+            {
+              "nome": "Dynamique 2.0 AT",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "F4R 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 142,
+                "potencia_cv_etanol": 148,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 20.2,
+                "torque_kgfm_etanol": 20.9,
+                "torque_rpm": "3750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4315,
+                "largura_mm": 1822,
+                "altura_mm": 1695,
+                "entre_eixos_mm": 2673,
+                "porta_malas_l": 475,
+                "tanque_l": 50,
+                "peso_kg": 1250
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/65 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Oroch",
+      "categoria": "Picape",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2015,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Pro 1.6 MT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H4M 1.6 SCe 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.2,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4700,
+                "largura_mm": 1821,
+                "altura_mm": 1694,
+                "entre_eixos_mm": 2829,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": 1250
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/65 R16"
+            },
+            {
+              "nome": "Intense 1.6 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H4M 1.6 SCe 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.2,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4700,
+                "largura_mm": 1821,
+                "altura_mm": 1694,
+                "entre_eixos_mm": 2829,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": 1280
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/65 R16"
+            },
+            {
+              "nome": "Iconic 1.3 Turbo CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H5Ht 1.3 TCe",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 163,
+                "potencia_cv_etanol": 170,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4700,
+                "largura_mm": 1821,
+                "altura_mm": 1694,
+                "entre_eixos_mm": 2829,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": 1320
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Outsider 1.3 Turbo CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H5Ht 1.3 TCe",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 163,
+                "potencia_cv_etanol": 170,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4700,
+                "largura_mm": 1821,
+                "altura_mm": 1694,
+                "entre_eixos_mm": 2829,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": 1330
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Dynamique 2.0 MT",
+              "ano_modelo": 2018,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "F4R 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": 148,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 20.2,
+                "torque_kgfm_etanol": 20.9,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4700,
+                "largura_mm": 1821,
+                "altura_mm": 1694,
+                "entre_eixos_mm": 2829,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "215/65 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Kardian",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Evolution 1.0 Turbo EDC",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.0 TCe",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 125,
+                "potencia_rpm": "5000",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 22.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4122,
+                "largura_mm": 1747,
+                "altura_mm": 1544,
+                "entre_eixos_mm": 2604,
+                "porta_malas_l": 410,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Techno 1.0 Turbo EDC",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.0 TCe",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 125,
+                "potencia_rpm": "5000",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 22.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4122,
+                "largura_mm": 1747,
+                "altura_mm": 1544,
+                "entre_eixos_mm": 2604,
+                "porta_malas_l": 410,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Premiere Edition 1.0 Turbo EDC",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.0 TCe",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 125,
+                "potencia_rpm": "5000",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 22.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4122,
+                "largura_mm": 1747,
+                "altura_mm": 1544,
+                "entre_eixos_mm": 2604,
+                "porta_malas_l": 410,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Megane E-Tech",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Iconic",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 220,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 30.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 60.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": 130
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4200,
+                "largura_mm": 1768,
+                "altura_mm": 1505,
+                "entre_eixos_mm": 2685,
+                "porta_malas_l": 440,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Kangoo E-Tech",
+      "categoria": "Utilitário",
+      "geracoes": [
+        {
+          "nome": "3ª geração",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Furgão Elétrico",
+              "ano_modelo": 2025,
+              "carroceria": "Furgão",
+              "portas": 4,
+              "lugares": 2,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 45.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

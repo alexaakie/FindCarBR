@@ -1,0 +1,1155 @@
+{
+  "marca": {
+    "nome": "Hyundai",
+    "pais": "Coreia do Sul"
+  },
+  "modelos": [
+    {
+      "nome": "HB20",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2019,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Sense 1.0",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": 80,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 9.4,
+                "torque_kgfm_etanol": 10.2,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 13.3,
+                "estrada_gasolina": 15.1,
+                "urbano_etanol": 9.2,
+                "estrada_etanol": 10.6
+              },
+              "dimensoes": {
+                "comprimento_mm": 4015,
+                "largura_mm": 1720,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2530,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": 1035
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "175/70 R14"
+            },
+            {
+              "nome": "Comfort 1.0",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": 80,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 9.4,
+                "torque_kgfm_etanol": 10.2,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 13.3,
+                "estrada_gasolina": 15.1,
+                "urbano_etanol": 9.2,
+                "estrada_etanol": 10.6
+              },
+              "dimensoes": {
+                "comprimento_mm": 4015,
+                "largura_mm": 1720,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2530,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": 1045
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/65 R15"
+            },
+            {
+              "nome": "Comfort 1.0 TGDI AT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 17.5,
+                "torque_kgfm_etanol": 17.5,
+                "torque_rpm": "1500-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 12.1,
+                "estrada_gasolina": 14.1,
+                "urbano_etanol": 8.5,
+                "estrada_etanol": 9.9
+              },
+              "dimensoes": {
+                "comprimento_mm": 4015,
+                "largura_mm": 1720,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2530,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": 1110
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/65 R15"
+            },
+            {
+              "nome": "Platinum Plus 1.0 TGDI AT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 17.5,
+                "torque_kgfm_etanol": 17.5,
+                "torque_rpm": "1500-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 12.1,
+                "estrada_gasolina": 14.1,
+                "urbano_etanol": 8.5,
+                "estrada_etanol": 9.9
+              },
+              "dimensoes": {
+                "comprimento_mm": 4015,
+                "largura_mm": 1720,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2530,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": 1130
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "195/55 R16"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2012,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "Comfort Plus 1.0",
+              "ano_modelo": 2019,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": 80,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 9.4,
+                "torque_kgfm_etanol": 10.2,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3920,
+                "largura_mm": 1680,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": 965
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "175/70 R14"
+            },
+            {
+              "nome": "Premium 1.6 AT",
+              "ano_modelo": 2019,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 15.9,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3920,
+                "largura_mm": 1680,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": 1060
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/60 R15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "HB20S",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2019,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Comfort 1.0",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": 80,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 9.4,
+                "torque_kgfm_etanol": 10.2,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 13.1,
+                "estrada_gasolina": 15.3,
+                "urbano_etanol": 9.1,
+                "estrada_etanol": 10.7
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1720,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2530,
+                "porta_malas_l": 475,
+                "tanque_l": 50,
+                "peso_kg": 1065
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/65 R15"
+            },
+            {
+              "nome": "Comfort 1.0 TGDI AT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 17.5,
+                "torque_kgfm_etanol": 17.5,
+                "torque_rpm": "1500-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 12.0,
+                "estrada_gasolina": 14.3,
+                "urbano_etanol": 8.4,
+                "estrada_etanol": 10.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1720,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2530,
+                "porta_malas_l": 475,
+                "tanque_l": 50,
+                "peso_kg": 1130
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/65 R15"
+            },
+            {
+              "nome": "Platinum Plus 1.0 TGDI AT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 17.5,
+                "torque_kgfm_etanol": 17.5,
+                "torque_rpm": "1500-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 12.0,
+                "estrada_gasolina": 14.3,
+                "urbano_etanol": 8.4,
+                "estrada_etanol": 10.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1720,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2530,
+                "porta_malas_l": 475,
+                "tanque_l": 50,
+                "peso_kg": 1150
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "195/55 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Creta",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Comfort 1.0 TGDI",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 17.5,
+                "torque_kgfm_etanol": 17.5,
+                "torque_rpm": "1500-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.2,
+                "estrada_gasolina": 12.9,
+                "urbano_etanol": 7.8,
+                "estrada_etanol": 9.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1635,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 422,
+                "tanque_l": 50,
+                "peso_kg": 1255
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "205/65 R16"
+            },
+            {
+              "nome": "Limited 1.0 TGDI",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 17.5,
+                "torque_kgfm_etanol": 17.5,
+                "torque_rpm": "1500-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.2,
+                "estrada_gasolina": 12.9,
+                "urbano_etanol": 7.8,
+                "estrada_etanol": 9.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1635,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 422,
+                "tanque_l": 50,
+                "peso_kg": 1270
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Platinum 1.0 TGDI",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 17.5,
+                "torque_kgfm_etanol": 17.5,
+                "torque_rpm": "1500-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.2,
+                "estrada_gasolina": 12.9,
+                "urbano_etanol": 7.8,
+                "estrada_etanol": 9.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1635,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 422,
+                "tanque_l": 50,
+                "peso_kg": 1285
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Ultimate 1.6 TGDI",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Smartstream 1.6 T-GDI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 193,
+                "potencia_cv_etanol": 193,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 27.0,
+                "torque_kgfm_etanol": 27.0,
+                "torque_rpm": "1600-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1635,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 422,
+                "tanque_l": 50,
+                "peso_kg": 1350
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/55 R18"
+            },
+            {
+              "nome": "N Line 1.6 TGDI",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Smartstream 1.6 T-GDI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 193,
+                "potencia_cv_etanol": 193,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 27.0,
+                "torque_kgfm_etanol": 27.0,
+                "torque_rpm": "1600-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1635,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 422,
+                "tanque_l": 50,
+                "peso_kg": 1350
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/55 R18"
+            },
+            {
+              "nome": "Ultimate 2.0",
+              "ano_modelo": 2023,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Smartstream 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 160,
+                "potencia_cv_etanol": 167,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 20.0,
+                "torque_kgfm_etanol": 20.6,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4330,
+                "largura_mm": 1790,
+                "altura_mm": 1635,
+                "entre_eixos_mm": 2610,
+                "porta_malas_l": 422,
+                "tanque_l": 50,
+                "peso_kg": 1340
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/55 R18"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2016,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "Prestige 2.0 AT",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Nu 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 156,
+                "potencia_cv_etanol": 166,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 19.1,
+                "torque_kgfm_etanol": 20.5,
+                "torque_rpm": "4700"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4270,
+                "largura_mm": 1780,
+                "altura_mm": 1630,
+                "entre_eixos_mm": 2590,
+                "porta_malas_l": 431,
+                "tanque_l": 55,
+                "peso_kg": 1390
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Pulse 1.6 AT",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 123,
+                "potencia_cv_etanol": 130,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 16.0,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4270,
+                "largura_mm": 1780,
+                "altura_mm": 1630,
+                "entre_eixos_mm": 2590,
+                "porta_malas_l": 431,
+                "tanque_l": 55,
+                "peso_kg": 1305
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "205/65 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Kona",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (SX2)",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Hybrid Ultimate",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Smartstream 1.6 GDI Hybrid",
+                "cilindrada_cc": 1580,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 141,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4350,
+                "largura_mm": 1825,
+                "altura_mm": 1580,
+                "entre_eixos_mm": 2660,
+                "porta_malas_l": null,
+                "tanque_l": 38,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/55 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Ioniq 5",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (NE)",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "AWD",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": null,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4635,
+                "largura_mm": 1890,
+                "altura_mm": 1647,
+                "entre_eixos_mm": 3000,
+                "porta_malas_l": 527,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "255/45 R20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

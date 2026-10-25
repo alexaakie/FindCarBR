@@ -1,0 +1,1289 @@
+{
+  "marca": {
+    "nome": "Toyota",
+    "pais": "Japão"
+  },
+  "modelos": [
+    {
+      "nome": "Corolla",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "12ª geração (E210)",
+          "ano_inicio": 2019,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GLi 2.0",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M20A-FKS 2.0 Dynamic Force",
+                "cilindrada_cc": 1987,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 169,
+                "potencia_cv_etanol": 177,
+                "potencia_rpm": "6600",
+                "torque_kgfm": 21.4,
+                "torque_kgfm_etanol": 21.4,
+                "torque_rpm": "4400-4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.6,
+                "estrada_gasolina": 13.9,
+                "urbano_etanol": 8.1,
+                "estrada_etanol": 9.7
+              },
+              "dimensoes": {
+                "comprimento_mm": 4630,
+                "largura_mm": 1780,
+                "altura_mm": 1455,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 470,
+                "tanque_l": 50,
+                "peso_kg": 1360
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "205/55 R16"
+            },
+            {
+              "nome": "XEi 2.0",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M20A-FKS 2.0 Dynamic Force",
+                "cilindrada_cc": 1987,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 169,
+                "potencia_cv_etanol": 177,
+                "potencia_rpm": "6600",
+                "torque_kgfm": 21.4,
+                "torque_kgfm_etanol": 21.4,
+                "torque_rpm": "4400-4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.6,
+                "estrada_gasolina": 13.9,
+                "urbano_etanol": 8.1,
+                "estrada_etanol": 9.7
+              },
+              "dimensoes": {
+                "comprimento_mm": 4630,
+                "largura_mm": 1780,
+                "altura_mm": 1455,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 470,
+                "tanque_l": 50,
+                "peso_kg": 1375
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/45 R17"
+            },
+            {
+              "nome": "GR-Sport 2.0",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M20A-FKS 2.0 Dynamic Force",
+                "cilindrada_cc": 1987,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 169,
+                "potencia_cv_etanol": 177,
+                "potencia_rpm": "6600",
+                "torque_kgfm": 21.4,
+                "torque_kgfm_etanol": 21.4,
+                "torque_rpm": "4400-4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.4,
+                "estrada_gasolina": 13.6,
+                "urbano_etanol": 7.9,
+                "estrada_etanol": 9.5
+              },
+              "dimensoes": {
+                "comprimento_mm": 4630,
+                "largura_mm": 1780,
+                "altura_mm": 1455,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 470,
+                "tanque_l": 50,
+                "peso_kg": 1390
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/40 R18"
+            },
+            {
+              "nome": "Altis Premium Hybrid",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2ZR-FXE 1.8 Hybrid",
+                "cilindrada_cc": 1798,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Híbrido Flex",
+                "potencia_cv": 98,
+                "potencia_cv_etanol": 101,
+                "potencia_rpm": "5200",
+                "torque_kgfm": 14.5,
+                "torque_kgfm_etanol": 14.5,
+                "torque_rpm": "3600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 17.4,
+                "estrada_gasolina": 15.0,
+                "urbano_etanol": 12.0,
+                "estrada_etanol": 10.6
+              },
+              "dimensoes": {
+                "comprimento_mm": 4630,
+                "largura_mm": 1780,
+                "altura_mm": 1455,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 470,
+                "tanque_l": 43,
+                "peso_kg": 1420
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/45 R17"
+            }
+          ]
+        },
+        {
+          "nome": "11ª geração (E170)",
+          "ano_inicio": 2014,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "XEi 2.0",
+              "ano_modelo": 2019,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3ZR-FBE 2.0 Dual VVT-i",
+                "cilindrada_cc": 1987,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": 154,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 19.4,
+                "torque_kgfm_etanol": 20.7,
+                "torque_rpm": "4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 10.6,
+                "estrada_gasolina": 12.6,
+                "urbano_etanol": 7.4,
+                "estrada_etanol": 8.8
+              },
+              "dimensoes": {
+                "comprimento_mm": 4620,
+                "largura_mm": 1775,
+                "altura_mm": 1475,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 470,
+                "tanque_l": 60,
+                "peso_kg": 1300
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "205/55 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Corolla Cross",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "XR 2.0",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M20A-FKS 2.0 Dynamic Force",
+                "cilindrada_cc": 1987,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 169,
+                "potencia_cv_etanol": 177,
+                "potencia_rpm": "6600",
+                "torque_kgfm": 21.4,
+                "torque_kgfm_etanol": 21.4,
+                "torque_rpm": "4400-4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.0,
+                "estrada_gasolina": 12.9,
+                "urbano_etanol": 7.6,
+                "estrada_etanol": 9.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4460,
+                "largura_mm": 1825,
+                "altura_mm": 1620,
+                "entre_eixos_mm": 2640,
+                "porta_malas_l": 440,
+                "tanque_l": 47,
+                "peso_kg": 1385
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "XRE 2.0",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M20A-FKS 2.0 Dynamic Force",
+                "cilindrada_cc": 1987,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 169,
+                "potencia_cv_etanol": 177,
+                "potencia_rpm": "6600",
+                "torque_kgfm": 21.4,
+                "torque_kgfm_etanol": 21.4,
+                "torque_rpm": "4400-4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 11.0,
+                "estrada_gasolina": 12.9,
+                "urbano_etanol": 7.6,
+                "estrada_etanol": 9.0
+              },
+              "dimensoes": {
+                "comprimento_mm": 4460,
+                "largura_mm": 1825,
+                "altura_mm": 1620,
+                "entre_eixos_mm": 2640,
+                "porta_malas_l": 440,
+                "tanque_l": 47,
+                "peso_kg": 1405
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "GR-Sport 2.0",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M20A-FKS 2.0 Dynamic Force",
+                "cilindrada_cc": 1987,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 169,
+                "potencia_cv_etanol": 177,
+                "potencia_rpm": "6600",
+                "torque_kgfm": 21.4,
+                "torque_kgfm_etanol": 21.4,
+                "torque_rpm": "4400-4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 10.8,
+                "estrada_gasolina": 12.7,
+                "urbano_etanol": 7.5,
+                "estrada_etanol": 8.8
+              },
+              "dimensoes": {
+                "comprimento_mm": 4460,
+                "largura_mm": 1825,
+                "altura_mm": 1620,
+                "entre_eixos_mm": 2640,
+                "porta_malas_l": 440,
+                "tanque_l": 47,
+                "peso_kg": 1420
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/50 R18"
+            },
+            {
+              "nome": "XRX Hybrid",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2ZR-FXE 1.8 Hybrid",
+                "cilindrada_cc": 1798,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Híbrido Flex",
+                "potencia_cv": 98,
+                "potencia_cv_etanol": 101,
+                "potencia_rpm": "5200",
+                "torque_kgfm": 14.5,
+                "torque_kgfm_etanol": 14.5,
+                "torque_rpm": "3600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 17.4,
+                "estrada_gasolina": 14.6,
+                "urbano_etanol": 12.0,
+                "estrada_etanol": 10.2
+              },
+              "dimensoes": {
+                "comprimento_mm": 4460,
+                "largura_mm": 1825,
+                "altura_mm": 1620,
+                "entre_eixos_mm": 2640,
+                "porta_malas_l": 440,
+                "tanque_l": 36,
+                "peso_kg": 1450
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/50 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Hilux",
+      "categoria": "Picape",
+      "geracoes": [
+        {
+          "nome": "8ª geração (AN120)",
+          "ano_inicio": 2016,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "SR 2.8 4x4 Cabine Dupla MT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1GD-FTV 2.8 Turbo Diesel",
+                "cilindrada_cc": 2755,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3400",
+                "torque_kgfm": 42.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-2800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5325,
+                "largura_mm": 1855,
+                "altura_mm": 1815,
+                "entre_eixos_mm": 3085,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": 2075
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "265/65 R17"
+            },
+            {
+              "nome": "SRV 2.8 4x4 Cabine Dupla AT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1GD-FTV 2.8 Turbo Diesel",
+                "cilindrada_cc": 2755,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3400",
+                "torque_kgfm": 50.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-2800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5325,
+                "largura_mm": 1855,
+                "altura_mm": 1815,
+                "entre_eixos_mm": 3085,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": 2140
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "265/60 R18"
+            },
+            {
+              "nome": "SRX Plus 2.8 4x4 Cabine Dupla AT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1GD-FTV 2.8 Turbo Diesel",
+                "cilindrada_cc": 2755,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3400",
+                "torque_kgfm": 50.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-2800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5325,
+                "largura_mm": 1855,
+                "altura_mm": 1815,
+                "entre_eixos_mm": 3085,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": 2160
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": null
+              },
+              "pneus": "265/60 R18"
+            },
+            {
+              "nome": "GR-Sport 2.8 4x4 Cabine Dupla AT",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1GD-FTV 2.8 Turbo Diesel",
+                "cilindrada_cc": 2755,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 224,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3400",
+                "torque_kgfm": 55.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-2800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5325,
+                "largura_mm": 1855,
+                "altura_mm": 1815,
+                "entre_eixos_mm": 3085,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": 2200
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": null
+              },
+              "pneus": "265/60 R18"
+            }
+          ]
+        },
+        {
+          "nome": "7ª geração (AN10)",
+          "ano_inicio": 2005,
+          "ano_fim": 2015,
+          "versoes": [
+            {
+              "nome": "SRV 3.0 4x4 Cabine Dupla AT",
+              "ano_modelo": 2015,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1KD-FTV 3.0 D-4D Turbo Diesel",
+                "cilindrada_cc": 2982,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 171,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3600",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5260,
+                "largura_mm": 1835,
+                "altura_mm": 1860,
+                "entre_eixos_mm": 3085,
+                "porta_malas_l": null,
+                "tanque_l": 76,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "265/65 R17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "SW4",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "3ª geração (AN150)",
+          "ano_inicio": 2016,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "SRX Platinum 2.8 4x4 7 lugares",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "1GD-FTV 2.8 Turbo Diesel",
+                "cilindrada_cc": 2755,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3400",
+                "torque_kgfm": 50.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-2800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4795,
+                "largura_mm": 1855,
+                "altura_mm": 1835,
+                "entre_eixos_mm": 2745,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": 2235
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com molas helicoidais"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "265/60 R18"
+            },
+            {
+              "nome": "GR-Sport 2.8 4x4 7 lugares",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "1GD-FTV 2.8 Turbo Diesel",
+                "cilindrada_cc": 2755,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 224,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3400",
+                "torque_kgfm": 55.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-2800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4795,
+                "largura_mm": 1855,
+                "altura_mm": 1835,
+                "entre_eixos_mm": 2745,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": 2260
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com molas helicoidais"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "265/60 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Yaris",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (Brasil)",
+          "ano_inicio": 2018,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "XL 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2NR-FBE 1.5 Dual VVT-iE",
+                "cilindrada_cc": 1496,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 105,
+                "potencia_cv_etanol": 110,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.3,
+                "torque_kgfm_etanol": 14.9,
+                "torque_rpm": "4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 12.7,
+                "estrada_gasolina": 14.6,
+                "urbano_etanol": 8.9,
+                "estrada_etanol": 10.2
+              },
+              "dimensoes": {
+                "comprimento_mm": 4145,
+                "largura_mm": 1730,
+                "altura_mm": 1500,
+                "entre_eixos_mm": 2550,
+                "porta_malas_l": 310,
+                "tanque_l": 45,
+                "peso_kg": 1075
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/60 R15"
+            },
+            {
+              "nome": "XLS 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2NR-FBE 1.5 Dual VVT-iE",
+                "cilindrada_cc": 1496,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 105,
+                "potencia_cv_etanol": 110,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.3,
+                "torque_kgfm_etanol": 14.9,
+                "torque_rpm": "4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 12.7,
+                "estrada_gasolina": 14.6,
+                "urbano_etanol": 8.9,
+                "estrada_etanol": 10.2
+              },
+              "dimensoes": {
+                "comprimento_mm": 4145,
+                "largura_mm": 1730,
+                "altura_mm": 1500,
+                "entre_eixos_mm": 2550,
+                "porta_malas_l": 310,
+                "tanque_l": 45,
+                "peso_kg": 1095
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "195/50 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Yaris Sedan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração (Brasil)",
+          "ano_inicio": 2018,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "XL 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2NR-FBE 1.5 Dual VVT-iE",
+                "cilindrada_cc": 1496,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 105,
+                "potencia_cv_etanol": 110,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.3,
+                "torque_kgfm_etanol": 14.9,
+                "torque_rpm": "4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 12.6,
+                "estrada_gasolina": 14.8,
+                "urbano_etanol": 8.8,
+                "estrada_etanol": 10.3
+              },
+              "dimensoes": {
+                "comprimento_mm": 4425,
+                "largura_mm": 1730,
+                "altura_mm": 1480,
+                "entre_eixos_mm": 2550,
+                "porta_malas_l": 473,
+                "tanque_l": 45,
+                "peso_kg": 1095
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/60 R15"
+            },
+            {
+              "nome": "XLS 1.5 CVT",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2NR-FBE 1.5 Dual VVT-iE",
+                "cilindrada_cc": 1496,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 105,
+                "potencia_cv_etanol": 110,
+                "potencia_rpm": "5600",
+                "torque_kgfm": 14.3,
+                "torque_kgfm_etanol": 14.9,
+                "torque_rpm": "4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 12.6,
+                "estrada_gasolina": 14.8,
+                "urbano_etanol": 8.8,
+                "estrada_etanol": 10.3
+              },
+              "dimensoes": {
+                "comprimento_mm": 4425,
+                "largura_mm": 1730,
+                "altura_mm": 1480,
+                "entre_eixos_mm": 2550,
+                "porta_malas_l": 473,
+                "tanque_l": 45,
+                "peso_kg": 1115
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "195/50 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "RAV4",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "5ª geração (XA50)",
+          "ano_inicio": 2019,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "SX Hybrid AWD",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "A25A-FXS 2.5 Hybrid",
+                "cilindrada_cc": 2487,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 222,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4600,
+                "largura_mm": 1855,
+                "altura_mm": 1685,
+                "entre_eixos_mm": 2690,
+                "porta_malas_l": 580,
+                "tanque_l": 55,
+                "peso_kg": 1745
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Duplo braço triangular"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/60 R18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
