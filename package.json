@@ -6,16 +6,16 @@
   "scripts": {
     "dev": "concurrently -n api,web -c yellow,cyan \"npm:api:dev\" \"vite\"",
     "web": "vite",
-    "api": "node --disable-warning=ExperimentalWarning --env-file-if-exists=.env server/index.js",
-    "api:dev": "node --disable-warning=ExperimentalWarning --env-file-if-exists=.env --watch-path=server server/index.js",
+    "api": "node --disable-warning=ExperimentalWarning server/index.js",
+    "api:dev": "node --disable-warning=ExperimentalWarning --watch-path=server server/index.js",
     "build": "vite build",
-    "start": "npm run build && node --disable-warning=ExperimentalWarning --env-file-if-exists=.env server/index.js",
+    "start": "npm run build && node --disable-warning=ExperimentalWarning server/index.js",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "node --disable-warning=ExperimentalWarning --test \"server/**/*.test.js\"",
     "db:validar": "node server/scripts/validar.js",
-    "db:popular": "node --disable-warning=ExperimentalWarning --env-file-if-exists=.env server/scripts/popular.js",
-    "db:fipe": "node --disable-warning=ExperimentalWarning --env-file-if-exists=.env server/scripts/importar-fipe.js"
+    "db:popular": "node --disable-warning=ExperimentalWarning server/scripts/popular.js",
+    "db:fipe": "node --disable-warning=ExperimentalWarning server/scripts/importar-fipe.js"
   },
   "dependencies": {
     "express": "^5.3.0",

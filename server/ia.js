@@ -1,10 +1,10 @@
 // Integração opcional com o Google Gemini, chamada apenas pelo servidor.
-const MODELO = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+const modelo = () => process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 
 export const iaDisponivel = () => Boolean(process.env.GEMINI_API_KEY);
 
 async function gerar(prompt, sistema) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODELO}:generateContent`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelo()}:generateContent`;
   const corpo = JSON.stringify({
     contents: [{ parts: [{ text: prompt }] }],
     systemInstruction: { parts: [{ text: sistema }] },

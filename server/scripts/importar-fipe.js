@@ -8,6 +8,7 @@
 //   FIPE_TOKEN=xxx npm run db:fipe        → token gratuito do fipe.online aumenta o limite diário
 //
 // É retomável: registros já importados no mês de referência atual são pulados.
+import '../env.js';
 import { abrirBanco, slugify, transacao } from '../db.js';
 
 const BASE = process.env.FIPE_API ?? 'https://fipe.parallelum.com.br/api/v2';

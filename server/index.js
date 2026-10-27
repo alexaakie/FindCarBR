@@ -1,4 +1,5 @@
 // API do FindCarBR. Uso: npm run api  (porta 3001 por padrão)
+import './env.js';
 import express from 'express';
 import { existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';

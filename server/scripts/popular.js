@@ -2,6 +2,7 @@
 // pode rodar de novo após editar os JSON — atualiza sem duplicar e preserva
 // versões marcadas como "verificado" e os dados FIPE já importados.
 // Uso: npm run db:popular
+import '../env.js';
 import { readFileSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
