@@ -128,10 +128,10 @@ export default function Comparar() {
         </div>
       </div>
 
-      {fichas.length >= 2 && (
+      {fichas.length >= 2 && est?.ia && (
         <section className="mt-8 rounded-3xl border border-white/5 bg-painel p-6">
           <h2 className="mb-4 text-sm font-bold uppercase tracking-wider text-zinc-300">Veredito</h2>
-          <AnaliseIA key={slugs} rotulo="Pedir veredito à IA" rota="/ia/comparar" corpo={{ slugs: fichas.map((f) => f.slug) }} disponivel={est?.ia} />
+          <AnaliseIA key={slugs} rotulo="Pedir veredito à IA" rota="/ia/comparar" corpo={{ slugs: fichas.map((f) => f.slug) }} disponivel />
         </section>
       )}
     </div>

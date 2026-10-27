@@ -160,9 +160,12 @@ export default function Versao() {
           ]} />
         </Secao>
 
-        <Secao titulo="Análise de especialista" icone={Sparkles}>
-          <AnaliseIA key={f.slug} rotulo="Gerar perfil desta versão" rota="/ia/analise" corpo={{ slug: f.slug }} disponivel={est?.ia} />
-        </Secao>
+        {/* A seção de IA só aparece quando o servidor tem GEMINI_API_KEY configurada */}
+        {est?.ia && (
+          <Secao titulo="Análise de especialista" icone={Sparkles}>
+            <AnaliseIA key={f.slug} rotulo="Gerar perfil desta versão" rota="/ia/analise" corpo={{ slug: f.slug }} disponivel />
+          </Secao>
+        )}
       </div>
 
       {f.fipe.length > 1 && (
