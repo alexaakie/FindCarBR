@@ -35,3 +35,19 @@ export const motorCurto = (v) =>
     .filter(Boolean).join(' ');
 
 export const nomeCompleto = (v) => `${v.marca} ${v.modelo} ${v.versao} ${v.ano_modelo}`;
+
+// "R$ 118 mil", "R$ 1,2 mi" — para cards e listas
+export function reaisCurto(v) {
+  if (v == null) return null;
+  if (v >= 1_000_000) return `R$ ${num(v / 1_000_000, 1)} mi`;
+  if (v >= 1000) return `R$ ${num(Math.round(v / 1000))} mil`;
+  return reais(v);
+}
+
+export function faixaPreco(min, max) {
+  if (!min && !max) return null;
+  if (!max || min === max) return reaisCurto(min ?? max);
+  return `${reaisCurto(min)} a ${reaisCurto(max)}`;
+}
+
+export const anoFipe = (a) => (a === 32000 ? '0 km' : a);

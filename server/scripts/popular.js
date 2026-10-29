@@ -3,13 +3,30 @@
 // versões marcadas como "verificado" e os dados FIPE já importados.
 // Uso: npm run db:popular
 import '../env.js';
-import { readFileSync, readdirSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { abrirBanco, slugify, transacao, DB_PATH } from '../db.js';
 import { validarArquivo } from './validar.js';
+import { vincularFipe } from '../fipe-vinculo.js';
 
 const DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'fichas');
+export const FOTOS = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'fotos.json');
+
+// fotos.json: { "marca-slug/modelo-slug": { url, autor, licenca, pagina } } (gerado por npm run db:fotos)
+export function carregarFotos(db, arquivo = FOTOS) {
+  if (!existsSync(arquivo)) return 0;
+  const fotos = JSON.parse(readFileSync(arquivo, 'utf8'));
+  const up = db.prepare(`UPDATE modelos SET foto_url = ?, foto_autor = ?, foto_licenca = ?, foto_pagina = ?
+    WHERE slug = ? AND marca_id = (SELECT id FROM marcas WHERE slug = ?)`);
+  let n = 0;
+  for (const [chave, f] of Object.entries(fotos)) {
+    if (!f?.url) continue;
+    const [marca, modelo] = chave.split('/');
+    n += Number(up.run(f.url, f.autor ?? null, f.licenca ?? null, f.pagina ?? null, modelo, marca).changes);
+  }
+  return n;
+}
 
 export function popular(db, dir = DIR) {
   const arquivos = readdirSync(dir).filter((f) => f.endsWith('.json')).sort();
@@ -34,6 +51,7 @@ export function popular(db, dir = DIR) {
     'suspensao_dianteira', 'suspensao_traseira', 'freios_dianteiros', 'freios_traseiros', 'pneus'];
   const upFicha = db.prepare(`INSERT OR REPLACE INTO fichas (versao_id, ${colunas.join(', ')})
     VALUES (?, ${colunas.map(() => '?').join(', ')})`);
+  const setFipe = db.prepare('UPDATE versoes SET fipe_codigo = ?, fipe_auto = 0 WHERE id = ?');
   const delBusca = db.prepare('DELETE FROM busca WHERE versao_id = ?');
   const insBusca = db.prepare('INSERT INTO busca (texto, versao_id) VALUES (?, ?)');
 
@@ -67,6 +85,7 @@ export function popular(db, dir = DIR) {
               n(co.urbano_gasolina), n(co.estrada_gasolina), n(co.urbano_etanol), n(co.estrada_etanol),
               n(di.comprimento_mm), n(di.largura_mm), n(di.altura_mm), n(di.entre_eixos_mm), n(di.porta_malas_l), n(di.tanque_l), n(di.peso_kg),
               n(su.dianteira), n(su.traseira), n(fr.dianteiros), n(fr.traseiros), n(v.pneus));
+            if (v.fipe_codigo) setFipe.run(String(v.fipe_codigo), versaoId);
             delBusca.run(versaoId);
             insBusca.run([dados.marca.nome, m.nome, v.nome, g.nome, m.categoria, mo.codigo, mo.combustivel, v.ano_modelo]
               .filter(Boolean).join(' '), versaoId);
@@ -76,7 +95,9 @@ export function popular(db, dir = DIR) {
       }
     }
   });
-  return { arquivos: arquivos.length, versoes: totalVersoes };
+  const fotos = carregarFotos(db);
+  const fipe = vincularFipe(db);
+  return { arquivos: arquivos.length, versoes: totalVersoes, fotos, fipe_vinculadas: fipe.vinculadas };
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
@@ -86,4 +107,5 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     (SELECT count(*) FROM versoes) versoes, (SELECT count(*) FROM fipe_veiculos) fipe`).get();
   console.log(`✓ ${r.versoes} versões carregadas de ${r.arquivos} arquivos → ${DB_PATH}`);
   console.log(`  Banco: ${c.marcas} marcas, ${c.modelos} modelos, ${c.versoes} versões, ${c.fipe} registros FIPE`);
+  console.log(`  ${r.fotos} modelos com foto · ${r.fipe_vinculadas} versões ligadas a um preço FIPE`);
 }

@@ -10,6 +10,9 @@ import { fileURLToPath } from 'node:url';
 import { abrirBanco } from './db.js';
 import { popular } from './scripts/popular.js';
 import { criarApp } from './index.js';
+import { pontuar } from './fipe-vinculo.js';
+import { carregarFotos } from './scripts/popular.js';
+import { writeFileSync } from 'node:fs';
 
 const AQUI = dirname(fileURLToPath(import.meta.url));
 let servidor, base, db, tmp;
@@ -103,5 +106,29 @@ test('importação FIPE com API simulada', async () => {
   assert.equal(v.valor, 118990);
   assert.equal(v.slug, 'volkswagen'); // ligado à marca existente, não duplicado
   assert.equal(d.prepare("SELECT count(*) n FROM busca_fipe WHERE busca_fipe MATCH 'polo*'").get().n, 1);
+  // vínculo automático: a ficha do Polo Highline 2025 recebe o código e o preço FIPE
+  const polo = d.prepare(`SELECT v.fipe_codigo, v.fipe_auto FROM versoes v JOIN modelos mo ON mo.id = v.modelo_id
+    WHERE mo.slug = 'polo' AND v.nome LIKE 'Highline%' AND v.ano_modelo = 2025`).get();
+  assert.equal(polo?.fipe_codigo, '005540-0');
+  assert.equal(polo.fipe_auto, 1);
+  const app = criarApp(d).listen(0);
+  await new Promise((r) => app.once('listening', r));
+  const lista = await (await fetch(`http://localhost:${app.address().port}/api/versoes?q=polo%20highline&ordem=preco_asc`)).json();
+  assert.equal(lista.itens.find((v) => v.ano_modelo === 2025)?.preco, 118990);
+  app.close();
   d.close();
+});
+
+test('pontuação FIPE distingue modelos parecidos', () => {
+  const onix = { modelo: 'Onix', versao: 'LT 1.0 Turbo', cilindrada_cc: 999, cambio: 'Manual' };
+  const plus = { ...onix, modelo: 'Onix Plus' };
+  assert.equal(pontuar(plus, 'ONIX HATCH LT 1.0 12V TB Flex 5p Mec.'), -1);
+  assert.ok(pontuar(onix, 'ONIX HATCH LT 1.0 12V TB Flex 5p Mec.') > pontuar(onix, 'ONIX HATCH LT 1.0 12V TB Flex 5p Aut.'));
+});
+
+test('fotos.json é aplicado aos modelos', () => {
+  const arq = join(tmp, 'fotos.json');
+  writeFileSync(arq, JSON.stringify({ 'volkswagen/polo': { url: 'https://upload.wikimedia.org/x.jpg', autor: 'Fulano', licenca: 'CC BY-SA 4.0', pagina: 'https://commons.wikimedia.org/wiki/File:x.jpg' } }));
+  assert.equal(carregarFotos(db, arq), 1);
+  assert.equal(db.prepare("SELECT foto_autor FROM modelos WHERE slug = 'polo'").get().foto_autor, 'Fulano');
 });

@@ -1,11 +1,14 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { Scale, Trophy, X } from 'lucide-react';
+import { Trophy, X } from 'lucide-react';
 import { useApi } from '../lib/api.js';
 import { useComparador } from '../lib/comparador.jsx';
-import { cambioTexto, com, nomeCompleto, potencia, reais, torque } from '../lib/formato.js';
+import { cambioTexto, com, nomeCompleto, num, potencia, reais, torque } from '../lib/formato.js';
 import AnaliseIA from '../components/AnaliseIA.jsx';
-import { Carregando, Erro, StatusDados, Vazio } from '../components/ui.jsx';
+import FotoCarro from '../components/FotoCarro.jsx';
+import { usePreferencias } from '../lib/preferencias.jsx';
+import { custoPorKm, ipvaAnual, IPVA_UF } from '../lib/custos.js';
+import { Carregando, Erro, Migalhas, StatusDados, Vazio } from '../components/ui.jsx';
 
 // [rótulo, extrator de valor numérico (para destacar o melhor), formatador, melhor = 'max' | 'min']
 const GRUPOS = [
@@ -40,7 +43,7 @@ const GRUPOS = [
     ['Peso', (f) => f.dimensoes.peso_kg, (f) => com(f.dimensoes.peso_kg, 'kg')],
   ]],
   ['Preço', [
-    ['FIPE (mais recente)', (f) => f.fipe[0]?.valor, (f) => reais(f.fipe[0]?.valor), 'min'],
+    ['Preço FIPE', (f) => f.preco, (f) => reais(f.preco), 'min'],
   ]],
 ];
 
@@ -56,6 +59,8 @@ function melhorIndice(fichas, extrair, criterio) {
 export default function Comparar() {
   const [params, setParams] = useSearchParams();
   const { itens, alternar } = useComparador();
+  const { pref } = usePreferencias();
+  const [soDiferencas, setSoDiferencas] = useState(false);
   const slugsUrl = params.get('v');
   const slugs = slugsUrl ?? itens.map((i) => i.slug).join(',');
 
@@ -73,10 +78,11 @@ export default function Comparar() {
 
   if (!slugs) {
     return (
-      <div className="mx-auto max-w-3xl px-4 pt-8">
-        <h1 className="text-3xl font-black tracking-tight">Comparador</h1>
+      <div className="mx-auto max-w-3xl px-4 pt-6">
+        <Migalhas itens={[['Comparador']]} />
+        <h1 className="mb-6 mt-2 text-3xl font-black">Comparador</h1>
         <Vazio titulo="Nenhuma versão selecionada">
-          Use o botão <b>+</b> nos cards do <Link to="/catalogo" className="text-marca-400 underline">catálogo</Link> para escolher até 4 versões.
+          Use o botão <b>Comparar</b> nos cards do <Link to="/catalogo" className="font-semibold text-marca-600 underline">catálogo</Link> para escolher até 4 versões.
         </Vazio>
       </div>
     );
@@ -84,53 +90,79 @@ export default function Comparar() {
   if (erro) return <Erro erro={erro} />;
   if (carregando || !fichas) return <Carregando />;
 
-  const colunas = `minmax(150px, 1fr) repeat(${fichas.length}, minmax(180px, 1fr))`;
-  return (
-    <div className="mx-auto max-w-7xl px-4 pt-8 sm:px-6">
-      <h1 className="flex items-center gap-3 text-3xl font-black tracking-tight"><Scale className="text-marca-500" /> Comparador</h1>
-      <p className="mt-1 text-sm text-zinc-500">O melhor valor de cada linha fica destacado. Copie o link para compartilhar este comparativo.</p>
+  const pctIpva = pref.ipva_pct ?? IPVA_UF[pref.uf];
+  const custoMin = (f) => Math.min(...custoPorKm(f, pref).map((o) => o.custoKm));
+  const grupos = [...GRUPOS, ['Custos estimados', [
+    ['Custo por km', (f) => (Number.isFinite(custoMin(f)) ? custoMin(f) : null), (f) => (Number.isFinite(custoMin(f)) ? `R$ ${num(custoMin(f), 2)}` : '—'), 'min'],
+    [`Combustível por mês (${num(pref.km_mes)} km)`, (f) => (Number.isFinite(custoMin(f)) ? custoMin(f) * pref.km_mes : null), (f) => (Number.isFinite(custoMin(f)) ? reais(custoMin(f) * pref.km_mes) : '—'), 'min'],
+    [`IPVA (${pref.uf}, ${num(pctIpva, 2)}%)`, (f) => ipvaAnual(f.preco, pctIpva), (f) => reais(ipvaAnual(f.preco, pctIpva)), 'min'],
+  ]]];
 
-      <div className="mt-8 overflow-x-auto rounded-3xl border border-white/5 bg-painel">
+  const colunas = `minmax(140px, 0.8fr) repeat(${fichas.length}, minmax(190px, 1fr))`;
+  return (
+    <div className="mx-auto max-w-7xl px-4 pt-6 sm:px-6">
+      <Migalhas itens={[['Comparador']]} />
+      <div className="mt-2 flex flex-wrap items-end justify-between gap-3">
+        <div>
+          <h1 className="text-3xl font-black">Comparador</h1>
+          <p className="text-sm text-tinta-2">O melhor valor de cada linha fica em verde. O link desta página guarda o comparativo.</p>
+        </div>
+        <label className="flex items-center gap-2 text-sm font-semibold">
+          <input type="checkbox" className="h-4 w-4 accent-[var(--color-marca-600)]" checked={soDiferencas} onChange={(e) => setSoDiferencas(e.target.checked)} />
+          Mostrar só as diferenças
+        </label>
+      </div>
+
+      <div className="cartao mt-5 overflow-x-auto">
         <div className="min-w-fit">
-          <div className="sticky top-0 grid border-b border-white/5 bg-painel-2" style={{ gridTemplateColumns: colunas }}>
-            <div />
+          <div className="grid border-b border-borda" style={{ gridTemplateColumns: colunas }}>
+            <div className="flex items-end p-4 text-xs text-tinta-3">{fichas.length} de 4 versões</div>
             {fichas.map((f) => (
-              <div key={f.slug} className="relative p-4">
-                <button onClick={() => remover(f)} className="absolute right-2 top-2 rounded-lg p-1 text-zinc-600 hover:bg-white/10 hover:text-white" aria-label={`Remover ${nomeCompleto(f)}`}><X size={14} /></button>
-                <p className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">{f.marca} · {f.ano_modelo}</p>
-                <Link to={`/versao/${f.slug}`} className="block text-lg font-extrabold leading-tight hover:text-marca-400">{f.modelo}</Link>
-                <p className="text-sm font-semibold text-marca-400">{f.versao}</p>
-                <div className="mt-2"><StatusDados status={f.status_dados} compacto /></div>
+              <div key={f.slug} className="relative border-l border-borda p-3">
+                <button onClick={() => remover(f)} className="absolute right-4 top-4 z-10 rounded-md bg-painel/90 p-1 text-tinta-2 shadow hover:text-tinta" aria-label={`Remover ${nomeCompleto(f)}`}><X size={14} /></button>
+                <FotoCarro foto={f.foto} categoria={f.categoria} alt={`${f.marca} ${f.modelo}`} className="rounded-lg" />
+                <p className="rotulo mt-3">{f.marca} · {f.ano_modelo}</p>
+                <Link to={`/versao/${f.slug}`} className="block text-lg font-black leading-tight hover:text-marca-600">{f.modelo}</Link>
+                <p className="text-sm font-semibold text-marca-700">{f.versao}</p>
+                <div className="mt-2 flex items-center justify-between gap-2">
+                  <span className="font-titulo text-lg font-black">{f.preco ? reais(f.preco) : <span className="text-sm font-semibold text-tinta-3">sem preço FIPE</span>}</span>
+                  <StatusDados status={f.status_dados} compacto />
+                </div>
               </div>
             ))}
           </div>
-          {GRUPOS.map(([grupo, linhas]) => (
-            <div key={grupo}>
-              <div className="border-b border-white/5 bg-white/[0.02] px-4 py-2 text-[11px] font-bold uppercase tracking-wider text-zinc-500">{grupo}</div>
-              {linhas.map(([rotulo, extrair, formatar, criterio]) => {
-                const melhor = melhorIndice(fichas, extrair, criterio);
-                return (
-                  <div key={rotulo} className="grid border-b border-white/5 text-sm last:border-0" style={{ gridTemplateColumns: colunas }}>
-                    <div className="px-4 py-2.5 text-zinc-500">{rotulo}</div>
-                    {fichas.map((f, i) => {
-                      const txt = formatar(f);
-                      return (
-                        <div key={f.slug} className={`flex items-center gap-1.5 px-4 py-2.5 font-semibold ${i === melhor ? 'text-emerald-400' : txt === '—' ? 'text-zinc-700' : ''}`}>
-                          {i === melhor && <Trophy size={12} />} {txt}
-                        </div>
-                      );
-                    })}
-                  </div>
-                );
-              })}
-            </div>
-          ))}
+          {grupos.map(([grupo, linhas]) => {
+            const visiveis = linhas.filter(([, , formatar]) => !soDiferencas || new Set(fichas.map(formatar)).size > 1);
+            if (!visiveis.length) return null;
+            return (
+              <div key={grupo}>
+                <div className="border-b border-borda bg-painel-2 px-4 py-2 text-[12px] font-bold uppercase tracking-wide">{grupo}</div>
+                {visiveis.map(([rotulo, extrair, formatar, criterio]) => {
+                  const melhor = melhorIndice(fichas, extrair, criterio);
+                  return (
+                    <div key={rotulo} className="grid border-b border-borda text-sm last:border-0 hover:bg-painel-2/60" style={{ gridTemplateColumns: colunas }}>
+                      <div className="px-4 py-2.5 text-tinta-2">{rotulo}</div>
+                      {fichas.map((f, i) => {
+                        const txt = formatar(f);
+                        return (
+                          <div key={f.slug} className={`flex items-center gap-1.5 border-l border-borda px-4 py-2.5 font-semibold ${i === melhor ? 'bg-ok-50 text-ok' : txt === '—' ? 'font-normal text-tinta-3' : ''}`}>
+                            {i === melhor && <Trophy size={12} />} {txt}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  );
+                })}
+              </div>
+            );
+          })}
         </div>
       </div>
+      <p className="mt-2 text-xs text-tinta-3">Custos usam os preços de combustível e o estado escolhidos na calculadora da página de cada versão.</p>
 
       {fichas.length >= 2 && est?.ia && (
-        <section className="mt-8 rounded-3xl border border-white/5 bg-painel p-6">
-          <h2 className="mb-4 text-sm font-bold uppercase tracking-wider text-zinc-300">Veredito</h2>
+        <section className="cartao mt-8 p-6">
+          <h2 className="mb-4 text-lg font-extrabold uppercase">Veredito</h2>
           <AnaliseIA key={slugs} rotulo="Pedir veredito à IA" rota="/ia/comparar" corpo={{ slugs: fichas.map((f) => f.slug) }} disponivel />
         </section>
       )}

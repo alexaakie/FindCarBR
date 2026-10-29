@@ -22,6 +22,12 @@ npm run db:fipe                               # tudo (demorado; é retomável)
 npm run db:fipe -- --sem-precos               # só marcas/modelos/anos, bem mais rápido
 ```
 
+Para buscar fotos com licença livre (Wikimedia Commons) de cada modelo:
+
+```bash
+npm run db:fotos          # grava server/data/fotos.json — revise antes de commitar
+```
+
 Produção: `npm start` compila o site e serve site + API na mesma porta.
 
 ## Arquitetura
@@ -36,6 +42,8 @@ server/
   scripts/validar.js    valida os JSON (enums, faixas plausíveis, duplicatas)
   scripts/popular.js    carrega os JSON no banco (idempotente)
   scripts/importar-fipe.js  importa a Tabela FIPE da API pública
+  scripts/buscar-fotos.js   fotos livres da Wikipédia/Commons → data/fotos.json
+  fipe-vinculo.js       liga cada versão ao código FIPE correspondente (automático)
 src/
   pages/                Início, Catálogo, Marcas/Marca/Modelo, Versão, Comparar, FIPE
   components/           layout, cards, estados de carregamento/erro, análise IA
@@ -60,6 +68,10 @@ src/
   **não** copiadas de outros sites. Todas entram como **“a verificar”**; campos sem dado confiável ficam vazios.
 - Para corrigir ou ampliar: edite o JSON da marca, rode `npm run db:validar` e `npm run db:popular`.
   Ao conferir uma versão com a fonte oficial, adicione `"status_dados": "verificado"` nela.
+- Cada versão é ligada automaticamente ao código FIPE mais parecido. Para fixar à mão, adicione
+  `"fipe_codigo": "005540-0"` na versão, no JSON da marca.
+- Fotos: imagem principal do artigo da Wikipédia, só quando a licença é livre (CC/domínio público),
+  sempre com crédito ao autor. Para trocar, edite `fotos.json` e marque a entrada com `"manual": true`.
 - A Tabela FIPE vem da API pública em <https://deividfortuna.github.io/fipe/>.
 
 ## Testes

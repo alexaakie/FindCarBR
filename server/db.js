@@ -24,6 +24,10 @@ CREATE TABLE IF NOT EXISTS modelos (
   nome          TEXT NOT NULL,
   slug          TEXT NOT NULL,
   categoria     TEXT,
+  foto_url      TEXT,               -- foto com licença livre (Wikimedia Commons), ver data/fotos.json
+  foto_autor    TEXT,
+  foto_licenca  TEXT,
+  foto_pagina   TEXT,
   UNIQUE (marca_id, slug)
 );
 
@@ -47,6 +51,7 @@ CREATE TABLE IF NOT EXISTS versoes (
   portas        INTEGER,
   lugares       INTEGER,
   fipe_codigo   TEXT,
+  fipe_auto     INTEGER NOT NULL DEFAULT 0,   -- 1 = código FIPE escolhido pelo vínculo automático
   status_dados  TEXT NOT NULL DEFAULT 'verificar' CHECK (status_dados IN ('verificar','verificado')),
   atualizado_em TEXT NOT NULL DEFAULT (datetime('now')),
   UNIQUE (modelo_id, nome, ano_modelo)
@@ -138,11 +143,26 @@ export function slugify(s) {
     .toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
+// Colunas adicionadas depois da primeira versão do schema: bancos antigos ganham as colunas
+const MIGRACOES = [
+  ['modelos', 'foto_url', 'TEXT'], ['modelos', 'foto_autor', 'TEXT'],
+  ['modelos', 'foto_licenca', 'TEXT'], ['modelos', 'foto_pagina', 'TEXT'],
+  ['versoes', 'fipe_auto', 'INTEGER NOT NULL DEFAULT 0'],
+];
+
+function migrar(db) {
+  for (const [tabela, coluna, tipo] of MIGRACOES) {
+    const existe = db.prepare(`SELECT 1 FROM pragma_table_info('${tabela}') WHERE name = ?`).get(coluna);
+    if (!existe) db.exec(`ALTER TABLE ${tabela} ADD COLUMN ${coluna} ${tipo}`);
+  }
+}
+
 export function abrirBanco(caminho = DB_PATH) {
   if (caminho !== ':memory:') mkdirSync(dirname(caminho), { recursive: true });
   const db = new DatabaseSync(caminho);
   db.exec('PRAGMA journal_mode = WAL;');
   db.exec(SCHEMA);
+  migrar(db);
   return db;
 }
 

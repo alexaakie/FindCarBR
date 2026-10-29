@@ -1,7 +1,15 @@
 // Consultas ao banco usadas pela API. Separadas do Express para facilitar testes.
 
+// Preço FIPE da versão: mesmo ano-modelo, ou "zero km" (32000) para o ano corrente
+const PRECO_SQL = `(SELECT fv.valor FROM fipe_veiculos fv WHERE fv.codigo_fipe = v.fipe_codigo
+  AND fv.ano_modelo IN (v.ano_modelo, 32000) ORDER BY fv.ano_modelo = v.ano_modelo DESC LIMIT 1)`;
+
 const ORDENS = {
+  preco_asc: 'preco IS NULL, preco ASC',
+  preco_desc: 'preco IS NULL, preco DESC',
   relevancia: 'ma.nome, mo.nome, v.ano_modelo DESC, f.potencia_max_cv',
+  destaque: `((f.zero_a_cem_s IS NOT NULL) + (coalesce(f.consumo_urbano_gasolina, f.consumo_urbano_etanol, f.autonomia_km) IS NOT NULL)
+    + (f.porta_malas_l IS NOT NULL) + (mo.foto_url IS NOT NULL) * 2) DESC, v.ano_modelo DESC, f.potencia_max_cv DESC`,
   nome: 'ma.nome, mo.nome, v.nome',
   potencia_desc: 'f.potencia_max_cv IS NULL, f.potencia_max_cv DESC',
   potencia_asc: 'f.potencia_max_cv IS NULL, f.potencia_max_cv ASC',
@@ -14,13 +22,14 @@ const ORDENS = {
 
 const BASE_SELECT = `
   SELECT v.id, v.slug, v.nome AS versao, v.ano_modelo, v.carroceria, v.status_dados,
-         mo.nome AS modelo, mo.slug AS modelo_slug, mo.categoria,
+         mo.nome AS modelo, mo.slug AS modelo_slug, mo.categoria, mo.foto_url,
          ma.nome AS marca, ma.slug AS marca_slug,
          g.nome AS geracao,
          f.motor_codigo, f.cilindrada_cc, f.combustivel, f.aspiracao, f.potencia_cv, f.potencia_cv_etanol,
          f.potencia_max_cv, f.torque_kgfm, f.torque_kgfm_etanol, f.cambio, f.marchas, f.tracao,
          f.zero_a_cem_s, f.vel_max_kmh, f.consumo_urbano_gasolina, f.consumo_estrada_gasolina,
-         f.consumo_urbano_etanol, f.consumo_estrada_etanol, f.autonomia_km, f.porta_malas_l, f.peso_potencia
+         f.consumo_urbano_etanol, f.consumo_estrada_etanol, f.autonomia_km, f.porta_malas_l, f.peso_potencia,
+         f.comprimento_mm, f.tanque_l, ${PRECO_SQL} AS preco
   FROM versoes v
   JOIN modelos mo ON mo.id = v.modelo_id
   JOIN marcas ma  ON ma.id = mo.marca_id
@@ -62,6 +71,7 @@ export function listarVersoes(db, params = {}) {
     ['v.ano_modelo >= ?', numero(params.ano_min)], ['v.ano_modelo <= ?', numero(params.ano_max)],
     ['f.potencia_max_cv >= ?', numero(params.pot_min)], ['f.potencia_max_cv <= ?', numero(params.pot_max)],
     ['f.porta_malas_l >= ?', numero(params.porta_malas_min)],
+    [`${PRECO_SQL} >= ?`, numero(params.preco_min)], [`${PRECO_SQL} <= ?`, numero(params.preco_max)],
   ];
   for (const [sql, val] of faixas) if (val != null) { where.push(sql); args.push(val); }
   if (params.apenas_atuais === '1') where.push('v.ano_modelo >= (SELECT max(ano_modelo) - 1 FROM versoes)');
@@ -112,7 +122,8 @@ export function listarMarcas(db) {
 export function detalharMarca(db, slug) {
   const marca = db.prepare('SELECT id, slug, nome, pais FROM marcas WHERE slug = ?').get(slug);
   if (!marca) return null;
-  const modelos = db.prepare(`SELECT mo.slug, mo.nome, mo.categoria, count(v.id) AS versoes,
+  const modelos = db.prepare(`SELECT mo.slug, mo.nome, mo.categoria, mo.foto_url, count(v.id) AS versoes,
+      min(${PRECO_SQL}) AS preco_min, max(${PRECO_SQL}) AS preco_max,
       min(v.ano_modelo) AS ano_min, max(v.ano_modelo) AS ano_max,
       min(f.potencia_max_cv) AS pot_min, max(f.potencia_max_cv) AS pot_max,
       group_concat(DISTINCT f.combustivel) AS combustiveis
@@ -124,7 +135,8 @@ export function detalharMarca(db, slug) {
 }
 
 export function detalharModelo(db, marcaSlug, modeloSlug) {
-  const modelo = db.prepare(`SELECT mo.id, mo.slug, mo.nome, mo.categoria, ma.nome AS marca, ma.slug AS marca_slug
+  const modelo = db.prepare(`SELECT mo.id, mo.slug, mo.nome, mo.categoria, mo.foto_url, mo.foto_autor, mo.foto_licenca, mo.foto_pagina,
+      ma.nome AS marca, ma.slug AS marca_slug
     FROM modelos mo JOIN marcas ma ON ma.id = mo.marca_id WHERE ma.slug = ? AND mo.slug = ?`).get(marcaSlug, modeloSlug);
   if (!modelo) return null;
   const geracoes = db.prepare('SELECT id, nome, ano_inicio, ano_fim FROM geracoes WHERE modelo_id = ? ORDER BY ano_inicio DESC').all(modelo.id);
@@ -134,11 +146,14 @@ export function detalharModelo(db, marcaSlug, modeloSlug) {
     ...resto,
     geracoes: geracoes.map(({ id: _gid, ...g }) => ({ ...g, versoes: versoes.filter((v) => v.geracao === g.nome) })),
     total_versoes: versoes.length,
+    preco_min: Math.min(...versoes.map((v) => v.preco).filter(Boolean)) || null,
+    preco_max: Math.max(...versoes.map((v) => v.preco).filter(Boolean)) || null,
   };
 }
 
 export function fichaCompleta(db, slug) {
   const row = db.prepare(`SELECT v.*, mo.nome AS modelo, mo.slug AS modelo_slug, mo.categoria,
+      mo.foto_url, mo.foto_autor, mo.foto_licenca, mo.foto_pagina, ${PRECO_SQL} AS preco,
       ma.nome AS marca, ma.slug AS marca_slug, ma.pais, g.nome AS geracao, g.ano_inicio, g.ano_fim, f.*
     FROM versoes v JOIN modelos mo ON mo.id = v.modelo_id JOIN marcas ma ON ma.id = mo.marca_id
     JOIN geracoes g ON g.id = v.geracao_id LEFT JOIN fichas f ON f.versao_id = v.id WHERE v.slug = ?`).get(slug);
@@ -147,13 +162,18 @@ export function fichaCompleta(db, slug) {
   const fipe = row.fipe_codigo
     ? db.prepare('SELECT ano_modelo, combustivel, valor, referencia FROM fipe_veiculos WHERE codigo_fipe = ? ORDER BY ano_modelo DESC').all(row.fipe_codigo)
     : [];
-  const outrasVersoes = db.prepare(`SELECT v.slug, v.nome AS versao, v.ano_modelo, f.potencia_max_cv
+  const outrasVersoes = db.prepare(`SELECT v.slug, v.nome AS versao, v.ano_modelo, f.potencia_max_cv, f.cambio,
+      ${PRECO_SQL} AS preco
     FROM versoes v LEFT JOIN fichas f ON f.versao_id = v.id WHERE v.modelo_id = ? AND v.id != ?
     ORDER BY v.ano_modelo DESC, f.potencia_max_cv`).all(row.modelo_id, row.id);
-  const similares = db.prepare(`${BASE_SELECT}
-    WHERE mo.categoria = ? AND mo.id != ? AND v.ano_modelo >= ? - 1 AND f.potencia_max_cv BETWEEN ? * 0.85 AND ? * 1.15
-    ORDER BY abs(f.potencia_max_cv - ?) LIMIT 6`)
-    .all(row.categoria, row.modelo_id, row.ano_modelo, row.potencia_max_cv ?? 0, row.potencia_max_cv ?? 0, row.potencia_max_cv ?? 0);
+  // a versão mais parecida de cada modelo concorrente (no máximo 6 modelos)
+  const similares = db.prepare(`SELECT * FROM (
+      SELECT x.*, row_number() OVER (PARTITION BY x.modelo_slug, x.marca_slug ORDER BY x.dif) AS ordem_modelo FROM (
+        ${BASE_SELECT.replace('SELECT v.id,', 'SELECT abs(f.potencia_max_cv - ?) AS dif, v.id,')}
+        WHERE mo.categoria = ? AND mo.id != ? AND v.ano_modelo >= ? - 1 AND f.potencia_max_cv BETWEEN ? * 0.85 AND ? * 1.15
+      ) x
+    ) WHERE ordem_modelo = 1 ORDER BY dif LIMIT 6`)
+    .all(row.potencia_max_cv ?? 0, row.categoria, row.modelo_id, row.ano_modelo, row.potencia_max_cv ?? 0, row.potencia_max_cv ?? 0);
 
   return {
     slug: row.slug, marca: row.marca, marca_slug: row.marca_slug, pais: row.pais,
@@ -161,6 +181,8 @@ export function fichaCompleta(db, slug) {
     versao: row.nome, ano_modelo: row.ano_modelo, carroceria: row.carroceria, portas: row.portas, lugares: row.lugares,
     geracao: { nome: row.geracao, ano_inicio: row.ano_inicio, ano_fim: row.ano_fim },
     status_dados: row.status_dados, atualizado_em: row.atualizado_em, fipe_codigo: row.fipe_codigo,
+    fipe_auto: Boolean(row.fipe_auto), preco: row.preco,
+    foto: row.foto_url ? { url: row.foto_url, autor: row.foto_autor, licenca: row.foto_licenca, pagina: row.foto_pagina } : null,
     motor: {
       codigo: row.motor_codigo, cilindrada_cc: row.cilindrada_cc, cilindros: row.cilindros, valvulas: row.valvulas,
       aspiracao: row.aspiracao, injecao: row.injecao, combustivel: row.combustivel,

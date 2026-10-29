@@ -10,6 +10,7 @@
 // É retomável: registros já importados no mês de referência atual são pulados.
 import '../env.js';
 import { abrirBanco, slugify, transacao } from '../db.js';
+import { vincularFipe } from '../fipe-vinculo.js';
 
 const BASE = process.env.FIPE_API ?? 'https://fipe.parallelum.com.br/api/v2';
 const args = Object.fromEntries(process.argv.slice(2).map((a) => {
@@ -94,7 +95,8 @@ async function main() {
     db.exec(`INSERT INTO busca_fipe (texto, codigo_fipe)
       SELECT marca_nome || ' ' || modelo_nome, codigo_fipe FROM fipe_veiculos GROUP BY codigo_fipe`);
   });
-  console.log(`\n✓ ${total} registros FIPE gravados.`);
+  const v = vincularFipe(db);
+  console.log(`\n✓ ${total} registros FIPE gravados · ${v.vinculadas} de ${v.total} versões com ficha ligadas a um preço FIPE.`);
 }
 
 main().catch((e) => { console.error(`\n✗ ${e.message}`); process.exit(1); });
