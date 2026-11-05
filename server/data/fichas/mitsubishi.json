@@ -357,6 +357,181 @@
               "pneus": "265/60 R18"
             }
           ]
+        },
+        {
+          "nome": "4ª geração (KB)",
+          "ano_inicio": 2007,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "HPE 3.2 DI-D 4x4 AT",
+              "ano_modelo": 2009,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4M41 3.2 DI-D Turbodiesel",
+                "cilindrada_cc": 3200,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 3000,
+                "porta_malas_l": null,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "HPE 3.5 V6 Flex 4x4 AT",
+              "ano_modelo": 2010,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "6G74 3.5 V6 24V Flex",
+                "cilindrada_cc": 3497,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 3000,
+                "porta_malas_l": null,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GL 2.4 Flex 4x2",
+              "ano_modelo": 2015,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4G64 2.4 16V Flex",
+                "cilindrada_cc": 2351,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 3000,
+                "porta_malas_l": null,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -480,6 +655,125 @@
                 "traseiros": "Disco ventilado"
               },
               "pneus": "265/60 R18"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (K90)",
+          "ano_inicio": 1998,
+          "ano_fim": 2011,
+          "versoes": [
+            {
+              "nome": "GLS 2.5 TD 4x4",
+              "ano_modelo": 2003,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4D56 2.5 Turbodiesel",
+                "cilindrada_cc": 2477,
+                "cilindros": 4,
+                "valvulas": null,
+                "aspiracao": "Turbo",
+                "injecao": "Indireta",
+                "combustivel": "Diesel",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "HPE 3.5 V6 Flex 4x4 AT",
+              "ano_modelo": 2009,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "6G74 3.5 V6 24V Flex",
+                "cilindrada_cc": 3497,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": null,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
             }
           ]
         }
@@ -724,6 +1018,1000 @@
                 "traseiros": "Disco sólido"
               },
               "pneus": "225/55 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Lancer",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "8ª geração (CY)",
+          "ano_inicio": 2008,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "2.0 CVT",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B11 2.0 MIVEC 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 160,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 20.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4570,
+                "largura_mm": 1760,
+                "altura_mm": 1490,
+                "entre_eixos_mm": 2635,
+                "porta_malas_l": null,
+                "tanque_l": 59,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Ralliart 2.0 Turbo",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B11T 2.0 MIVEC Turbo 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 240,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4570,
+                "largura_mm": 1760,
+                "altura_mm": 1490,
+                "entre_eixos_mm": 2635,
+                "porta_malas_l": null,
+                "tanque_l": 59,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ASX",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (GA)",
+          "ano_inicio": 2010,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "2.0 CVT",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B11 2.0 MIVEC 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 160,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 20.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4295,
+                "largura_mm": 1770,
+                "altura_mm": 1615,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 CVT 4x4",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B11 2.0 MIVEC 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 160,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 20.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4295,
+                "largura_mm": 1770,
+                "altura_mm": 1615,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Outlander",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (CW)",
+          "ano_inicio": 2007,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "2.4 CVT",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B12 2.4 MIVEC 16V",
+                "cilindrada_cc": 2360,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 170,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4640,
+                "largura_mm": 1800,
+                "altura_mm": null,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GT 3.0 V6 4x4",
+              "ano_modelo": 2008,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "6B31 3.0 V6 MIVEC 24V",
+                "cilindrada_cc": 2998,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 220,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4640,
+                "largura_mm": 1800,
+                "altura_mm": null,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (GF)",
+          "ano_inicio": 2013,
+          "ano_fim": 2022,
+          "versoes": [
+            {
+              "nome": "2.0 CVT",
+              "ano_modelo": 2014,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4B11 2.0 MIVEC 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 160,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 20.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4695,
+                "largura_mm": 1810,
+                "altura_mm": 1710,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GT 3.0 V6 S-AWC",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "6B31 3.0 V6 MIVEC 24V",
+                "cilindrada_cc": 2998,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 240,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6250",
+                "torque_kgfm": 31,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4695,
+                "largura_mm": 1810,
+                "altura_mm": 1710,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Pajero TR4",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2002,
+          "ano_fim": 2015,
+          "versoes": [
+            {
+              "nome": "2.0 16V 4x4",
+              "ano_modelo": 2003,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4G94 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 16V Flex 4x4 AT",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 16V Flex",
+                "cilindrada_cc": null,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Pajero Dakar",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2010,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "HPE 3.2 DI-D 4x4 AT",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "4M41 3.2 DI-D Turbodiesel",
+                "cilindrada_cc": 3200,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2800,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "HPE 3.5 V6 Flex 4x4 AT",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "6G74 3.5 V6 24V Flex",
+                "cilindrada_cc": 3497,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2800,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Pajero Full",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "4ª geração (V80)",
+          "ano_inicio": 2007,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "HPE 3.8 V6 5p",
+              "ano_modelo": 2008,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "6G75 3.8 V6 24V MIVEC",
+                "cilindrada_cc": 3828,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "HPE 3.2 DI-D 5p",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "4M41 3.2 DI-D Turbodiesel",
+                "cilindrada_cc": 3200,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 200,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 45,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "L200",
+      "categoria": "Picape",
+      "geracoes": [
+        {
+          "nome": "3ª geração (K74)",
+          "ano_inicio": 1996,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "Sport GLS 2.5 TD 4x4",
+              "ano_modelo": 2005,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4D56 2.5 Turbodiesel",
+                "cilindrada_cc": 2477,
+                "cilindros": 4,
+                "valvulas": null,
+                "aspiracao": "Turbo",
+                "injecao": "Indireta",
+                "combustivel": "Diesel",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Outdoor GLS 2.5 TD 4x4",
+              "ano_modelo": 2010,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4D56 2.5 Turbodiesel",
+                "cilindrada_cc": 2477,
+                "cilindros": 4,
+                "valvulas": null,
+                "aspiracao": "Turbo",
+                "injecao": "Indireta",
+                "combustivel": "Diesel",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
             }
           ]
         }

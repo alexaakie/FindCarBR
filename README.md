@@ -64,6 +64,7 @@ src/
 
 ## Sobre os dados
 
+- A base cobre os carros vendidos no Brasil de 2000 até hoje (regras da ampliação em `server/data/HISTORICO.md`).
 - As fichas em `server/data/fichas` foram escritas a partir de dados públicos de fabricantes e do Inmetro,
   **não** copiadas de outros sites. Todas entram como **“a verificar”**; campos sem dado confiável ficam vazios.
 - Para corrigir ou ampliar: edite o JSON da marca, rode `npm run db:validar` e `npm run db:popular`.

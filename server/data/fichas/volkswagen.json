@@ -348,6 +348,230 @@
                 "traseiros": null
               },
               "pneus": null
+            },
+            {
+              "nome": "1.0 MPI",
+              "ano_modelo": 2018,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 MPI",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2566,
+                "porta_malas_l": 300,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 MSI",
+              "ano_modelo": 2018,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.6 MSI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2566,
+                "porta_malas_l": 300,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Comfortline 200 TSI",
+              "ano_modelo": 2018,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 TSI (200 TSI)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2566,
+                "porta_malas_l": 300,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Highline 200 TSI",
+              "ano_modelo": 2018,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 TSI (200 TSI)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2566,
+                "porta_malas_l": 300,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         },
@@ -380,6 +604,174 @@
               "eletrico": null,
               "transmissao": {
                 "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3916,
+                "largura_mm": 1650,
+                "altura_mm": null,
+                "entre_eixos_mm": 2460,
+                "porta_malas_l": 270,
+                "tanque_l": 45,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6",
+              "ano_modelo": 2003,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3916,
+                "largura_mm": 1650,
+                "altura_mm": null,
+                "entre_eixos_mm": 2460,
+                "porta_malas_l": 270,
+                "tanque_l": 45,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0",
+              "ano_modelo": 2003,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 2.0 8V",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3916,
+                "largura_mm": 1650,
+                "altura_mm": null,
+                "entre_eixos_mm": 2460,
+                "porta_malas_l": 270,
+                "tanque_l": 45,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 I-Motion",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automatizado",
                 "marchas": 5,
                 "tracao": "Dianteira"
               },
@@ -468,6 +860,650 @@
                 "altura_mm": null,
                 "entre_eixos_mm": null,
                 "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "G3",
+          "ano_inicio": 2000,
+          "ano_fim": 2005,
+          "versoes": [
+            {
+              "nome": "1.0 16V",
+              "ano_modelo": 2000,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 16V",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.0 16V Turbo",
+              "ano_modelo": 2001,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 16V Turbo",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 112,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 Total Flex",
+              "ano_modelo": 2003,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "G4",
+          "ano_inicio": 2006,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "1.0 Total Flex",
+              "ano_modelo": 2006,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 8V Total Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 Total Flex",
+              "ano_modelo": 2006,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "G5",
+          "ano_inicio": 2009,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "1.0 VHT",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 8V VHT Total Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 72,
+                "potencia_cv_etanol": 76,
+                "potencia_rpm": null,
+                "torque_kgfm": 9.7,
+                "torque_kgfm_etanol": 10.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 285,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 VHT",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 285,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "G6",
+          "ano_inicio": 2013,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "1.0 VHT",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 8V VHT Total Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 72,
+                "potencia_cv_etanol": 76,
+                "potencia_rpm": null,
+                "torque_kgfm": 9.7,
+                "torque_kgfm_etanol": 10.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 285,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 VHT",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 285,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 VHT I-Motion",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automatizado",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 285,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.0 MPI",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 MPI",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": 9.7,
+                "torque_kgfm_etanol": 10.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 285,
                 "tanque_l": 55,
                 "peso_kg": null
               },
@@ -647,6 +1683,230 @@
                 "comprimento_mm": 4561,
                 "largura_mm": 1751,
                 "altura_mm": 1479,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 521,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 MSI",
+              "ano_modelo": 2018,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.6 MSI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 521,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Comfortline 200 TSI",
+              "ano_modelo": 2018,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 TSI (200 TSI)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 521,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Highline 200 TSI",
+              "ano_modelo": 2018,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 TSI (200 TSI)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 521,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GTS 250 TSI",
+              "ano_modelo": 2023,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.4 TSI (250 TSI)",
+                "cilindrada_cc": 1395,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": 150,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": 25.5,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
                 "entre_eixos_mm": 2651,
                 "porta_malas_l": 521,
                 "tanque_l": 52,
@@ -898,6 +2158,118 @@
                 "traseiros": null
               },
               "pneus": null
+            },
+            {
+              "nome": "Comfortline 200 TSI",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 TSI (200 TSI)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2566,
+                "porta_malas_l": 415,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Highline 200 TSI",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 TSI (200 TSI)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2566,
+                "porta_malas_l": 415,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }
@@ -1121,6 +2493,118 @@
                 "comprimento_mm": 4199,
                 "largura_mm": 1760,
                 "altura_mm": 1568,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 373,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Comfortline 200 TSI",
+              "ano_modelo": 2020,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 TSI (200 TSI)",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": 20.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 373,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Highline 250 TSI",
+              "ano_modelo": 2020,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.4 TSI (250 TSI)",
+                "cilindrada_cc": 1395,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": 150,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": 25.5,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
                 "entre_eixos_mm": 2651,
                 "porta_malas_l": 373,
                 "tanque_l": 52,
@@ -1512,6 +2996,356 @@
               "pneus": null
             }
           ]
+        },
+        {
+          "nome": "5ª geração (A5)",
+          "ano_inicio": 2007,
+          "ano_fim": 2010,
+          "versoes": [
+            {
+              "nome": "2.5",
+              "ano_modelo": 2007,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.5 20V (5 cilindros)",
+                "cilindrada_cc": 2480,
+                "cilindros": 5,
+                "valvulas": 20,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2578,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 TSI",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 200,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2578,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "6ª geração (A6)",
+          "ano_inicio": 2011,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "Comfortline 2.0",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 2.0 8V Total Flex",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 510,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Highline 2.0 TSI",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 200,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 510,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Comfortline 1.4 TSI",
+              "ano_modelo": 2015,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.4 TSI",
+                "cilindrada_cc": 1395,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 510,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Highline 2.0 TSI",
+              "ano_modelo": 2015,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2651,
+                "porta_malas_l": 510,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -1573,6 +3407,69 @@
               "suspensao": {
                 "dianteira": null,
                 "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (5N)",
+          "ano_inicio": 2009,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "2.0 TSI 4Motion",
+              "ano_modelo": 2009,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 200,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2604,
+                "porta_malas_l": null,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
               },
               "freios": {
                 "dianteiros": null,
@@ -1706,6 +3603,363 @@
               "pneus": null
             }
           ]
+        },
+        {
+          "nome": "G4",
+          "ano_inicio": 2006,
+          "ano_fim": 2009,
+          "versoes": [
+            {
+              "nome": "1.6 Total Flex",
+              "ano_modelo": 2006,
+              "carroceria": "Picape",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "G5",
+          "ano_inicio": 2010,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "CS 1.6 VHT",
+              "ano_modelo": 2010,
+              "carroceria": "Picape",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2753,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Cross CE 1.6 VHT",
+              "ano_modelo": 2010,
+              "carroceria": "Picape",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2753,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "G6",
+          "ano_inicio": 2014,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "CS 1.6 VHT",
+              "ano_modelo": 2014,
+              "carroceria": "Picape",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2753,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Cross CE 1.6 VHT",
+              "ano_modelo": 2014,
+              "carroceria": "Picape",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2753,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Cross CD 1.6 VHT",
+              "ano_modelo": 2015,
+              "carroceria": "Picape",
+              "portas": 2,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2753,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -1773,6 +4027,174 @@
                 "traseiros": "Disco"
               },
               "pneus": null
+            },
+            {
+              "nome": "Highline 2.0 BiTDI",
+              "ano_modelo": 2011,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 BiTDI",
+                "cilindrada_cc": 1968,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Biturbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 163,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 3097,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Highline 2.0 BiTDI Automática",
+              "ano_modelo": 2013,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 BiTDI",
+                "cilindrada_cc": 1968,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Biturbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 180,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 42.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 3097,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Highline V6",
+              "ano_modelo": 2018,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.0 V6 TDI",
+                "cilindrada_cc": 2967,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 225,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 56.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 3097,
+                "porta_malas_l": null,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }
@@ -1834,6 +4256,2802 @@
                 "altura_mm": 1631,
                 "entre_eixos_mm": 2765,
                 "porta_malas_l": 543,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Voyage",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "G5",
+          "ano_inicio": 2009,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "1.0 VHT",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 8V VHT Total Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 72,
+                "potencia_cv_etanol": 76,
+                "potencia_rpm": null,
+                "torque_kgfm": 9.7,
+                "torque_kgfm_etanol": 10.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 480,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 VHT",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 480,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "G6",
+          "ano_inicio": 2013,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "1.0 VHT",
+              "ano_modelo": 2013,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 8V VHT Total Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 72,
+                "potencia_cv_etanol": 76,
+                "potencia_rpm": null,
+                "torque_kgfm": 9.7,
+                "torque_kgfm_etanol": 10.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 480,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 VHT",
+              "ano_modelo": 2013,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 480,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 VHT I-Motion",
+              "ano_modelo": 2013,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automatizado",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 480,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Parati",
+      "categoria": "Perua",
+      "geracoes": [
+        {
+          "nome": "G3",
+          "ano_inicio": 2000,
+          "ano_fim": 2005,
+          "versoes": [
+            {
+              "nome": "1.0 16V",
+              "ano_modelo": 2000,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 16V",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0",
+              "ano_modelo": 2000,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA827 (AP) 2.0 8V",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.0 16V Turbo",
+              "ano_modelo": 2001,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 16V Turbo",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 112,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "G4",
+          "ano_inicio": 2006,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "1.6 Total Flex",
+              "ano_modelo": 2006,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Track & Field 1.8 Total Flex",
+              "ano_modelo": 2006,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA827 (AP) 1.8 8V Total Flex",
+                "cilindrada_cc": 1781,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Fox",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2004,
+          "ano_fim": 2009,
+          "versoes": [
+            {
+              "nome": "1.6 Total Flex",
+              "ano_modelo": 2004,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 260,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "Fase 2",
+          "ano_inicio": 2010,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "1.0 VHT",
+              "ano_modelo": 2010,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.0 8V VHT Total Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 72,
+                "potencia_cv_etanol": 76,
+                "potencia_rpm": null,
+                "torque_kgfm": 9.7,
+                "torque_kgfm_etanol": 10.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 260,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 VHT",
+              "ano_modelo": 2010,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 260,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "Fase 3",
+          "ano_inicio": 2015,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "1.0 MPI",
+              "ano_modelo": 2015,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 MPI",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": 9.7,
+                "torque_kgfm_etanol": 10.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 260,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 VHT",
+              "ano_modelo": 2015,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 260,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 MSI",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.6 MSI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": 260,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CrossFox",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2005,
+          "ano_fim": 2009,
+          "versoes": [
+            {
+              "nome": "1.6 Total Flex",
+              "ano_modelo": 2005,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "Fase 2",
+          "ano_inicio": 2010,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "1.6 VHT",
+              "ano_modelo": 2010,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "Fase 3",
+          "ano_inicio": 2015,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "1.6 MSI",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.6 MSI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "SpaceFox",
+      "categoria": "Perua",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2006,
+          "ano_fim": 2010,
+          "versoes": [
+            {
+              "nome": "1.6 Total Flex",
+              "ano_modelo": 2006,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "Fase 2",
+          "ano_inicio": 2011,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "1.6 VHT",
+              "ano_modelo": 2011,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V VHT Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "Fase 3",
+          "ano_inicio": 2015,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "1.6 MSI",
+              "ano_modelo": 2016,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.6 MSI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2465,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Polo Sedan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "4ª geração (9N)",
+          "ano_inicio": 2003,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "1.6",
+              "ano_modelo": 2003,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2460,
+                "porta_malas_l": 432,
+                "tanque_l": 45,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0",
+              "ano_modelo": 2003,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 2.0 8V",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2460,
+                "porta_malas_l": 432,
+                "tanque_l": 45,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 I-Motion",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automatizado",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2460,
+                "porta_malas_l": 432,
+                "tanque_l": 45,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 Total Flex",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 104,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.4,
+                "torque_kgfm_etanol": 15.6,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2460,
+                "porta_malas_l": 432,
+                "tanque_l": 45,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Golf",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "4ª geração (A4)",
+          "ano_inicio": 1999,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "1.6",
+              "ano_modelo": 2000,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2511,
+                "porta_malas_l": 330,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0",
+              "ano_modelo": 2000,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 2.0 8V",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2511,
+                "porta_malas_l": 330,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GTI 1.8T",
+              "ano_modelo": 2001,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 1.8 20V Turbo",
+                "cilindrada_cc": 1781,
+                "cilindros": 4,
+                "valvulas": 20,
+                "aspiracao": "Turbo",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2511,
+                "porta_malas_l": 330,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 Total Flex",
+              "ano_modelo": 2007,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA111 1.6 8V Total Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2511,
+                "porta_malas_l": 330,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 Total Flex",
+              "ano_modelo": 2007,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 2.0 8V Total Flex",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2511,
+                "porta_malas_l": 330,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "7ª geração (Mk7)",
+          "ano_inicio": 2014,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "Highline 1.4 TSI",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.4 TSI",
+                "cilindrada_cc": 1395,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 140,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2637,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GTI",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 220,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2637,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Highline 1.4 TSI",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.4 TSI",
+                "cilindrada_cc": 1395,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": 150,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": 25.5,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2637,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Comfortline 1.6 MSI",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.6 MSI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2637,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GTI",
+              "ano_modelo": 2018,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 230,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2637,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Bora",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração (A4)",
+          "ano_inicio": 2000,
+          "ano_fim": 2011,
+          "versoes": [
+            {
+              "nome": "2.0",
+              "ano_modelo": 2000,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 2.0 8V",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 116,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2513,
+                "porta_malas_l": 455,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 Total Flex",
+              "ano_modelo": 2008,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 2.0 8V Total Flex",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2513,
+                "porta_malas_l": 455,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Passat",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "5ª geração (B5)",
+          "ano_inicio": 1998,
+          "ano_fim": 2005,
+          "versoes": [
+            {
+              "nome": "1.8T",
+              "ano_modelo": 2001,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 1.8 20V Turbo",
+                "cilindrada_cc": 1781,
+                "cilindros": 4,
+                "valvulas": 20,
+                "aspiracao": "Turbo",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 21.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2703,
+                "porta_malas_l": 475,
+                "tanque_l": 62,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "6ª geração (B6)",
+          "ano_inicio": 2006,
+          "ano_fim": 2010,
+          "versoes": [
+            {
+              "nome": "2.0 TFSI",
+              "ano_modelo": 2006,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 200,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2709,
+                "porta_malas_l": 565,
+                "tanque_l": 70,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "V6 3.2 FSI 4Motion",
+              "ano_modelo": 2006,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "VR6 3.2 FSI",
+                "cilindrada_cc": 3189,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 250,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 33.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2709,
+                "porta_malas_l": 565,
+                "tanque_l": 70,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "7ª geração (B7)",
+          "ano_inicio": 2011,
+          "ano_fim": 2015,
+          "versoes": [
+            {
+              "nome": "2.0 TSI",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2709,
+                "porta_malas_l": 565,
+                "tanque_l": 70,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "up!",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2014,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "1.0 MPI",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 MPI",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": 9.7,
+                "torque_kgfm_etanol": 10.4,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3605,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": 285,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.0 TSI",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.0 TSI",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 101,
+                "potencia_cv_etanol": 105,
+                "potencia_rpm": null,
+                "torque_kgfm": 16.8,
+                "torque_kgfm_etanol": 16.8,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3605,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": 285,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Kombi",
+      "categoria": "Utilitário",
+      "geracoes": [
+        {
+          "nome": "2ª geração (T2)",
+          "ano_inicio": 1976,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "1.6",
+              "ano_modelo": 2000,
+              "carroceria": "Utilitário",
+              "portas": 3,
+              "lugares": 9,
+              "motor": {
+                "codigo": "1.6 boxer arrefecido a ar",
+                "cilindrada_cc": 1584,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 4,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2400,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.4 Total Flex",
+              "ano_modelo": 2006,
+              "carroceria": "Utilitário",
+              "portas": 3,
+              "lugares": 9,
+              "motor": {
+                "codigo": "EA111 1.4 8V Total Flex",
+                "cilindrada_cc": 1390,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 78,
+                "potencia_cv_etanol": 80,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 4,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2400,
+                "porta_malas_l": null,
                 "tanque_l": null,
                 "peso_kg": null
               },

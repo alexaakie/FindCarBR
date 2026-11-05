@@ -31,7 +31,7 @@
                 "potencia_cv_etanol": 71,
                 "potencia_rpm": "5500",
                 "torque_kgfm": 9.4,
-                "torque_kgfm_etanol": 10.0,
+                "torque_kgfm_etanol": 10,
                 "torque_rpm": "4250"
               },
               "eletrico": null,
@@ -87,7 +87,7 @@
                 "potencia_cv_etanol": 71,
                 "potencia_rpm": "5500",
                 "torque_kgfm": 9.4,
-                "torque_kgfm_etanol": 10.0,
+                "torque_kgfm_etanol": 10,
                 "torque_rpm": "4250"
               },
               "eletrico": null,
@@ -143,7 +143,7 @@
                 "potencia_cv_etanol": 71,
                 "potencia_rpm": "5500",
                 "torque_kgfm": 9.4,
-                "torque_kgfm_etanol": 10.0,
+                "torque_kgfm_etanol": 10,
                 "torque_rpm": "4250"
               },
               "eletrico": null,
@@ -441,6 +441,174 @@
                 "traseiros": "Tambor"
               },
               "pneus": "215/65 R16"
+            },
+            {
+              "nome": "Expression 1.6 16V",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4315,
+                "largura_mm": 1822,
+                "altura_mm": 1695,
+                "entre_eixos_mm": 2673,
+                "porta_malas_l": 475,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Dynamique 2.0 4x4 MT",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "F4R 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4315,
+                "largura_mm": 1822,
+                "altura_mm": 1695,
+                "entre_eixos_mm": 2673,
+                "porta_malas_l": 475,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Dynamique 1.6 CVT",
+              "ano_modelo": 2018,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H4M 1.6 SCe 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.2,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4315,
+                "largura_mm": 1822,
+                "altura_mm": 1695,
+                "entre_eixos_mm": 2673,
+                "porta_malas_l": 475,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }
@@ -734,6 +902,118 @@
                 "traseiros": "Tambor"
               },
               "pneus": "215/65 R16"
+            },
+            {
+              "nome": "Expression 1.6",
+              "ano_modelo": 2016,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4700,
+                "largura_mm": 1821,
+                "altura_mm": 1694,
+                "entre_eixos_mm": 2829,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Dynamique 2.0 AT",
+              "ano_modelo": 2017,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "F4R 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": 148,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.2,
+                "torque_kgfm_etanol": 20.9,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4700,
+                "largura_mm": 1821,
+                "altura_mm": 1694,
+                "entre_eixos_mm": 2829,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }
@@ -951,7 +1231,7 @@
                 "torque_rpm": null
               },
               "eletrico": {
-                "bateria_kwh": 60.0,
+                "bateria_kwh": 60,
                 "autonomia_km": null,
                 "recarga_dc_kw": 130
               },
@@ -1024,7 +1304,7 @@
                 "torque_rpm": null
               },
               "eletrico": {
-                "bateria_kwh": 45.0,
+                "bateria_kwh": 45,
                 "autonomia_km": null,
                 "recarga_dc_kw": null
               },
@@ -1058,6 +1338,2242 @@
               },
               "freios": {
                 "dianteiros": "Disco ventilado",
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Clio",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "2ª geração (Clio II)",
+          "ano_inicio": 1999,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "RN 1.6 16V",
+              "ano_modelo": 2000,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "RN 1.0 16V",
+              "ano_modelo": 2001,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "D4D 1.0 16V",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Expression 1.0 16V",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "D4D 1.0 16V Hi-Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Clio Sedan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração (Clio II)",
+          "ano_inicio": 2000,
+          "ano_fim": 2009,
+          "versoes": [
+            {
+              "nome": "RT 1.6 16V",
+              "ano_modelo": 2000,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Privilège 1.6 16V",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Scénic",
+      "categoria": "Minivan",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 1999,
+          "ano_fim": 2011,
+          "versoes": [
+            {
+              "nome": "RT 1.6 16V",
+              "ano_modelo": 2001,
+              "carroceria": "Minivan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Expression 1.6 16V",
+              "ano_modelo": 2011,
+              "carroceria": "Minivan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mégane",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "2ª geração (Mégane II)",
+          "ano_inicio": 2007,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "Expression 1.6 16V",
+              "ano_modelo": 2007,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Grand Tour Dynamique 1.6 16V",
+              "ano_modelo": 2008,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Fluence",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2011,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "Dynamique 2.0 MT",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M4R 2.0 16V",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 140,
+                "potencia_cv_etanol": 143,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4620,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2702,
+                "porta_malas_l": 530,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Privilège 2.0 CVT",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M4R 2.0 16V",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 140,
+                "potencia_cv_etanol": 143,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4620,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2702,
+                "porta_malas_l": 530,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GT 2.0 Turbo",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "F4Rt 2.0 16V Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 180,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4620,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2702,
+                "porta_malas_l": 530,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Sandero",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2015,
+          "ano_fim": 2022,
+          "versoes": [
+            {
+              "nome": "Expression 1.0 16V",
+              "ano_modelo": 2015,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "D4D 1.0 16V Hi-Power",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 77,
+                "potencia_cv_etanol": 80,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4057,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 320,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Expression 1.6 8V",
+              "ano_modelo": 2015,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K7M 1.6 8V Hi-Power",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 98,
+                "potencia_cv_etanol": 106,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4057,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 320,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Stepway 1.6 8V",
+              "ano_modelo": 2015,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K7M 1.6 8V Hi-Power",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 98,
+                "potencia_cv_etanol": 106,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 320,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "R.S. 2.0",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "F4R 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 145,
+                "potencia_cv_etanol": 150,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.2,
+                "torque_kgfm_etanol": 20.9,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4057,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 320,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Zen 1.0 SCe",
+              "ano_modelo": 2020,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B4D 1.0 SCe 12V",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 79,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4057,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 320,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Intense 1.6 SCe CVT",
+              "ano_modelo": 2020,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H4M 1.6 SCe 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 118,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4057,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 320,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Stepway Iconic 1.6 SCe CVT",
+              "ano_modelo": 2020,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H4M 1.6 SCe 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 118,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2589,
+                "porta_malas_l": 320,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2008,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "Expression 1.0 16V",
+              "ano_modelo": 2008,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "D4D 1.0 16V Hi-Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Expression 1.6 8V",
+              "ano_modelo": 2008,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K7M 1.6 8V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Privilège 1.6 16V",
+              "ano_modelo": 2008,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Logan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2014,
+          "ano_fim": 2022,
+          "versoes": [
+            {
+              "nome": "Expression 1.0 16V",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "D4D 1.0 16V Hi-Power",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 77,
+                "potencia_cv_etanol": 80,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4346,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2634,
+                "porta_malas_l": 510,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Expression 1.6 8V",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K7M 1.6 8V Hi-Power",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 98,
+                "potencia_cv_etanol": 106,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4346,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2634,
+                "porta_malas_l": 510,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Zen 1.0 SCe",
+              "ano_modelo": 2020,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B4D 1.0 SCe 12V",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 79,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4346,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2634,
+                "porta_malas_l": 510,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Intense 1.6 SCe CVT",
+              "ano_modelo": 2020,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H4M 1.6 SCe 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 118,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4346,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2634,
+                "porta_malas_l": 510,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2007,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "Expression 1.0 16V",
+              "ano_modelo": 2007,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "D4D 1.0 16V Hi-Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Expression 1.6 8V",
+              "ano_modelo": 2007,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K7M 1.6 8V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Symbol",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2009,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "Expression 1.6 8V",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K7M 1.6 8V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Privilège 1.6 16V",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "K4M 1.6 16V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Captur",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2017,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Zen 1.6 CVT",
+              "ano_modelo": 2017,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H4M 1.6 SCe 16V",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 118,
+                "potencia_cv_etanol": 120,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4329,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2673,
+                "porta_malas_l": 437,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Intense 2.0 AT",
+              "ano_modelo": 2017,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "F4R 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": 148,
+                "potencia_rpm": null,
+                "torque_kgfm": 20.2,
+                "torque_kgfm_etanol": 20.9,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4329,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2673,
+                "porta_malas_l": 437,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Intense 1.3 Turbo CVT",
+              "ano_modelo": 2022,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "H5Ht 1.3 TCe",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 163,
+                "potencia_cv_etanol": 170,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4329,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2673,
+                "porta_malas_l": 437,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Kangoo",
+      "categoria": "Utilitário",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 1999,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "RN 1.0 16V",
+              "ano_modelo": 2001,
+              "carroceria": "Minivan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "D4D 1.0 16V",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Express 1.6 16V",
+              "ano_modelo": 2018,
+              "carroceria": "Furgão",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "K4M 1.6 16V Hi-Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Master",
+      "categoria": "Utilitário",
+      "geracoes": [
+        {
+          "nome": "3ª geração",
+          "ano_inicio": 2014,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Furgão 2.3 dCi",
+              "ano_modelo": 2014,
+              "carroceria": "Furgão",
+              "portas": null,
+              "lugares": 3,
+              "motor": {
+                "codigo": "M9T 2.3 dCi",
+                "cilindrada_cc": 2298,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2002,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "Furgão 2.5 dCi",
+              "ano_modelo": 2005,
+              "carroceria": "Furgão",
+              "portas": null,
+              "lugares": 3,
+              "motor": {
+                "codigo": "G9U 2.5 dCi",
+                "cilindrada_cc": 2463,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
                 "traseiros": null
               },
               "pneus": null

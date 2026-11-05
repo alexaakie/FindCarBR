@@ -98,7 +98,7 @@ CREATE TABLE IF NOT EXISTS fichas (
   freios_traseiros        TEXT,
   pneus                   TEXT,
   -- potência máxima entre combustíveis: usada para filtrar/ordenar
-  potencia_max_cv         REAL GENERATED ALWAYS AS (max(coalesce(potencia_cv,0), coalesce(potencia_cv_etanol,0))) STORED,
+  potencia_max_cv         REAL GENERATED ALWAYS AS (nullif(max(coalesce(potencia_cv,0), coalesce(potencia_cv_etanol,0)), 0)) STORED,
   peso_potencia           REAL GENERATED ALWAYS AS (
                             CASE WHEN peso_kg > 0 AND max(coalesce(potencia_cv,0), coalesce(potencia_cv_etanol,0)) > 0
                             THEN round(peso_kg * 1.0 / max(coalesce(potencia_cv,0), coalesce(potencia_cv_etanol,0)), 2) END) STORED
@@ -154,6 +154,19 @@ function migrar(db) {
   for (const [tabela, coluna, tipo] of MIGRACOES) {
     const existe = db.prepare(`SELECT 1 FROM pragma_table_info('${tabela}') WHERE name = ?`).get(coluna);
     if (!existe) db.exec(`ALTER TABLE ${tabela} ADD COLUMN ${coluna} ${tipo}`);
+  }
+  // v0.4: potencia_max_cv passou a ser NULL (e não 0) quando a ficha não tem potência.
+  // Coluna gerada não pode ser alterada, então a tabela fichas é recriada com os mesmos dados.
+  const sqlFichas = db.prepare("SELECT sql FROM sqlite_master WHERE name = 'fichas'").get()?.sql ?? '';
+  if (!sqlFichas.includes('nullif')) {
+    const colunas = db.prepare("SELECT name FROM pragma_table_xinfo('fichas') WHERE hidden = 0").all().map((c) => c.name).join(', ');
+    const criar = SCHEMA.slice(SCHEMA.indexOf('CREATE TABLE IF NOT EXISTS fichas'), SCHEMA.indexOf(');', SCHEMA.indexOf('CREATE TABLE IF NOT EXISTS fichas')) + 2);
+    db.exec('PRAGMA foreign_keys = OFF; BEGIN;');
+    db.exec(`ALTER TABLE fichas RENAME TO fichas_antiga; ${criar}
+      INSERT INTO fichas (${colunas}) SELECT ${colunas} FROM fichas_antiga; DROP TABLE fichas_antiga;
+      CREATE INDEX IF NOT EXISTS ix_fichas_comb ON fichas(combustivel); CREATE INDEX IF NOT EXISTS ix_fichas_tracao ON fichas(tracao);
+      CREATE INDEX IF NOT EXISTS ix_fichas_cambio ON fichas(cambio); CREATE INDEX IF NOT EXISTS ix_fichas_pot ON fichas(potencia_max_cv);`);
+    db.exec('COMMIT; PRAGMA foreign_keys = ON;');
   }
 }
 

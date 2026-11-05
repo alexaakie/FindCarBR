@@ -355,6 +355,230 @@
                 "traseiros": "Tambor"
               },
               "pneus": "185/60 R15"
+            },
+            {
+              "nome": "Comfort Plus 1.0",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": 80,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 9.4,
+                "torque_kgfm_etanol": 10.2,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3895,
+                "largura_mm": 1680,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "175/70 R14"
+            },
+            {
+              "nome": "Premium 1.6",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 15.9,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3895,
+                "largura_mm": 1680,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/60 R15"
+            },
+            {
+              "nome": "Premium 1.6 AT",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 15.9,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3895,
+                "largura_mm": 1680,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "185/60 R15"
+            },
+            {
+              "nome": "Comfort Style 1.0 Turbo",
+              "ano_modelo": 2019,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 105,
+                "potencia_cv_etanol": 105,
+                "potencia_rpm": "6000",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3920,
+                "largura_mm": 1680,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
             }
           ]
         }
@@ -536,6 +760,237 @@
                 "traseiros": "Tambor"
               },
               "pneus": "195/55 R16"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2013,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "Comfort Plus 1.0",
+              "ano_modelo": 2019,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": 80,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 9.4,
+                "torque_kgfm_etanol": 10.2,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": 1680,
+                "altura_mm": null,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 450,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Comfort Plus 1.0 Turbo",
+              "ano_modelo": 2019,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 105,
+                "potencia_cv_etanol": 105,
+                "potencia_rpm": "6000",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": 1680,
+                "altura_mm": null,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 450,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Premium 1.6 AT",
+              "ano_modelo": 2013,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 15.9,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": 1680,
+                "altura_mm": null,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 450,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Premium 1.6 AT",
+              "ano_modelo": 2019,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 15.9,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": 1680,
+                "altura_mm": null,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 450,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
             }
           ]
         }
@@ -1004,6 +1459,174 @@
                 "traseiros": "Disco sólido"
               },
               "pneus": "205/65 R16"
+            },
+            {
+              "nome": "Attitude 1.6",
+              "ano_modelo": 2017,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 123,
+                "potencia_cv_etanol": 130,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 16,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4270,
+                "largura_mm": 1780,
+                "altura_mm": 1630,
+                "entre_eixos_mm": 2590,
+                "porta_malas_l": 431,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "205/65 R16"
+            },
+            {
+              "nome": "Pulse 1.6 AT",
+              "ano_modelo": 2017,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 123,
+                "potencia_cv_etanol": 130,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 16,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4270,
+                "largura_mm": 1780,
+                "altura_mm": 1630,
+                "entre_eixos_mm": 2590,
+                "porta_malas_l": 431,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "205/65 R16"
+            },
+            {
+              "nome": "Prestige 2.0 AT",
+              "ano_modelo": 2017,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Nu 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 156,
+                "potencia_cv_etanol": 166,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 19.1,
+                "torque_kgfm_etanol": 20.5,
+                "torque_rpm": "4700"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4270,
+                "largura_mm": 1780,
+                "altura_mm": 1630,
+                "entre_eixos_mm": 2590,
+                "porta_malas_l": 431,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
             }
           ]
         }
@@ -1146,6 +1769,1278 @@
                 "traseiros": "Disco ventilado"
               },
               "pneus": "255/45 R20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "HB20X",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2014,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "Premium 1.6",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 15.9,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Premium 1.6 AT",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 15.9,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Premium 1.6 AT",
+              "ano_modelo": 2019,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": 128,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 15.9,
+                "torque_kgfm_etanol": 16.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 300,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "i30",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (FD)",
+          "ano_inicio": 2009,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "2.0",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Beta II 2.0 16V",
+                "cilindrada_cc": 1975,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 145,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4245,
+                "largura_mm": 1775,
+                "altura_mm": 1480,
+                "entre_eixos_mm": 2650,
+                "porta_malas_l": null,
+                "tanque_l": 53,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 AT",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Beta II 2.0 16V",
+                "cilindrada_cc": 1975,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 145,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4245,
+                "largura_mm": 1775,
+                "altura_mm": 1480,
+                "entre_eixos_mm": 2650,
+                "porta_malas_l": null,
+                "tanque_l": 53,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (GD)",
+          "ano_inicio": 2013,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "1.8 AT",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Nu 1.8 16V",
+                "cilindrada_cc": 1797,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 18.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4700"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4300,
+                "largura_mm": 1780,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2650,
+                "porta_malas_l": 378,
+                "tanque_l": 53,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ix35",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (LM)",
+          "ano_inicio": 2010,
+          "ano_fim": 2022,
+          "versoes": [
+            {
+              "nome": "GLS 2.0 AT",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Theta II 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 166,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 20.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4410,
+                "largura_mm": 1820,
+                "altura_mm": 1660,
+                "entre_eixos_mm": 2640,
+                "porta_malas_l": null,
+                "tanque_l": 58,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Tucson",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (JM)",
+          "ano_inicio": 2005,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "GL 2.0 AT",
+              "ano_modelo": 2006,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Beta 2.0 16V",
+                "cilindrada_cc": 1975,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4325,
+                "largura_mm": 1830,
+                "altura_mm": null,
+                "entre_eixos_mm": 2630,
+                "porta_malas_l": null,
+                "tanque_l": 58,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GLS 2.7 V6 4WD AT",
+              "ano_modelo": 2006,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Delta 2.7 V6 24V",
+                "cilindrada_cc": 2656,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 175,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4325,
+                "largura_mm": 1830,
+                "altura_mm": null,
+                "entre_eixos_mm": 2630,
+                "porta_malas_l": null,
+                "tanque_l": 58,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (TL)",
+          "ano_inicio": 2017,
+          "ano_fim": 2022,
+          "versoes": [
+            {
+              "nome": "GLS 1.6 T-GDI",
+              "ano_modelo": 2017,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 T-GDI 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 177,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 27,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4475,
+                "largura_mm": 1850,
+                "altura_mm": 1660,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": 513,
+                "tanque_l": 62,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Elantra",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "5ª geração (MD)",
+          "ano_inicio": 2011,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "GLS 1.8 AT",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Nu 1.8 16V",
+                "cilindrada_cc": 1797,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 18.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4700"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4530,
+                "largura_mm": 1775,
+                "altura_mm": 1435,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": 48,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GLS 2.0 Flex AT",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Nu 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 167,
+                "potencia_cv_etanol": 178,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4530,
+                "largura_mm": 1775,
+                "altura_mm": 1435,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": 48,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "6ª geração (AD)",
+          "ano_inicio": 2016,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "2.0 Flex AT",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Nu 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4570,
+                "largura_mm": 1800,
+                "altura_mm": 1450,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Azera",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "4ª geração (TG)",
+          "ano_inicio": 2007,
+          "ano_fim": 2011,
+          "versoes": [
+            {
+              "nome": "GLS 3.3 V6",
+              "ano_modelo": 2008,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Lambda 3.3 V6 24V",
+                "cilindrada_cc": 3342,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4895,
+                "largura_mm": 1850,
+                "altura_mm": 1490,
+                "entre_eixos_mm": 2780,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "5ª geração (HG)",
+          "ano_inicio": 2012,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "3.0 V6",
+              "ano_modelo": 2012,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Lambda II 3.0 V6 24V",
+                "cilindrada_cc": 2999,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4910,
+                "largura_mm": 1860,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2845,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Sonata",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "6ª geração (YF)",
+          "ano_inicio": 2011,
+          "ano_fim": 2015,
+          "versoes": [
+            {
+              "nome": "2.4 AT",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Theta II 2.4 16V",
+                "cilindrada_cc": 2359,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 182,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4820,
+                "largura_mm": 1835,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2795,
+                "porta_malas_l": null,
+                "tanque_l": 70,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Santa Fe",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (CM)",
+          "ano_inicio": 2007,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "2.7 V6 4WD AT",
+              "ano_modelo": 2007,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "Mu 2.7 V6 24V",
+                "cilindrada_cc": 2656,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "3.5 V6 4WD AT",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "Lambda 3.5 V6 24V",
+                "cilindrada_cc": 3470,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": null,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (DM)",
+          "ano_inicio": 2013,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "3.3 V6 4WD AT",
+              "ano_modelo": 2013,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "Lambda II 3.3 V6 24V",
+                "cilindrada_cc": 3342,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Veloster",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (FS)",
+          "ano_inicio": 2011,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "1.6 AT",
+              "ano_modelo": 2012,
+              "carroceria": "Hatch",
+              "portas": 3,
+              "lugares": 4,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 128,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4220,
+                "largura_mm": 1790,
+                "altura_mm": 1399,
+                "entre_eixos_mm": 2650,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
             }
           ]
         }

@@ -70,6 +70,356 @@
               "pneus": null
             }
           ]
+        },
+        {
+          "nome": "1ª geração (E84)",
+          "ano_inicio": 2009,
+          "ano_fim": 2015,
+          "versoes": [
+            {
+              "nome": "sDrive18i",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N46 2.0",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4454,
+                "largura_mm": 1798,
+                "altura_mm": 1545,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 420,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive28i",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N52 3.0",
+                "cilindrada_cc": 2996,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 258,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6600",
+                "torque_kgfm": 31.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2600-3000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4454,
+                "largura_mm": 1798,
+                "altura_mm": 1545,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 420,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "sDrive20i",
+              "ano_modelo": 2013,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N20 2.0 Turbo",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4454,
+                "largura_mm": 1798,
+                "altura_mm": 1545,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 420,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive28i",
+              "ano_modelo": 2013,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N20 2.0 Turbo",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 245,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4454,
+                "largura_mm": 1798,
+                "altura_mm": 1545,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 420,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (F48)",
+          "ano_inicio": 2015,
+          "ano_fim": 2022,
+          "versoes": [
+            {
+              "nome": "sDrive20i ActiveFlex",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B48 2.0 Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 192,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4439,
+                "largura_mm": 1821,
+                "altura_mm": 1598,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": 505,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive25i",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B48 2.0 Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 231,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4439,
+                "largura_mm": 1821,
+                "altura_mm": 1598,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": 505,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -401,6 +751,524 @@
               "pneus": null
             }
           ]
+        },
+        {
+          "nome": "5ª geração (E90)",
+          "ano_inicio": 2005,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "320i",
+              "ano_modelo": 2006,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N46 2.0",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4520,
+                "largura_mm": 1817,
+                "altura_mm": 1421,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 460,
+                "tanque_l": 63,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "325i",
+              "ano_modelo": 2006,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N52 2.5",
+                "cilindrada_cc": 2497,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 218,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2750-4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4520,
+                "largura_mm": 1817,
+                "altura_mm": 1421,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 460,
+                "tanque_l": 63,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "335i",
+              "ano_modelo": 2008,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N54 3.0 Biturbo",
+                "cilindrada_cc": 2979,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 306,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1300-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4520,
+                "largura_mm": 1817,
+                "altura_mm": 1421,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 460,
+                "tanque_l": 63,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "6ª geração (F30)",
+          "ano_inicio": 2012,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "320i",
+              "ano_modelo": 2013,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N20 2.0 Turbo",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4624,
+                "largura_mm": 1811,
+                "altura_mm": 1429,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 480,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "328i",
+              "ano_modelo": 2013,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N20 2.0 Turbo",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 245,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4624,
+                "largura_mm": 1811,
+                "altura_mm": 1429,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 480,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "335i M Sport",
+              "ano_modelo": 2013,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N55 3.0 Turbo",
+                "cilindrada_cc": 2979,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 306,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1200-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4624,
+                "largura_mm": 1811,
+                "altura_mm": 1429,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 480,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "320i Active Flex",
+              "ano_modelo": 2015,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N20 2.0 Turbo",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4624,
+                "largura_mm": 1811,
+                "altura_mm": 1429,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 480,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "320i Flex",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B48 2.0 Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4633,
+                "largura_mm": 1811,
+                "altura_mm": 1429,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 480,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "330i M Sport",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B48 2.0 Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 252,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4633,
+                "largura_mm": 1811,
+                "altura_mm": 1429,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 480,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -461,6 +1329,360 @@
                 "entre_eixos_mm": 2995,
                 "porta_malas_l": null,
                 "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "6ª geração (F10)",
+          "ano_inicio": 2010,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "535i",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N55 3.0 Turbo",
+                "cilindrada_cc": 2979,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 306,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1200-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4899,
+                "largura_mm": 1860,
+                "altura_mm": 1464,
+                "entre_eixos_mm": 2968,
+                "porta_malas_l": 520,
+                "tanque_l": 70,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "550i",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N63 4.4 V8 Biturbo",
+                "cilindrada_cc": 4395,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 407,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 61.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4899,
+                "largura_mm": 1860,
+                "altura_mm": 1464,
+                "entre_eixos_mm": 2968,
+                "porta_malas_l": 520,
+                "tanque_l": 70,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "528i",
+              "ano_modelo": 2012,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N20 2.0 Turbo",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 245,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4899,
+                "largura_mm": 1860,
+                "altura_mm": 1464,
+                "entre_eixos_mm": 2968,
+                "porta_malas_l": 520,
+                "tanque_l": 70,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "7ª geração (G30)",
+          "ano_inicio": 2017,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "530i M Sport",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B48 2.0 Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 252,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4936,
+                "largura_mm": 1868,
+                "altura_mm": 1479,
+                "entre_eixos_mm": 2975,
+                "porta_malas_l": 530,
+                "tanque_l": 68,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "540i M Sport",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B58 3.0 Turbo",
+                "cilindrada_cc": 2998,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 340,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4936,
+                "largura_mm": 1868,
+                "altura_mm": 1479,
+                "entre_eixos_mm": 2975,
+                "porta_malas_l": 530,
+                "tanque_l": 68,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "530e M Sport",
+              "ano_modelo": 2020,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B48 2.0 Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 252,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 42.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": null,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4936,
+                "largura_mm": 1868,
+                "altura_mm": 1479,
+                "entre_eixos_mm": 2975,
+                "porta_malas_l": 410,
+                "tanque_l": 46,
                 "peso_kg": null
               },
               "suspensao": {
@@ -882,6 +2104,416 @@
               "pneus": null
             }
           ]
+        },
+        {
+          "nome": "2ª geração (F25)",
+          "ano_inicio": 2010,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "xDrive35i",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N55 3.0 Turbo",
+                "cilindrada_cc": 2979,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 306,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1200-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4648,
+                "largura_mm": 1881,
+                "altura_mm": 1661,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 550,
+                "tanque_l": 67,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive28i",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N20 2.0 Turbo",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 245,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4648,
+                "largura_mm": 1881,
+                "altura_mm": 1661,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 550,
+                "tanque_l": 67,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive20i",
+              "ano_modelo": 2013,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N20 2.0 Turbo",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4648,
+                "largura_mm": 1881,
+                "altura_mm": 1661,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 550,
+                "tanque_l": 67,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (G01)",
+          "ano_inicio": 2017,
+          "ano_fim": 2024,
+          "versoes": [
+            {
+              "nome": "xDrive20i",
+              "ano_modelo": 2018,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B48 2.0 Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 29.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4708,
+                "largura_mm": 1891,
+                "altura_mm": 1676,
+                "entre_eixos_mm": 2864,
+                "porta_malas_l": 550,
+                "tanque_l": 65,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive30i",
+              "ano_modelo": 2018,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B48 2.0 Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 252,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4708,
+                "largura_mm": 1891,
+                "altura_mm": 1676,
+                "entre_eixos_mm": 2864,
+                "porta_malas_l": 550,
+                "tanque_l": 65,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "M40i",
+              "ano_modelo": 2019,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B58 3.0 Turbo",
+                "cilindrada_cc": 2998,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 360,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500-6500",
+                "torque_kgfm": 51,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1520-4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.8,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4708,
+                "largura_mm": 1891,
+                "altura_mm": 1676,
+                "entre_eixos_mm": 2864,
+                "porta_malas_l": 550,
+                "tanque_l": 65,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive30e",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B48 2.0 Turbo",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 292,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 42.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": null,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4708,
+                "largura_mm": 1891,
+                "altura_mm": 1676,
+                "entre_eixos_mm": 2864,
+                "porta_malas_l": 450,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -942,6 +2574,416 @@
                 "entre_eixos_mm": 2975,
                 "porta_malas_l": null,
                 "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (E70)",
+          "ano_inicio": 2007,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "3.0si",
+              "ano_modelo": 2007,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N52 3.0",
+                "cilindrada_cc": 2996,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 272,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6650",
+                "torque_kgfm": 32.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4854,
+                "largura_mm": 1933,
+                "altura_mm": 1766,
+                "entre_eixos_mm": 2933,
+                "porta_malas_l": 620,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "4.8i",
+              "ano_modelo": 2007,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N62 4.8 V8",
+                "cilindrada_cc": 4799,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 355,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6300",
+                "torque_kgfm": 48.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3400-3800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4854,
+                "largura_mm": 1933,
+                "altura_mm": 1766,
+                "entre_eixos_mm": 2933,
+                "porta_malas_l": 620,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive35i",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N55 3.0 Turbo",
+                "cilindrada_cc": 2979,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 306,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1200-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4854,
+                "largura_mm": 1933,
+                "altura_mm": 1766,
+                "entre_eixos_mm": 2933,
+                "porta_malas_l": 620,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive50i",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N63 4.4 V8 Biturbo",
+                "cilindrada_cc": 4395,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 407,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 61.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4854,
+                "largura_mm": 1933,
+                "altura_mm": 1766,
+                "entre_eixos_mm": 2933,
+                "porta_malas_l": 620,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (F15)",
+          "ano_inicio": 2013,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "xDrive35i",
+              "ano_modelo": 2014,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N55 3.0 Turbo",
+                "cilindrada_cc": 2979,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 306,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1200-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4886,
+                "largura_mm": 1938,
+                "altura_mm": 1762,
+                "entre_eixos_mm": 2933,
+                "porta_malas_l": 650,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive50i",
+              "ano_modelo": 2014,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N63 4.4 V8 Biturbo",
+                "cilindrada_cc": 4395,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 450,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 66.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4886,
+                "largura_mm": 1938,
+                "altura_mm": 1762,
+                "entre_eixos_mm": 2933,
+                "porta_malas_l": 650,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "xDrive40e",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N20 2.0 Turbo",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 313,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 9,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4886,
+                "largura_mm": 1938,
+                "altura_mm": 1762,
+                "entre_eixos_mm": 2933,
+                "porta_malas_l": 500,
+                "tanque_l": 85,
                 "peso_kg": null
               },
               "suspensao": {
@@ -1360,6 +3402,418 @@
                 "entre_eixos_mm": null,
                 "porta_malas_l": null,
                 "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Série 1",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (E87)",
+          "ano_inicio": 2004,
+          "ano_fim": 2011,
+          "versoes": [
+            {
+              "nome": "120i",
+              "ano_modelo": 2006,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N46 2.0",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4227,
+                "largura_mm": 1751,
+                "altura_mm": 1430,
+                "entre_eixos_mm": 2660,
+                "porta_malas_l": 330,
+                "tanque_l": 53,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "130i M Sport",
+              "ano_modelo": 2008,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N52 3.0",
+                "cilindrada_cc": 2996,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 265,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6600",
+                "torque_kgfm": 32.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4227,
+                "largura_mm": 1751,
+                "altura_mm": 1430,
+                "entre_eixos_mm": 2660,
+                "porta_malas_l": 330,
+                "tanque_l": 53,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (F20)",
+          "ano_inicio": 2011,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "116i",
+              "ano_modelo": 2012,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N13 1.6 Turbo",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 136,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4400",
+                "torque_kgfm": 22.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1350-4300"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4324,
+                "largura_mm": 1765,
+                "altura_mm": 1421,
+                "entre_eixos_mm": 2690,
+                "porta_malas_l": 360,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "118i",
+              "ano_modelo": 2012,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N13 1.6 Turbo",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 170,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4800",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4324,
+                "largura_mm": 1765,
+                "altura_mm": 1421,
+                "entre_eixos_mm": 2690,
+                "porta_malas_l": 360,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "M135i",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "N55 3.0 Turbo",
+                "cilindrada_cc": 2979,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 320,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1300-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4324,
+                "largura_mm": 1765,
+                "altura_mm": 1421,
+                "entre_eixos_mm": 2690,
+                "porta_malas_l": 360,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "118i",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B38 1.5 Turbo",
+                "cilindrada_cc": 1499,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 136,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4400",
+                "torque_kgfm": 22.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1250-4300"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4329,
+                "largura_mm": 1765,
+                "altura_mm": 1421,
+                "entre_eixos_mm": 2690,
+                "porta_malas_l": 360,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "M140i",
+              "ano_modelo": 2017,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "B58 3.0 Turbo",
+                "cilindrada_cc": 2998,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 340,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 51,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1520-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.6,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4329,
+                "largura_mm": 1765,
+                "altura_mm": 1421,
+                "entre_eixos_mm": 2690,
+                "porta_malas_l": 360,
+                "tanque_l": 52,
                 "peso_kg": null
               },
               "suspensao": {

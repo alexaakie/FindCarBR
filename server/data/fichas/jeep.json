@@ -355,6 +355,118 @@
                 "traseiros": "Disco sólido"
               },
               "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Longitude 2.0 Diesel 4x4",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Multijet II 2.0 Turbodiesel",
+                "cilindrada_cc": 1956,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 170,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3750",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4236,
+                "largura_mm": 1805,
+                "altura_mm": 1690,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Trailhawk 2.0 Diesel 4x4",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Multijet II 2.0 Turbodiesel",
+                "cilindrada_cc": 1956,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 170,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3750",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4236,
+                "largura_mm": 1805,
+                "altura_mm": 1690,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }
@@ -711,6 +823,69 @@
                 "traseiros": "Disco sólido"
               },
               "pneus": "225/55 R18"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (MK)",
+          "ano_inicio": 2007,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "Sport 2.0",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "World Engine 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 156,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 19.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2635,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }
@@ -1075,6 +1250,125 @@
               "pneus": "285/70 R17"
             }
           ]
+        },
+        {
+          "nome": "3ª geração (JK)",
+          "ano_inicio": 2007,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "Unlimited Sahara 3.6 V6",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.6 V6",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 284,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2946,
+                "porta_malas_l": null,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Unlimited Rubicon 3.6 V6",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.6 V6",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 284,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2946,
+                "porta_malas_l": null,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -1204,6 +1498,362 @@
               "freios": {
                 "dianteiros": "Disco ventilado",
                 "traseiros": "Disco ventilado"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "4ª geração (WK2)",
+          "ano_inicio": 2011,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "Limited 3.6 V6",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.6 V6",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 286,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4822,
+                "largura_mm": 1943,
+                "altura_mm": 1781,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 93,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "SRT8 6.4 V8",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HEMI 6.4 V8",
+                "cilindrada_cc": 6417,
+                "cilindros": 8,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 468,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 63.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4822,
+                "largura_mm": 1943,
+                "altura_mm": 1781,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 93,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Limited 3.6 V6",
+              "ano_modelo": 2014,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.6 V6",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 286,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4822,
+                "largura_mm": 1943,
+                "altura_mm": 1781,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 93,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Limited 3.0 V6 Diesel",
+              "ano_modelo": 2014,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EcoDiesel 3.0 V6",
+                "cilindrada_cc": 2987,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 241,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 56,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4822,
+                "largura_mm": 1943,
+                "altura_mm": 1781,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 93,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Cherokee",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "5ª geração (KL)",
+          "ano_inicio": 2014,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "Longitude 3.2 V6 4x4",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.2 V6",
+                "cilindrada_cc": 3239,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 271,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4624,
+                "largura_mm": 1859,
+                "altura_mm": 1670,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Trailhawk 3.2 V6 4x4",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.2 V6",
+                "cilindrada_cc": 3239,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 271,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4624,
+                "largura_mm": 1859,
+                "altura_mm": 1670,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
               },
               "pneus": null
             }

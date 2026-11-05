@@ -411,6 +411,461 @@
                 "traseiros": "Tambor"
               },
               "pneus": "265/60 R18"
+            },
+            {
+              "nome": "XL 2.2 TD 4x4 Cabine Simples",
+              "ano_modelo": 2013,
+              "carroceria": "Picape cabine simples",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "2.2 Duratorq TDCi",
+                "cilindrada_cc": 2198,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XLS 2.5 Flex 4x2",
+              "ano_modelo": 2013,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.5 16V Flex",
+                "cilindrada_cc": 2488,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XLT 3.2 TD 4x4",
+              "ano_modelo": 2013,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.2 Duratorq TDCi",
+                "cilindrada_cc": 3198,
+                "cilindros": 5,
+                "valvulas": 20,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 200,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3000",
+                "torque_kgfm": 47.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750-2500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XLS 2.2 TD 4x4 Automático",
+              "ano_modelo": 2017,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.2 Duratorq TDCi",
+                "cilindrada_cc": 2198,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 160,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 39.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 1998,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "XLT 2.8 Power Stroke 4x4 Cabine Dupla",
+              "ano_modelo": 2002,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.8 Power Stroke",
+                "cilindrada_cc": 2800,
+                "cilindros": 4,
+                "valvulas": null,
+                "aspiracao": "Turbo",
+                "injecao": null,
+                "combustivel": "Diesel",
+                "potencia_cv": 135,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XL 2.3 Cabine Simples",
+              "ano_modelo": 2006,
+              "carroceria": "Picape cabine simples",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "Duratec 2.3 16V",
+                "cilindrada_cc": 2261,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XLS 2.3 Cabine Dupla",
+              "ano_modelo": 2006,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.3 16V",
+                "cilindrada_cc": 2261,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XLT 3.0 Power Stroke 4x4 Cabine Dupla",
+              "ano_modelo": 2006,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.0 Power Stroke Electronic",
+                "cilindrada_cc": 2953,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 163,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }
@@ -442,7 +897,7 @@
                 "potencia_cv": 253,
                 "potencia_cv_etanol": null,
                 "potencia_rpm": "5500",
-                "torque_kgfm": 38.0,
+                "torque_kgfm": 38,
                 "torque_kgfm_etanol": null,
                 "torque_rpm": "3000"
               },
@@ -498,7 +953,7 @@
                 "potencia_cv": 253,
                 "potencia_cv_etanol": null,
                 "potencia_rpm": "5500",
-                "torque_kgfm": 38.0,
+                "torque_kgfm": 38,
                 "torque_kgfm_etanol": null,
                 "torque_rpm": "3000"
               },
@@ -592,6 +1047,62 @@
                 "traseiros": "Disco sólido"
               },
               "pneus": "225/65 R17"
+            },
+            {
+              "nome": "Lariat FX4 2.0 EcoBoost AWD",
+              "ano_modelo": 2022,
+              "carroceria": "Picape cabine dupla",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 EcoBoost",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 253,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 38,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }
@@ -663,6 +1174,125 @@
               "pneus": "235/50 R19"
             }
           ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2021,
+          "ano_fim": 2022,
+          "versoes": [
+            {
+              "nome": "SEL 1.5 EcoBoost",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 EcoBoost",
+                "cilindrada_cc": 1497,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Titanium 1.5 EcoBoost",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 EcoBoost",
+                "cilindrada_cc": 1497,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -692,7 +1322,7 @@
                 "potencia_cv": 253,
                 "potencia_cv_etanol": null,
                 "potencia_rpm": "5500",
-                "torque_kgfm": 38.0,
+                "torque_kgfm": 38,
                 "torque_kgfm_etanol": null,
                 "torque_rpm": "3000"
               },
@@ -1305,6 +1935,244 @@
               "pneus": "195/60 R15"
             }
           ]
+        },
+        {
+          "nome": "1ª geração (BE146)",
+          "ano_inicio": 1997,
+          "ano_fim": 2007,
+          "versoes": [
+            {
+              "nome": "GL 1.0",
+              "ano_modelo": 2001,
+              "carroceria": "Hatch",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "Zetec Rocam 1.0 8V",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XR 1.6",
+              "ano_modelo": 2002,
+              "carroceria": "Hatch",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2008,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "1.0 Flex",
+              "ano_modelo": 2008,
+              "carroceria": "Hatch",
+              "portas": 2,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.0 8V Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Sport 1.6 Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 2,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V Flex",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -1499,6 +2367,349 @@
               "pneus": "205/60 R16"
             }
           ]
+        },
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2003,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "XL 1.6",
+              "ano_modelo": 2003,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 98,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XLT 2.0",
+              "ano_modelo": 2004,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XLT 2.0 4WD",
+              "ano_modelo": 2004,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.4 TDCi",
+              "ano_modelo": 2004,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.4 TDCi",
+                "cilindrada_cc": 1399,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 68,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XLS 1.6 Flex",
+              "ano_modelo": 2007,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V Flex",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XLT 2.0 Flex Automático",
+              "ano_modelo": 2008,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.0 16V Flex",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -1529,7 +2740,7 @@
                 "potencia_cv_etanol": 130,
                 "potencia_rpm": "6500",
                 "torque_kgfm": null,
-                "torque_kgfm_etanol": 16.0,
+                "torque_kgfm_etanol": 16,
                 "torque_rpm": "4250"
               },
               "eletrico": null,
@@ -1566,6 +2777,524 @@
                 "traseiros": "Tambor"
               },
               "pneus": "195/50 R16"
+            },
+            {
+              "nome": "SE 1.6",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 Sigma Ti-VCT 16V",
+                "cilindrada_cc": 1596,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Titanium 1.6 Automático",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 Sigma Ti-VCT 16V",
+                "cilindrada_cc": 1596,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Titanium 1.0 EcoBoost Automático",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.0 EcoBoost",
+                "cilindrada_cc": 999,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 125,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 17.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "4ª geração (Street)",
+          "ano_inicio": 1996,
+          "ano_fim": 2006,
+          "versoes": [
+            {
+              "nome": "Street 1.0",
+              "ano_modelo": 2003,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.0 8V",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "5ª geração (B256)",
+          "ano_inicio": 2003,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "1.0",
+              "ano_modelo": 2003,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.0 8V",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6",
+              "ano_modelo": 2003,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 98,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Supercharger 1.0",
+              "ano_modelo": 2003,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.0 8V Supercharger",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": null,
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 95,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.0 Flex",
+              "ano_modelo": 2011,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.0 8V Flex",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 Flex",
+              "ano_modelo": 2011,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V Flex",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }
@@ -1635,6 +3364,1687 @@
                 "traseiros": "Disco sólido"
               },
               "pneus": "215/50 R17"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (C170)",
+          "ano_inicio": 2000,
+          "ano_fim": 2009,
+          "versoes": [
+            {
+              "nome": "GLX 1.8 16V",
+              "ano_modelo": 2001,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec 1.8 16V",
+                "cilindrada_cc": 1796,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Ghia 2.0 16V",
+              "ano_modelo": 2001,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec 2.0 16V",
+                "cilindrada_cc": 1989,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 130,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Ghia 2.0 16V Automático",
+              "ano_modelo": 2001,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec 2.0 16V",
+                "cilindrada_cc": 1989,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 130,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 Flex",
+              "ano_modelo": 2007,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V Flex",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (C307)",
+          "ano_inicio": 2009,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "GL 1.6 Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V Flex",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GLX 2.0 Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.0 16V Flex",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GLX 2.0 Flex Automático",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.0 16V Flex",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Fiesta Sedan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "5ª geração (B256)",
+          "ano_inicio": 2005,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "1.6",
+              "ano_modelo": 2005,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 98,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 Flex",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V Flex",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "6ª geração (B299)",
+          "ano_inicio": 2011,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "SE 1.6",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 Sigma 16V Flex",
+                "cilindrada_cc": 1596,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Titanium 1.6 Automático",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 Sigma Ti-VCT 16V",
+                "cilindrada_cc": 1596,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Focus Sedan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração (C170)",
+          "ano_inicio": 2001,
+          "ano_fim": 2009,
+          "versoes": [
+            {
+              "nome": "Ghia 2.0 16V",
+              "ano_modelo": 2001,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec 2.0 16V",
+                "cilindrada_cc": 1989,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 130,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Ghia 2.0 16V Automático",
+              "ano_modelo": 2001,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Zetec 2.0 16V",
+                "cilindrada_cc": 1989,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 130,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (C307)",
+          "ano_inicio": 2009,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "GLX 2.0 Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.0 16V Flex",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Ghia 2.0 Flex Automático",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.0 16V Flex",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Focus Fastback",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "3ª geração (C346)",
+          "ano_inicio": 2014,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "SE 2.0 Automático",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 Direct Flex 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": 178,
+                "potencia_rpm": "6250",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": 22.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Titanium 2.0 Automático",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 Direct Flex 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": 178,
+                "potencia_rpm": "6250",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": 22.5,
+                "torque_rpm": "4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Courier",
+      "categoria": "Picape",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 1998,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "L 1.6",
+              "ano_modelo": 2001,
+              "carroceria": "Picape cabine simples",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 Flex",
+              "ano_modelo": 2008,
+              "carroceria": "Picape cabine simples",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "Zetec Rocam 1.6 8V Flex",
+                "cilindrada_cc": 1597,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Fusion",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração (CD338)",
+          "ano_inicio": 2006,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "SEL 2.3",
+              "ano_modelo": 2006,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.3 16V",
+                "cilindrada_cc": 2261,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 162,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "SEL 2.5",
+              "ano_modelo": 2010,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.5 16V",
+                "cilindrada_cc": 2488,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 173,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "SEL 3.0 V6 AWD",
+              "ano_modelo": 2010,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 3.0 V6 24V",
+                "cilindrada_cc": 2967,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 243,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Hybrid 2.5",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.5 Duratec Atkinson + motor elétrico",
+                "cilindrada_cc": 2488,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Híbrido",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (CD391)",
+          "ano_inicio": 2013,
+          "ano_fim": 2020,
+          "versoes": [
+            {
+              "nome": "SEL 2.5 Flex",
+              "ano_modelo": 2013,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 2.5 16V Flex",
+                "cilindrada_cc": 2488,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Titanium 2.0 EcoBoost AWD",
+              "ano_modelo": 2013,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 EcoBoost",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 248,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Hybrid 2.0",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 Atkinson + motor elétrico",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Híbrido",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Edge",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (U387)",
+          "ano_inicio": 2009,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "SEL 3.5 V6 AWD",
+              "ano_modelo": 2009,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 3.5 V6 24V",
+                "cilindrada_cc": 3496,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 265,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Limited 3.5 V6 AWD",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Duratec 3.5 V6 24V Ti-VCT",
+                "cilindrada_cc": 3496,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 289,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
             }
           ]
         }

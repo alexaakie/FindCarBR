@@ -19,6 +19,7 @@ const ORDENS = [
   ['porta_malas', 'Maior porta-malas'],
 ];
 const NAO_FILTROS = ['pagina', 'ordem', 'vista'];
+const DECADAS = [['Anos 2000', 2000, 2009], ['Anos 2010', 2010, 2019], ['2020 em diante', 2020, null]];
 const ROTULOS = { q: 'Busca', marca: 'Marca', categoria: 'Categoria', combustivel: 'Combustível', tracao: 'Tração', cambio: 'Câmbio',
   ano_min: 'Ano a partir de', ano_max: 'Ano até', pot_min: 'Potência mín.', pot_max: 'Potência máx.', preco_min: 'Preço mín.', preco_max: 'Preço máx.', apenas_atuais: 'Só linha atual' };
 
@@ -99,7 +100,15 @@ export default function Catalogo() {
       <Grupo titulo="Câmbio">{chips('cambio', opcoes?.cambios)}</Grupo>
       <Grupo titulo="Tração">{chips('tracao', opcoes?.tracoes)}</Grupo>
       <Grupo titulo="Potência (cv)"><Faixa chaveMin="pot_min" chaveMax="pot_max" params={params} definir={definir} placeholder={['mín.', 'máx.']} passo={10} /></Grupo>
-      <Grupo titulo="Ano-modelo"><Faixa chaveMin="ano_min" chaveMax="ano_max" params={params} definir={definir} placeholder={[opcoes?.anos.min ?? 'de', opcoes?.anos.max ?? 'até']} /></Grupo>
+      <Grupo titulo="Ano-modelo">
+        <div className="mb-2 flex flex-wrap gap-1.5">
+          {DECADAS.map(([r, de, ate]) => (
+            <Chip key={r} ativo={params.get('ano_min') === String(de) && (params.get('ano_max') ?? '') === String(ate ?? '')}
+              onClick={() => atualizar((n) => { n.set('ano_min', de); if (ate) n.set('ano_max', ate); else n.delete('ano_max'); })}>{r}</Chip>
+          ))}
+        </div>
+        <Faixa chaveMin="ano_min" chaveMax="ano_max" params={params} definir={definir} placeholder={[opcoes?.anos.min ?? 'de', opcoes?.anos.max ?? 'até']} />
+      </Grupo>
       <Grupo titulo="Linha">
         <label className="flex items-center gap-2 text-sm">
           <input type="checkbox" className="h-4 w-4 accent-[var(--color-marca-600)]" checked={params.get('apenas_atuais') === '1'}

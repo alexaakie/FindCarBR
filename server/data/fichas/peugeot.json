@@ -299,6 +299,286 @@
                 "traseiros": "Tambor"
               },
               "pneus": "195/55 R16"
+            },
+            {
+              "nome": "Active 1.5",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.5 8V Flex",
+                "cilindrada_cc": null,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 90,
+                "potencia_cv_etanol": 93,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3962,
+                "largura_mm": 1739,
+                "altura_mm": 1460,
+                "entre_eixos_mm": 2538,
+                "porta_malas_l": 285,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Allure 1.6",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EC5 1.6 16V",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 122,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.4,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3962,
+                "largura_mm": 1739,
+                "altura_mm": 1460,
+                "entre_eixos_mm": 2538,
+                "porta_malas_l": 285,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Griffe 1.6 Automático",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EC5 1.6 16V",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 122,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.4,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3962,
+                "largura_mm": 1739,
+                "altura_mm": 1460,
+                "entre_eixos_mm": 2538,
+                "porta_malas_l": 285,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GT 1.6 THP",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 THP Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": 173,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": 24.5,
+                "torque_rpm": "1400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3962,
+                "largura_mm": 1739,
+                "altura_mm": 1460,
+                "entre_eixos_mm": 2538,
+                "porta_malas_l": 285,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Active 1.2 PureTech",
+              "ano_modelo": 2017,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.2 PureTech 12V (EB2)",
+                "cilindrada_cc": 1199,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 84,
+                "potencia_cv_etanol": 90,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3962,
+                "largura_mm": 1739,
+                "altura_mm": 1460,
+                "entre_eixos_mm": 2538,
+                "porta_malas_l": 285,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
             }
           ]
         }
@@ -672,6 +952,174 @@
                 "traseiros": "Tambor"
               },
               "pneus": "205/60 R16"
+            },
+            {
+              "nome": "Allure 1.6",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EC5 1.6 16V",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 122,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.4,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4159,
+                "largura_mm": 1739,
+                "altura_mm": 1556,
+                "entre_eixos_mm": 2542,
+                "porta_malas_l": 402,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/60 R16"
+            },
+            {
+              "nome": "Allure 1.6 Automático",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EC5 1.6 16V",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 115,
+                "potencia_cv_etanol": 122,
+                "potencia_rpm": null,
+                "torque_kgfm": 15.5,
+                "torque_kgfm_etanol": 16.4,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4159,
+                "largura_mm": 1739,
+                "altura_mm": 1556,
+                "entre_eixos_mm": 2542,
+                "porta_malas_l": 402,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": "205/60 R16"
+            },
+            {
+              "nome": "Griffe 1.6 THP",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 THP Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": 173,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": 24.5,
+                "torque_rpm": "1400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4159,
+                "largura_mm": 1739,
+                "altura_mm": 1556,
+                "entre_eixos_mm": 2542,
+                "porta_malas_l": 402,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
             }
           ]
         }
@@ -881,6 +1329,1724 @@
               "freios": {
                 "dianteiros": "Disco ventilado",
                 "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "206",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (T1)",
+          "ano_inicio": 1999,
+          "ano_fim": 2010,
+          "versoes": [
+            {
+              "nome": "Soleil 1.0 16V",
+              "ano_modelo": 2002,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.0 16V (D4D)",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 70,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3835,
+                "largura_mm": 1652,
+                "altura_mm": 1428,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": 245,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Selection 1.4 8V",
+              "ano_modelo": 2005,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU3 1.4 8V",
+                "cilindrada_cc": 1360,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3835,
+                "largura_mm": 1652,
+                "altura_mm": 1428,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": 245,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Feline 1.6 16V",
+              "ano_modelo": 2002,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU5JP4 1.6 16V",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 14.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3835,
+                "largura_mm": 1652,
+                "altura_mm": 1428,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": 245,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Presence 1.4 Flex",
+              "ano_modelo": 2008,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU3 1.4 8V Flex",
+                "cilindrada_cc": 1360,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 80,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3835,
+                "largura_mm": 1652,
+                "altura_mm": 1428,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": 245,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "206 SW",
+      "categoria": "Perua",
+      "geracoes": [
+        {
+          "nome": "1ª geração (T1)",
+          "ano_inicio": 2005,
+          "ano_fim": 2008,
+          "versoes": [
+            {
+              "nome": "Feline 1.6 16V",
+              "ano_modelo": 2005,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU5JP4 1.6 16V",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 14.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4028,
+                "largura_mm": 1652,
+                "altura_mm": null,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": 313,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Presence 1.4 Flex",
+              "ano_modelo": 2008,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU3 1.4 8V Flex",
+                "cilindrada_cc": 1360,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 80,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4028,
+                "largura_mm": 1652,
+                "altura_mm": null,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": 313,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "207",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (brasileira)",
+          "ano_inicio": 2008,
+          "ano_fim": 2015,
+          "versoes": [
+            {
+              "nome": "XR 1.4 Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU3 1.4 8V Flex",
+                "cilindrada_cc": 1360,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 80,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XS 1.6 16V Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU5 1.6 16V Flex",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XS 1.6 16V Flex AT",
+              "ano_modelo": 2009,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU5 1.6 16V Flex",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "207 SW",
+      "categoria": "Perua",
+      "geracoes": [
+        {
+          "nome": "1ª geração (brasileira)",
+          "ano_inicio": 2008,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "XR 1.4 Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU3 1.4 8V Flex",
+                "cilindrada_cc": 1360,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 80,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Escapade 1.6 16V Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU5 1.6 16V Flex",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "207 Passion",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração (brasileira)",
+          "ano_inicio": 2008,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "XR 1.4 Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU3 1.4 8V Flex",
+                "cilindrada_cc": 1360,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 80,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "XS 1.6 16V Flex",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU5 1.6 16V Flex",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2442,
+                "porta_malas_l": null,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "307",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (T5)",
+          "ano_inicio": 2001,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "Presence 1.6 16V",
+              "ano_modelo": 2002,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU5JP4 1.6 16V",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 110,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 14.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4202,
+                "largura_mm": 1746,
+                "altura_mm": 1510,
+                "entre_eixos_mm": 2608,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Feline 2.0 16V AT",
+              "ano_modelo": 2002,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EW10J4 2.0 16V",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4202,
+                "largura_mm": 1746,
+                "altura_mm": 1510,
+                "entre_eixos_mm": 2608,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Presence 2.0 Flex",
+              "ano_modelo": 2008,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EW10 2.0 16V Flex",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": 151,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4202,
+                "largura_mm": 1746,
+                "altura_mm": 1510,
+                "entre_eixos_mm": 2608,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Feline 2.0 Flex AT",
+              "ano_modelo": 2008,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EW10 2.0 16V Flex",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": 151,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4202,
+                "largura_mm": 1746,
+                "altura_mm": 1510,
+                "entre_eixos_mm": 2608,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "308",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (T7 brasileira)",
+          "ano_inicio": 2012,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "Active 1.6 16V Flex",
+              "ano_modelo": 2012,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "TU5 1.6 16V Flex",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4276,
+                "largura_mm": 1815,
+                "altura_mm": 1525,
+                "entre_eixos_mm": 2608,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Allure 2.0 Flex AT",
+              "ano_modelo": 2012,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EW10 2.0 16V Flex",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": 151,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4276,
+                "largura_mm": 1815,
+                "altura_mm": 1525,
+                "entre_eixos_mm": 2608,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Griffe 1.6 THP",
+              "ano_modelo": 2016,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 THP Flex",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": 173,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": 24.5,
+                "torque_rpm": "1400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4276,
+                "largura_mm": 1815,
+                "altura_mm": 1525,
+                "entre_eixos_mm": 2608,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "408",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2011,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "Allure 2.0 Flex",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EW10 2.0 16V Flex",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": 151,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4688,
+                "largura_mm": 1815,
+                "altura_mm": 1525,
+                "entre_eixos_mm": 2710,
+                "porta_malas_l": 562,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Feline 2.0 Flex AT",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EW10 2.0 16V Flex",
+                "cilindrada_cc": 1997,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 143,
+                "potencia_cv_etanol": 151,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4688,
+                "largura_mm": 1815,
+                "altura_mm": 1525,
+                "entre_eixos_mm": 2710,
+                "porta_malas_l": 562,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Griffe 1.6 THP",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 THP",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4688,
+                "largura_mm": 1815,
+                "altura_mm": 1525,
+                "entre_eixos_mm": 2710,
+                "porta_malas_l": 562,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "3008",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (T84)",
+          "ano_inicio": 2010,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "Griffe 1.6 THP",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 THP",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4365,
+                "largura_mm": 1837,
+                "altura_mm": 1639,
+                "entre_eixos_mm": 2613,
+                "porta_malas_l": 512,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (P84)",
+          "ano_inicio": 2017,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "Griffe 1.6 THP",
+              "ano_modelo": 2018,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "1.6 THP",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4447,
+                "largura_mm": 1841,
+                "altura_mm": 1624,
+                "entre_eixos_mm": 2675,
+                "porta_malas_l": 520,
+                "tanque_l": 53,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "5008",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (P87)",
+          "ano_inicio": 2017,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "Griffe 1.6 THP",
+              "ano_modelo": 2018,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "1.6 THP",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 165,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4641,
+                "largura_mm": 1844,
+                "altura_mm": 1646,
+                "entre_eixos_mm": 2840,
+                "porta_malas_l": null,
+                "tanque_l": 56,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Hoggar",
+      "categoria": "Picape",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2010,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "XR 1.4 Flex",
+              "ano_modelo": 2011,
+              "carroceria": "Picape cabine simples",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "TU3 1.4 8V Flex",
+                "cilindrada_cc": 1360,
+                "cilindros": 4,
+                "valvulas": 8,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 80,
+                "potencia_cv_etanol": 82,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Escapade 1.6 16V Flex",
+              "ano_modelo": 2011,
+              "carroceria": "Picape cabine simples",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "TU5 1.6 16V Flex",
+                "cilindrada_cc": 1587,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
               },
               "pneus": null
             }

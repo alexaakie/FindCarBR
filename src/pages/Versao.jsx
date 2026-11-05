@@ -214,7 +214,7 @@ export default function Versao() {
         )}
 
         {f.similares.length > 0 && (
-          <Secao id="concorrentes" titulo="Concorrentes diretos" subtitulo="Mesma categoria, ano próximo e potência parecida (±15%)">
+          <Secao id="concorrentes" titulo="Concorrentes diretos" subtitulo="Mesma categoria, mesma época (±2 anos) e potência parecida (±15%)">
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{f.similares.map((v) => <VersaoCard key={v.slug} v={v} />)}</div>
           </Secao>
         )}

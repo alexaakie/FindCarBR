@@ -170,7 +170,7 @@ export function fichaCompleta(db, slug) {
   const similares = db.prepare(`SELECT * FROM (
       SELECT x.*, row_number() OVER (PARTITION BY x.modelo_slug, x.marca_slug ORDER BY x.dif) AS ordem_modelo FROM (
         ${BASE_SELECT.replace('SELECT v.id,', 'SELECT abs(f.potencia_max_cv - ?) AS dif, v.id,')}
-        WHERE mo.categoria = ? AND mo.id != ? AND v.ano_modelo >= ? - 1 AND f.potencia_max_cv BETWEEN ? * 0.85 AND ? * 1.15
+        WHERE mo.categoria = ? AND mo.id != ? AND abs(v.ano_modelo - ?) <= 2 AND f.potencia_max_cv BETWEEN ? * 0.85 AND ? * 1.15
       ) x
     ) WHERE ordem_modelo = 1 ORDER BY dif LIMIT 6`)
     .all(row.potencia_max_cv ?? 0, row.categoria, row.modelo_id, row.ano_modelo, row.potencia_max_cv ?? 0, row.potencia_max_cv ?? 0);

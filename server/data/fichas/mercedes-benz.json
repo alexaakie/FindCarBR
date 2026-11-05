@@ -182,6 +182,636 @@
               "pneus": null
             }
           ]
+        },
+        {
+          "nome": "3ª geração (W204)",
+          "ano_inicio": 2007,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "C 200 Kompressor",
+              "ano_modelo": 2008,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M271 1.8 Kompressor",
+                "cilindrada_cc": 1796,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": null,
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2800-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4581,
+                "largura_mm": 1770,
+                "altura_mm": 1447,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 475,
+                "tanque_l": 66,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "C 63 AMG",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M156 6.2 V8",
+                "cilindrada_cc": 6208,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 457,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6800",
+                "torque_kgfm": 61.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.5,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4581,
+                "largura_mm": 1770,
+                "altura_mm": 1447,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 475,
+                "tanque_l": 66,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "C 180",
+              "ano_modelo": 2012,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M271 1.8 Turbo CGI",
+                "cilindrada_cc": 1796,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 156,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5000",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4591,
+                "largura_mm": 1770,
+                "altura_mm": 1447,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 475,
+                "tanque_l": 66,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "C 200",
+              "ano_modelo": 2012,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M271 1.8 Turbo CGI",
+                "cilindrada_cc": 1796,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5250",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4591,
+                "largura_mm": 1770,
+                "altura_mm": 1447,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 475,
+                "tanque_l": 66,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "C 250",
+              "ano_modelo": 2012,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M271 1.8 Turbo CGI",
+                "cilindrada_cc": 1796,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 31.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2000-4300"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4591,
+                "largura_mm": 1770,
+                "altura_mm": 1447,
+                "entre_eixos_mm": 2760,
+                "porta_malas_l": 475,
+                "tanque_l": 66,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "4ª geração (W205)",
+          "ano_inicio": 2014,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "C 180",
+              "ano_modelo": 2015,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M274 1.6 Turbo",
+                "cilindrada_cc": 1595,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 156,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5300",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1200-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4686,
+                "largura_mm": 1810,
+                "altura_mm": 1442,
+                "entre_eixos_mm": 2840,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "C 200",
+              "ano_modelo": 2015,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M274 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 30.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4686,
+                "largura_mm": 1810,
+                "altura_mm": 1442,
+                "entre_eixos_mm": 2840,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "C 250 Sport",
+              "ano_modelo": 2015,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M274 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4686,
+                "largura_mm": 1810,
+                "altura_mm": 1442,
+                "entre_eixos_mm": 2840,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "AMG C 63 S",
+              "ano_modelo": 2016,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M177 4.0 V8 Biturbo",
+                "cilindrada_cc": 3982,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 510,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500-6250",
+                "torque_kgfm": 71.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4686,
+                "largura_mm": 1810,
+                "altura_mm": 1442,
+                "entre_eixos_mm": 2840,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "C 200 EQ Boost",
+              "ano_modelo": 2019,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M264 1.5 Turbo EQ Boost",
+                "cilindrada_cc": 1497,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4686,
+                "largura_mm": 1810,
+                "altura_mm": 1442,
+                "entre_eixos_mm": 2840,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "C 300",
+              "ano_modelo": 2019,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M264 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 258,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800-6100",
+                "torque_kgfm": 37.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4686,
+                "largura_mm": 1810,
+                "altura_mm": 1442,
+                "entre_eixos_mm": 2840,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -236,6 +866,300 @@
                 "largura_mm": 1880,
                 "altura_mm": 1468,
                 "entre_eixos_mm": 2961,
+                "porta_malas_l": 540,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "4ª geração (W212)",
+          "ano_inicio": 2009,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "E 350",
+              "ano_modelo": 2010,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M272 3.5 V6",
+                "cilindrada_cc": 3498,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 272,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2400-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4868,
+                "largura_mm": 1854,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2874,
+                "porta_malas_l": 540,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "E 250 CGI",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M271 1.8 Turbo CGI",
+                "cilindrada_cc": 1796,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 31.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2000-4300"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4868,
+                "largura_mm": 1854,
+                "altura_mm": 1470,
+                "entre_eixos_mm": 2874,
+                "porta_malas_l": 540,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "E 250",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M274 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4879,
+                "largura_mm": 1854,
+                "altura_mm": 1474,
+                "entre_eixos_mm": 2874,
+                "porta_malas_l": 540,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "5ª geração (W213)",
+          "ano_inicio": 2016,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "E 250",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M274 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4923,
+                "largura_mm": 1852,
+                "altura_mm": 1468,
+                "entre_eixos_mm": 2939,
+                "porta_malas_l": 540,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "E 300",
+              "ano_modelo": 2021,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M264 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 258,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800-6100",
+                "torque_kgfm": 37.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4940,
+                "largura_mm": 1852,
+                "altura_mm": 1468,
+                "entre_eixos_mm": 2939,
                 "porta_malas_l": 540,
                 "tanque_l": null,
                 "peso_kg": null
@@ -445,6 +1369,181 @@
               "pneus": null
             }
           ]
+        },
+        {
+          "nome": "1ª geração (X156)",
+          "ano_inicio": 2014,
+          "ano_fim": 2020,
+          "versoes": [
+            {
+              "nome": "GLA 200",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M270 1.6 Turbo",
+                "cilindrada_cc": 1595,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 156,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5300",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1250-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4417,
+                "largura_mm": 1804,
+                "altura_mm": 1494,
+                "entre_eixos_mm": 2699,
+                "porta_malas_l": 421,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GLA 250 4MATIC",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M270 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1200-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4417,
+                "largura_mm": 1804,
+                "altura_mm": 1494,
+                "entre_eixos_mm": 2699,
+                "porta_malas_l": 421,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GLA 45 AMG 4MATIC",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M133 2.0 Turbo AMG",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 360,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2250-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.8,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4417,
+                "largura_mm": 1804,
+                "altura_mm": 1494,
+                "entre_eixos_mm": 2699,
+                "porta_malas_l": 421,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -583,6 +1682,181 @@
               "pneus": null
             }
           ]
+        },
+        {
+          "nome": "1ª geração (X253)",
+          "ano_inicio": 2015,
+          "ano_fim": 2022,
+          "versoes": [
+            {
+              "nome": "GLC 250 4MATIC",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M274 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4656,
+                "largura_mm": 1890,
+                "altura_mm": 1639,
+                "entre_eixos_mm": 2873,
+                "porta_malas_l": 550,
+                "tanque_l": 66,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "AMG GLC 43 4MATIC",
+              "ano_modelo": 2017,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M276 3.0 V6 Biturbo",
+                "cilindrada_cc": 2996,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 367,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500-6000",
+                "torque_kgfm": 53,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2000-4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.9,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4656,
+                "largura_mm": 1890,
+                "altura_mm": 1639,
+                "entre_eixos_mm": 2873,
+                "porta_malas_l": 550,
+                "tanque_l": 66,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GLC 300 4MATIC",
+              "ano_modelo": 2020,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M264 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 258,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800-6100",
+                "torque_kgfm": 37.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4656,
+                "largura_mm": 1890,
+                "altura_mm": 1639,
+                "entre_eixos_mm": 2873,
+                "porta_malas_l": 550,
+                "tanque_l": 66,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -652,6 +1926,69 @@
               "pneus": null
             }
           ]
+        },
+        {
+          "nome": "1ª geração (C253)",
+          "ano_inicio": 2016,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "GLC 300 4MATIC Coupé",
+              "ano_modelo": 2020,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M264 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 258,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800-6100",
+                "torque_kgfm": 37.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4732,
+                "largura_mm": 1890,
+                "altura_mm": 1602,
+                "entre_eixos_mm": 2873,
+                "porta_malas_l": 500,
+                "tanque_l": 66,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
         }
       ]
     },
@@ -708,6 +2045,69 @@
                 "entre_eixos_mm": null,
                 "porta_malas_l": null,
                 "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (W166)",
+          "ano_inicio": 2015,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "GLE 400 4MATIC",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M276 3.0 V6 Biturbo",
+                "cilindrada_cc": 2996,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 333,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5250-6000",
+                "torque_kgfm": 48.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4819,
+                "largura_mm": 1935,
+                "altura_mm": 1796,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": 690,
+                "tanque_l": 93,
                 "peso_kg": null
               },
               "suspensao": {
@@ -996,6 +2396,919 @@
                 "entre_eixos_mm": null,
                 "porta_malas_l": null,
                 "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Classe A",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "3ª geração (W176)",
+          "ano_inicio": 2013,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "A 200",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M270 1.6 Turbo",
+                "cilindrada_cc": 1595,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 156,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5300",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1250-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4292,
+                "largura_mm": 1780,
+                "altura_mm": 1433,
+                "entre_eixos_mm": 2699,
+                "porta_malas_l": 341,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "A 250 Sport",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M270 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1200-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4292,
+                "largura_mm": 1780,
+                "altura_mm": 1433,
+                "entre_eixos_mm": 2699,
+                "porta_malas_l": 341,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "AMG A 45 4MATIC",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M133 2.0 Turbo AMG",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 360,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2250-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.6,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4292,
+                "largura_mm": 1780,
+                "altura_mm": 1433,
+                "entre_eixos_mm": 2699,
+                "porta_malas_l": 341,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "4ª geração (W177)",
+          "ano_inicio": 2018,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "A 200",
+              "ano_modelo": 2019,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M282 1.33 Turbo",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 163,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1620-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4419,
+                "largura_mm": 1796,
+                "altura_mm": 1440,
+                "entre_eixos_mm": 2729,
+                "porta_malas_l": 370,
+                "tanque_l": 43,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "A 250",
+              "ano_modelo": 2019,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M260 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 224,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4419,
+                "largura_mm": 1796,
+                "altura_mm": 1440,
+                "entre_eixos_mm": 2729,
+                "porta_malas_l": 370,
+                "tanque_l": 43,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "AMG A 35 4MATIC",
+              "ano_modelo": 2020,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M260 2.0 Turbo AMG",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 306,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3000-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.7,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4419,
+                "largura_mm": 1796,
+                "altura_mm": 1440,
+                "entre_eixos_mm": 2729,
+                "porta_malas_l": 370,
+                "tanque_l": 43,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Classe A Sedan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração (V177)",
+          "ano_inicio": 2019,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "A 200",
+              "ano_modelo": 2020,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M282 1.33 Turbo",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 163,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1620-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4549,
+                "largura_mm": 1796,
+                "altura_mm": 1446,
+                "entre_eixos_mm": 2729,
+                "porta_malas_l": 420,
+                "tanque_l": 43,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CLA",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração (C117)",
+          "ano_inicio": 2013,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "CLA 200",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M270 1.6 Turbo",
+                "cilindrada_cc": 1595,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 156,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5300",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1250-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4630,
+                "largura_mm": 1777,
+                "altura_mm": 1432,
+                "entre_eixos_mm": 2699,
+                "porta_malas_l": 470,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "CLA 250 Sport 4MATIC",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M270 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1200-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4630,
+                "largura_mm": 1777,
+                "altura_mm": 1432,
+                "entre_eixos_mm": 2699,
+                "porta_malas_l": 470,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "CLA 45 AMG 4MATIC",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M133 2.0 Turbo AMG",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 360,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2250-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.6,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4630,
+                "largura_mm": 1777,
+                "altura_mm": 1432,
+                "entre_eixos_mm": 2699,
+                "porta_malas_l": 470,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (C118)",
+          "ano_inicio": 2019,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "CLA 250",
+              "ano_modelo": 2020,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M260 2.0 Turbo",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 224,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4688,
+                "largura_mm": 1830,
+                "altura_mm": 1439,
+                "entre_eixos_mm": 2729,
+                "porta_malas_l": 460,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "AMG CLA 35 4MATIC",
+              "ano_modelo": 2020,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M260 2.0 Turbo AMG",
+                "cilindrada_cc": 1991,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 306,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5800",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3000-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.9,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4688,
+                "largura_mm": 1830,
+                "altura_mm": 1439,
+                "entre_eixos_mm": 2729,
+                "porta_malas_l": 460,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Classe M",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (W164)",
+          "ano_inicio": 2005,
+          "ano_fim": 2011,
+          "versoes": [
+            {
+              "nome": "ML 350",
+              "ano_modelo": 2006,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M272 3.5 V6",
+                "cilindrada_cc": 3498,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 272,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2400-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4780,
+                "largura_mm": 1911,
+                "altura_mm": 1815,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 95,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "ML 63 AMG",
+              "ano_modelo": 2007,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M156 6.2 V8",
+                "cilindrada_cc": 6208,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 510,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6800",
+                "torque_kgfm": 64.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "5200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4780,
+                "largura_mm": 1911,
+                "altura_mm": 1815,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 95,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (W166)",
+          "ano_inicio": 2011,
+          "ano_fim": 2015,
+          "versoes": [
+            {
+              "nome": "ML 350 4MATIC",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "M276 3.5 V6",
+                "cilindrada_cc": 3498,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 306,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 37.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3500-5250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4804,
+                "largura_mm": 1926,
+                "altura_mm": 1796,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": 690,
+                "tanque_l": 93,
                 "peso_kg": null
               },
               "suspensao": {
