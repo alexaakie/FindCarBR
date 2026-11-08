@@ -1,0 +1,1851 @@
+{
+  "marca": {
+    "nome": "Kia",
+    "pais": "Coreia do Sul"
+  },
+  "modelos": [
+    {
+      "nome": "Stonic",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "1.0 T-GDI MHEV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 T-GDI",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 120,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 17.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4140,
+                "largura_mm": 1760,
+                "altura_mm": 1520,
+                "entre_eixos_mm": 2580,
+                "porta_malas_l": 352,
+                "tanque_l": 45,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Sportage",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "5ª geração (NQ5)",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "1.6 T-GDI",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Smartstream 1.6 T-GDI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 180,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 27.0,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4515,
+                "largura_mm": 1865,
+                "altura_mm": 1645,
+                "entre_eixos_mm": 2680,
+                "porta_malas_l": null,
+                "tanque_l": 54,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 T-GDI HEV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Smartstream 1.6 T-GDI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 230,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4515,
+                "largura_mm": 1865,
+                "altura_mm": 1645,
+                "entre_eixos_mm": 2680,
+                "porta_malas_l": null,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (KM)",
+          "ano_inicio": 2005,
+          "ano_fim": 2010,
+          "versoes": [
+            {
+              "nome": "LX 2.0",
+              "ano_modelo": 2006,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Beta 2.0 16V",
+                "cilindrada_cc": 1975,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4350,
+                "largura_mm": 1840,
+                "altura_mm": null,
+                "entre_eixos_mm": 2630,
+                "porta_malas_l": null,
+                "tanque_l": 58,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "EX 2.7 V6 4WD AT",
+              "ano_modelo": 2006,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Delta 2.7 V6 24V",
+                "cilindrada_cc": 2656,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 175,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 24.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4350,
+                "largura_mm": 1840,
+                "altura_mm": null,
+                "entre_eixos_mm": 2630,
+                "porta_malas_l": null,
+                "tanque_l": 58,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (SL)",
+          "ano_inicio": 2011,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "EX 2.0 AT",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Theta II 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 166,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 20.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4440,
+                "largura_mm": 1855,
+                "altura_mm": 1635,
+                "entre_eixos_mm": 2640,
+                "porta_malas_l": 465,
+                "tanque_l": 58,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "EX 2.0 4WD AT",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Theta II 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 166,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 20.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4440,
+                "largura_mm": 1855,
+                "altura_mm": 1635,
+                "entre_eixos_mm": 2640,
+                "porta_malas_l": 465,
+                "tanque_l": 58,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "4ª geração (QL)",
+          "ano_inicio": 2016,
+          "ano_fim": 2022,
+          "versoes": [
+            {
+              "nome": "EX 2.0 Flex AT",
+              "ano_modelo": 2017,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Nu 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4480,
+                "largura_mm": 1855,
+                "altura_mm": 1645,
+                "entre_eixos_mm": 2670,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Niro",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (SG2)",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "HEV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Smartstream 1.6 GDI",
+                "cilindrada_cc": 1580,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 141,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 26.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4420,
+                "largura_mm": 1825,
+                "altura_mm": 1545,
+                "entre_eixos_mm": 2720,
+                "porta_malas_l": null,
+                "tanque_l": 42,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "EV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 26.0,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 64.8,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4420,
+                "largura_mm": 1825,
+                "altura_mm": 1570,
+                "entre_eixos_mm": 2720,
+                "porta_malas_l": 475,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "EV5",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "EV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 217,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 88.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4615,
+                "largura_mm": 1875,
+                "altura_mm": 1715,
+                "entre_eixos_mm": 2750,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "EV6",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GT-Line AWD",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 325,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 61.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 77.4,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.2,
+                "vel_max_kmh": 188
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4695,
+                "largura_mm": 1890,
+                "altura_mm": 1550,
+                "entre_eixos_mm": 2900,
+                "porta_malas_l": 490,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "EV9",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GT-Line AWD",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 384,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 71.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 99.8,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.3,
+                "vel_max_kmh": 200
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5010,
+                "largura_mm": 1980,
+                "altura_mm": 1755,
+                "entre_eixos_mm": 3100,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Sorento",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "4ª geração (MQ4)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "1.6 T-GDI HEV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "Smartstream 1.6 T-GDI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 230,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4810,
+                "largura_mm": 1900,
+                "altura_mm": 1700,
+                "entre_eixos_mm": 2815,
+                "porta_malas_l": null,
+                "tanque_l": 67,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.6 T-GDI PHEV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "Smartstream 1.6 T-GDI",
+                "cilindrada_cc": 1598,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 265,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 13.8,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4810,
+                "largura_mm": 1900,
+                "altura_mm": 1700,
+                "entre_eixos_mm": 2815,
+                "porta_malas_l": null,
+                "tanque_l": 47,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (XM)",
+          "ano_inicio": 2009,
+          "ano_fim": 2014,
+          "versoes": [
+            {
+              "nome": "EX 2.4 AT",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "Theta II 2.4 16V",
+                "cilindrada_cc": 2359,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4685,
+                "largura_mm": 1885,
+                "altura_mm": 1710,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "EX 3.5 V6 4WD AT",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "Lambda 3.5 V6 24V",
+                "cilindrada_cc": 3470,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4685,
+                "largura_mm": 1885,
+                "altura_mm": 1710,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Carnival",
+      "categoria": "Minivan",
+      "geracoes": [
+        {
+          "nome": "4ª geração (KA4)",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "3.5 V6",
+              "ano_modelo": 2025,
+              "carroceria": "Minivan",
+              "portas": 4,
+              "lugares": 8,
+              "motor": {
+                "codigo": "Smartstream 3.5 V6",
+                "cilindrada_cc": 3470,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 272,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 33.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5155,
+                "largura_mm": 1995,
+                "altura_mm": 1775,
+                "entre_eixos_mm": 3090,
+                "porta_malas_l": null,
+                "tanque_l": 72,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Picanto",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (SA)",
+          "ano_inicio": 2004,
+          "ano_fim": 2011,
+          "versoes": [
+            {
+              "nome": "EX 1.0",
+              "ano_modelo": 2006,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Epsilon 1.0 12V",
+                "cilindrada_cc": 999,
+                "cilindros": 4,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3495,
+                "largura_mm": 1595,
+                "altura_mm": null,
+                "entre_eixos_mm": 2370,
+                "porta_malas_l": null,
+                "tanque_l": 35,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "EX 1.1 AT",
+              "ano_modelo": 2006,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Epsilon 1.1 12V",
+                "cilindrada_cc": 1086,
+                "cilindros": 4,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3495,
+                "largura_mm": 1595,
+                "altura_mm": null,
+                "entre_eixos_mm": 2370,
+                "porta_malas_l": null,
+                "tanque_l": 35,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (TA)",
+          "ano_inicio": 2011,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "EX 1.0 Flex",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3595,
+                "largura_mm": 1595,
+                "altura_mm": null,
+                "entre_eixos_mm": 2385,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "EX 1.0 Flex AT",
+              "ano_modelo": 2013,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3595,
+                "largura_mm": 1595,
+                "altura_mm": null,
+                "entre_eixos_mm": 2385,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (JA)",
+          "ano_inicio": 2017,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "EX 1.0 Flex AT",
+              "ano_modelo": 2018,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Kappa 1.0 12V",
+                "cilindrada_cc": 998,
+                "cilindros": 3,
+                "valvulas": 12,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3595,
+                "largura_mm": 1595,
+                "altura_mm": null,
+                "entre_eixos_mm": 2400,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Tambor"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Cerato",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "2ª geração (TD)",
+          "ano_inicio": 2009,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "EX 1.6 AT",
+              "ano_modelo": 2010,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4530,
+                "largura_mm": 1775,
+                "altura_mm": 1460,
+                "entre_eixos_mm": 2650,
+                "porta_malas_l": null,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (YD)",
+          "ano_inicio": 2014,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "SX 1.6 Flex AT",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4560,
+                "largura_mm": 1780,
+                "altura_mm": 1445,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "SX 2.0 Flex AT",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Nu 2.0 16V",
+                "cilindrada_cc": 1999,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4560,
+                "largura_mm": 1780,
+                "altura_mm": 1445,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Soul",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (AM)",
+          "ano_inicio": 2009,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "EX 1.6",
+              "ano_modelo": 2010,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 5,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4105,
+                "largura_mm": 1785,
+                "altura_mm": 1610,
+                "entre_eixos_mm": 2550,
+                "porta_malas_l": 340,
+                "tanque_l": 48,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "EX 1.6 AT",
+              "ano_modelo": 2010,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 4,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4105,
+                "largura_mm": 1785,
+                "altura_mm": 1610,
+                "entre_eixos_mm": 2550,
+                "porta_malas_l": 340,
+                "tanque_l": 48,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (PS)",
+          "ano_inicio": 2014,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "EX 1.6 Flex AT",
+              "ano_modelo": 2015,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Gamma 1.6 16V",
+                "cilindrada_cc": 1591,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4140,
+                "largura_mm": 1800,
+                "altura_mm": 1600,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": 354,
+                "tanque_l": 54,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

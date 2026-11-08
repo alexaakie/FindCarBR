@@ -1,0 +1,2304 @@
+{
+  "marca": {
+    "nome": "Audi",
+    "pais": "Alemanha"
+  },
+  "modelos": [
+    {
+      "nome": "A3 Sedan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "4ª geração (8Y)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Performance 2.0 TFSI",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 32.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4495,
+                "largura_mm": 1816,
+                "altura_mm": 1425,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 425,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (8V)",
+          "ano_inicio": 2013,
+          "ano_fim": 2020,
+          "versoes": [
+            {
+              "nome": "Ambition 1.8 TFSI",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 1.8 TFSI",
+                "cilindrada_cc": 1798,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 180,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5100-6200",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1250-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4456,
+                "largura_mm": 1796,
+                "altura_mm": 1416,
+                "entre_eixos_mm": 2637,
+                "porta_malas_l": 425,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Attraction 1.4 TFSI",
+              "ano_modelo": 2015,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.4 TFSI",
+                "cilindrada_cc": 1395,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5000-6000",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1400-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4456,
+                "largura_mm": 1796,
+                "altura_mm": 1416,
+                "entre_eixos_mm": 2637,
+                "porta_malas_l": 425,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.4 TFSI Flex",
+              "ano_modelo": 2016,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.4 TFSI",
+                "cilindrada_cc": 1395,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": 150,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": 25.5,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4456,
+                "largura_mm": 1796,
+                "altura_mm": 1416,
+                "entre_eixos_mm": 2637,
+                "porta_malas_l": 425,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Ambition 2.0 TFSI",
+              "ano_modelo": 2016,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 220,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4500-6200",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-4400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4456,
+                "largura_mm": 1796,
+                "altura_mm": 1416,
+                "entre_eixos_mm": 2637,
+                "porta_malas_l": 425,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "A3 Sportback",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "4ª geração (8Y)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Performance 2.0 TFSI",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 32.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4343,
+                "largura_mm": 1816,
+                "altura_mm": 1449,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 380,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (8P)",
+          "ano_inicio": 2004,
+          "ano_fim": 2013,
+          "versoes": [
+            {
+              "nome": "2.0 TFSI",
+              "ano_modelo": 2007,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA113 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 200,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5100-6000",
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4292,
+                "largura_mm": 1765,
+                "altura_mm": 1423,
+                "entre_eixos_mm": 2578,
+                "porta_malas_l": 370,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (8V)",
+          "ano_inicio": 2013,
+          "ano_fim": 2020,
+          "versoes": [
+            {
+              "nome": "Attraction 1.4 TFSI",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.4 TFSI",
+                "cilindrada_cc": 1395,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 122,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5000-6000",
+                "torque_kgfm": 20.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1400-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4310,
+                "largura_mm": 1785,
+                "altura_mm": 1425,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 380,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Ambition 1.8 TFSI",
+              "ano_modelo": 2014,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 1.8 TFSI",
+                "cilindrada_cc": 1798,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 180,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5100-6200",
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1250-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4310,
+                "largura_mm": 1785,
+                "altura_mm": 1425,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 380,
+                "tanque_l": 50,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "S3 Sedan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "4ª geração (8Y)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "2.0 TFSI quattro",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 310,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "RS 3 Sportback",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "4ª geração (8Y)",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "2.5 TFSI quattro",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA855 2.5 TFSI",
+                "cilindrada_cc": 2480,
+                "cilindros": 5,
+                "valvulas": 20,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 400,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 50.0,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.8,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Q3",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (F3)",
+          "ano_inicio": 2019,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Performance 2.0 TFSI quattro",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 231,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4484,
+                "largura_mm": 1849,
+                "altura_mm": 1616,
+                "entre_eixos_mm": 2680,
+                "porta_malas_l": 530,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (8U)",
+          "ano_inicio": 2012,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "2.0 TFSI quattro 170 cv",
+              "ano_modelo": 2013,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 170,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 28.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4385,
+                "largura_mm": 1831,
+                "altura_mm": 1608,
+                "entre_eixos_mm": 2603,
+                "porta_malas_l": 460,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 TFSI quattro 211 cv",
+              "ano_modelo": 2013,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 30.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4385,
+                "largura_mm": 1831,
+                "altura_mm": 1608,
+                "entre_eixos_mm": 2603,
+                "porta_malas_l": 460,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.4 TFSI Flex",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA211 1.4 TFSI",
+                "cilindrada_cc": 1395,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 150,
+                "potencia_cv_etanol": 150,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": 25.5,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4385,
+                "largura_mm": 1831,
+                "altura_mm": 1608,
+                "entre_eixos_mm": 2603,
+                "porta_malas_l": 460,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Q3 Sportback",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (F3)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Performance 2.0 TFSI quattro",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 231,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4500,
+                "largura_mm": 1843,
+                "altura_mm": 1567,
+                "entre_eixos_mm": 2680,
+                "porta_malas_l": 530,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Q5",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (FY)",
+          "ano_inicio": 2017,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "TFSI e quattro",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 367,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 51.0,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": null,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (8R)",
+          "ano_inicio": 2008,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "2.0 TFSI quattro",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4300-6000",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4629,
+                "largura_mm": 1880,
+                "altura_mm": 1653,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 540,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "3.2 FSI quattro",
+              "ano_modelo": 2010,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.2 FSI V6",
+                "cilindrada_cc": 3197,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 270,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 33.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4629,
+                "largura_mm": 1880,
+                "altura_mm": 1653,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 540,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 TFSI quattro",
+              "ano_modelo": 2013,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 225,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4500-6250",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4629,
+                "largura_mm": 1880,
+                "altura_mm": 1653,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 540,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Q5 Sportback",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (FY)",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "TFSI e quattro",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 367,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 51.0,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": null,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Q8 e-tron",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (GE)",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "55 quattro",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 408,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 67.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 114.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.6,
+                "vel_max_kmh": 200
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4915,
+                "largura_mm": 1937,
+                "altura_mm": 1632,
+                "entre_eixos_mm": 2928,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Q8 Sportback e-tron",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (GE)",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "55 quattro",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 408,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 67.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 114.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.6,
+                "vel_max_kmh": 200
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Q8",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (4M)",
+          "ano_inicio": 2018,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "55 TFSI quattro",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA839 3.0 TFSI V6",
+                "cilindrada_cc": 2995,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 340,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 51.0,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.6,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "RS Q8",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (4M)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "4.0 TFSI quattro",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA825 4.0 TFSI V8",
+                "cilindrada_cc": 3996,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 600,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 81.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.8,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "RS 6 Avant",
+      "categoria": "Perua",
+      "geracoes": [
+        {
+          "nome": "4ª geração (C8)",
+          "ano_inicio": 2020,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "4.0 TFSI quattro",
+              "ano_modelo": 2025,
+              "carroceria": "Perua",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA825 4.0 TFSI V8",
+                "cilindrada_cc": 3996,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 600,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 81.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.6,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "A4",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "4ª geração (B8)",
+          "ano_inicio": 2008,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "2.0 TFSI",
+              "ano_modelo": 2009,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4300-6000",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4703,
+                "largura_mm": 1826,
+                "altura_mm": 1427,
+                "entre_eixos_mm": 2808,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "1.8 TFSI",
+              "ano_modelo": 2010,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 1.8 TFSI",
+                "cilindrada_cc": 1798,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 160,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4703,
+                "largura_mm": 1826,
+                "altura_mm": 1427,
+                "entre_eixos_mm": 2808,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "5ª geração (B9)",
+          "ano_inicio": 2016,
+          "ano_fim": 2025,
+          "versoes": [
+            {
+              "nome": "2.0 TFSI",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 190,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4200-6000",
+                "torque_kgfm": 32.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1450-4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4726,
+                "largura_mm": 1842,
+                "altura_mm": 1427,
+                "entre_eixos_mm": 2820,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 TFSI quattro",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 252,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5000-6000",
+                "torque_kgfm": 37.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4726,
+                "largura_mm": 1842,
+                "altura_mm": 1427,
+                "entre_eixos_mm": 2820,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "A5 Sportback",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração (8T)",
+          "ano_inicio": 2009,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "2.0 TFSI",
+              "ano_modelo": 2010,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 211,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4300-6000",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1500-4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4711,
+                "largura_mm": 1854,
+                "altura_mm": 1391,
+                "entre_eixos_mm": 2810,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (F5)",
+          "ano_inicio": 2017,
+          "ano_fim": 2025,
+          "versoes": [
+            {
+              "nome": "2.0 TFSI",
+              "ano_modelo": 2018,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 190,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "4200-6000",
+                "torque_kgfm": 32.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1450-4200"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4733,
+                "largura_mm": 1843,
+                "altura_mm": 1386,
+                "entre_eixos_mm": 2824,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "2.0 TFSI quattro",
+              "ano_modelo": 2018,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EA888 2.0 TFSI",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 252,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5000-6000",
+                "torque_kgfm": 37.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4733,
+                "largura_mm": 1843,
+                "altura_mm": 1386,
+                "entre_eixos_mm": 2824,
+                "porta_malas_l": 480,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Q7",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (4L)",
+          "ano_inicio": 2006,
+          "ano_fim": 2015,
+          "versoes": [
+            {
+              "nome": "3.6 FSI quattro",
+              "ano_modelo": 2007,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "3.6 FSI VR6",
+                "cilindrada_cc": 3597,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 280,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 36.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5086,
+                "largura_mm": 1983,
+                "altura_mm": 1737,
+                "entre_eixos_mm": 3002,
+                "porta_malas_l": null,
+                "tanque_l": 100,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "4.2 FSI quattro",
+              "ano_modelo": 2007,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "4.2 FSI V8",
+                "cilindrada_cc": 4163,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 350,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 44.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5086,
+                "largura_mm": 1983,
+                "altura_mm": 1737,
+                "entre_eixos_mm": 3002,
+                "porta_malas_l": null,
+                "tanque_l": 100,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (4M)",
+          "ano_inicio": 2015,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "3.0 TFSI quattro",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "3.0 TFSI V6",
+                "cilindrada_cc": 2995,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 333,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 44.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5052,
+                "largura_mm": 1968,
+                "altura_mm": 1741,
+                "entre_eixos_mm": 2994,
+                "porta_malas_l": null,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

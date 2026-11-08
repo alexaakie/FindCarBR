@@ -1,0 +1,610 @@
+{
+  "marca": {
+    "nome": "GWM",
+    "pais": "China"
+  },
+  "modelos": [
+    {
+      "nome": "Haval H6",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "3ª geração",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "HEV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "GW4B15 1.5T",
+                "cilindrada_cc": 1497,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 243,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 54.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 2,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4653,
+                "largura_mm": 1886,
+                "altura_mm": 1730,
+                "entre_eixos_mm": 2738,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "PHEV19",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "GW4B15 1.5T",
+                "cilindrada_cc": 1497,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": null,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 19.27,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 2,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4653,
+                "largura_mm": 1886,
+                "altura_mm": 1730,
+                "entre_eixos_mm": 2738,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "PHEV34",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "GW4B15 1.5T",
+                "cilindrada_cc": 1497,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 393,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 77.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 34.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 2,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.9,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4653,
+                "largura_mm": 1886,
+                "altura_mm": 1730,
+                "entre_eixos_mm": 2738,
+                "porta_malas_l": null,
+                "tanque_l": 55,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Haval H6 GT",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "PHEV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "GW4B15 1.5T",
+                "cilindrada_cc": 1497,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 393,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 77.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": null,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 2,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.8,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4727,
+                "largura_mm": 1940,
+                "altura_mm": 1729,
+                "entre_eixos_mm": 2738,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Ora 03",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Skin",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 171,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 48.0,
+                "autonomia_km": 232,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 8.3,
+                "vel_max_kmh": 160
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4235,
+                "largura_mm": 1825,
+                "altura_mm": 1603,
+                "entre_eixos_mm": 2650,
+                "porta_malas_l": 228,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GT",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 171,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 25.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 63.0,
+                "autonomia_km": 319,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 8.3,
+                "vel_max_kmh": 160
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4235,
+                "largura_mm": 1825,
+                "altura_mm": 1603,
+                "entre_eixos_mm": 2650,
+                "porta_malas_l": 228,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Poer P30",
+      "categoria": "Picape",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2025,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "2.4 Turbodiesel 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "GW4D24 2.4",
+                "cilindrada_cc": 2393,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 48.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5410,
+                "largura_mm": 1934,
+                "altura_mm": 1886,
+                "entre_eixos_mm": 3230,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido com feixe de molas"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Tank 300",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "HEV",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "E20NA 2.0T",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 394,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 76.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4760,
+                "largura_mm": 1930,
+                "altura_mm": 1903,
+                "entre_eixos_mm": 2750,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Eixo rígido multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Haval H9",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "3ª geração",
+          "ano_inicio": 2025,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "2.4 Turbodiesel",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "2.4 Turbodiesel",
+                "cilindrada_cc": 2393,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 184,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 48.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

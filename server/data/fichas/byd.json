@@ -1,0 +1,1077 @@
+{
+  "marca": {
+    "nome": "BYD",
+    "pais": "China"
+  },
+  "modelos": [
+    {
+      "nome": "Dolphin Mini",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GS",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 75,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 13.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 38.0,
+                "autonomia_km": 280,
+                "recarga_dc_kw": 30
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 130
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 3780,
+                "largura_mm": 1715,
+                "altura_mm": 1540,
+                "entre_eixos_mm": 2500,
+                "porta_malas_l": 230,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": "175/55 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Dolphin",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GS",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 95,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 18.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 44.9,
+                "autonomia_km": 291,
+                "recarga_dc_kw": 60
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": 150
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4290,
+                "largura_mm": 1770,
+                "altura_mm": 1570,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 345,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Eixo de torção"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": "205/55 R16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Dolphin Plus",
+      "categoria": "Hatch",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Plus",
+              "ano_modelo": 2025,
+              "carroceria": "Hatch",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 31.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 60.48,
+                "autonomia_km": 330,
+                "recarga_dc_kw": 88
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 7.0,
+                "vel_max_kmh": 160
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4290,
+                "largura_mm": 1770,
+                "altura_mm": 1570,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": 345,
+                "tanque_l": null,
+                "peso_kg": 1658
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": "205/50 R17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Seal",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "AWD Performance",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 531,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 68.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 82.56,
+                "autonomia_km": 372,
+                "recarga_dc_kw": 150
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.8,
+                "vel_max_kmh": 180
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4800,
+                "largura_mm": 1875,
+                "altura_mm": 1460,
+                "entre_eixos_mm": 2920,
+                "porta_malas_l": 400,
+                "tanque_l": null,
+                "peso_kg": 2185
+              },
+              "suspensao": {
+                "dianteira": "Duplo A",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "235/45 R19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Yuan Pro",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GS",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 177,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 29.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": null,
+                "autonomia_km": 250,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4375,
+                "largura_mm": 1785,
+                "altura_mm": 1680,
+                "entre_eixos_mm": 2535,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Yuan Plus",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Plus",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 204,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 31.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 60.48,
+                "autonomia_km": 294,
+                "recarga_dc_kw": 88
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 7.3,
+                "vel_max_kmh": 160
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4455,
+                "largura_mm": 1875,
+                "altura_mm": 1615,
+                "entre_eixos_mm": 2720,
+                "porta_malas_l": 440,
+                "tanque_l": null,
+                "peso_kg": 1750
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": "235/50 R18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Song Pro",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GL DM-i",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "BYD 1.5 DM-i",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 235,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 12.96,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4738,
+                "largura_mm": 1860,
+                "altura_mm": 1710,
+                "entre_eixos_mm": 2712,
+                "porta_malas_l": null,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GS DM-i",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "BYD 1.5 DM-i",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 235,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 18.3,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4738,
+                "largura_mm": 1860,
+                "altura_mm": 1710,
+                "entre_eixos_mm": 2712,
+                "porta_malas_l": null,
+                "tanque_l": 52,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Song Plus",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Premium DM-i",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "BYD 1.5 DM-i",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 235,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 18.3,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 7.9,
+                "vel_max_kmh": 170
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4775,
+                "largura_mm": 1890,
+                "altura_mm": 1670,
+                "entre_eixos_mm": 2765,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "King",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GL DM-i",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "BYD 1.5 DM-i",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 235,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 8.3,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 7.9,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4780,
+                "largura_mm": 1837,
+                "altura_mm": 1495,
+                "entre_eixos_mm": 2718,
+                "porta_malas_l": 450,
+                "tanque_l": 48,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GS DM-i",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "BYD 1.5 DM-i",
+                "cilindrada_cc": 1498,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 235,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 18.3,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 1,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 7.3,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4780,
+                "largura_mm": 1837,
+                "altura_mm": 1495,
+                "entre_eixos_mm": 2718,
+                "porta_malas_l": 450,
+                "tanque_l": 48,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Tan",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "EV AWD",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 517,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 69.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 108.8,
+                "autonomia_km": 309,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.6,
+                "vel_max_kmh": 180
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4970,
+                "largura_mm": 1950,
+                "altura_mm": 1755,
+                "entre_eixos_mm": 2820,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": 2630
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Han",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2022,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "EV AWD",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 517,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 71.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 85.4,
+                "autonomia_km": 349,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.9,
+                "vel_max_kmh": 185
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4995,
+                "largura_mm": 1910,
+                "altura_mm": 1495,
+                "entre_eixos_mm": 2920,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Sealion 7",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2025,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "AWD Performance",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 530,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 70.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 91.3,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.5,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4830,
+                "largura_mm": 1925,
+                "altura_mm": 1620,
+                "entre_eixos_mm": 2930,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Shark",
+      "categoria": "Picape",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "GS DMO",
+              "ano_modelo": 2025,
+              "carroceria": "Picape",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "BYD 1.5T DMO",
+                "cilindrada_cc": 1497,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 437,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 66.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 29.58,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.7,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5457,
+                "largura_mm": 1971,
+                "altura_mm": 1925,
+                "entre_eixos_mm": 3260,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": 2710
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

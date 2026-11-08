@@ -1,18 +1,30 @@
 {
   "name": "findcarbr",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.5.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "concurrently -n api,web -c yellow,cyan \"npm:api:dev\" \"vite\"",
+    "web": "vite",
+    "api": "node --disable-warning=ExperimentalWarning server/index.js",
+    "api:dev": "node --disable-warning=ExperimentalWarning --watch-path=server server/index.js",
     "build": "vite build",
+    "start": "npm run build && node --disable-warning=ExperimentalWarning server/index.js",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "node --disable-warning=ExperimentalWarning --test \"server/**/*.test.js\"",
+    "db:validar": "node --disable-warning=ExperimentalWarning server/scripts/validar.js",
+    "db:popular": "node --disable-warning=ExperimentalWarning server/scripts/popular.js",
+    "db:fipe": "node --disable-warning=ExperimentalWarning server/scripts/importar-fipe.js",
+    "db:fotos": "node --disable-warning=ExperimentalWarning server/scripts/buscar-fotos.js",
+    "db:migrar": "node --disable-warning=ExperimentalWarning server/scripts/migrar.js"
   },
   "dependencies": {
+    "express": "^5.3.0",
     "lucide-react": "^0.563.0",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.18.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
@@ -21,6 +33,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
     "autoprefixer": "^10.4.23",
+    "concurrently": "^9.2.5",
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
@@ -31,5 +44,8 @@
   },
   "overrides": {
     "vite": "npm:rolldown-vite@7.2.5"
+  },
+  "engines": {
+    "node": ">=22.13"
   }
 }

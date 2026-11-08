@@ -1,0 +1,1865 @@
+{
+  "marca": {
+    "nome": "Jeep",
+    "pais": "Estados Unidos"
+  },
+  "modelos": [
+    {
+      "nome": "Renegade",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (BU) — fase 2",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "1.3 Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 10.8,
+                "estrada_gasolina": 12.5,
+                "urbano_etanol": 7.6,
+                "estrada_etanol": 8.8
+              },
+              "dimensoes": {
+                "comprimento_mm": 4268,
+                "largura_mm": 1805,
+                "altura_mm": 1689,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": 320,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/65 R16"
+            },
+            {
+              "nome": "Altitude 1.3 Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 10.8,
+                "estrada_gasolina": 12.5,
+                "urbano_etanol": 7.6,
+                "estrada_etanol": 8.8
+              },
+              "dimensoes": {
+                "comprimento_mm": 4268,
+                "largura_mm": 1805,
+                "altura_mm": 1689,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": 320,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Longitude 1.3 Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 10.8,
+                "estrada_gasolina": 12.5,
+                "urbano_etanol": 7.6,
+                "estrada_etanol": 8.8
+              },
+              "dimensoes": {
+                "comprimento_mm": 4268,
+                "largura_mm": 1805,
+                "altura_mm": 1689,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": 320,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Sahara 1.3 Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 10.8,
+                "estrada_gasolina": 12.5,
+                "urbano_etanol": 7.6,
+                "estrada_etanol": 8.8
+              },
+              "dimensoes": {
+                "comprimento_mm": 4268,
+                "largura_mm": 1805,
+                "altura_mm": 1689,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": 320,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/55 R18"
+            },
+            {
+              "nome": "Willys 1.3 Turbo 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4268,
+                "largura_mm": 1805,
+                "altura_mm": 1714,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": 320,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (BU) — fase 1",
+          "ano_inicio": 2015,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "Longitude 1.8 Flex",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "E.torQ 1.8 16V",
+                "cilindrada_cc": 1747,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 135,
+                "potencia_cv_etanol": 139,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 18.8,
+                "torque_kgfm_etanol": 19.3,
+                "torque_rpm": "3750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4236,
+                "largura_mm": 1805,
+                "altura_mm": 1690,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": 320,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "215/60 R17"
+            },
+            {
+              "nome": "Longitude 2.0 Diesel 4x4",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Multijet II 2.0 Turbodiesel",
+                "cilindrada_cc": 1956,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 170,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3750",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4236,
+                "largura_mm": 1805,
+                "altura_mm": 1690,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Trailhawk 2.0 Diesel 4x4",
+              "ano_modelo": 2016,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Multijet II 2.0 Turbodiesel",
+                "cilindrada_cc": 1956,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 170,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3750",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4236,
+                "largura_mm": 1805,
+                "altura_mm": 1690,
+                "entre_eixos_mm": 2570,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Compass",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "2ª geração (MP) — fase 2",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Sport T270",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 10.6,
+                "estrada_gasolina": 12.3,
+                "urbano_etanol": 7.4,
+                "estrada_etanol": 8.6
+              },
+              "dimensoes": {
+                "comprimento_mm": 4404,
+                "largura_mm": 1819,
+                "altura_mm": 1640,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 410,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/60 R17"
+            },
+            {
+              "nome": "Longitude T270",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 10.6,
+                "estrada_gasolina": 12.3,
+                "urbano_etanol": 7.4,
+                "estrada_etanol": 8.6
+              },
+              "dimensoes": {
+                "comprimento_mm": 4404,
+                "largura_mm": 1819,
+                "altura_mm": 1640,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 410,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/55 R18"
+            },
+            {
+              "nome": "Limited T270",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": 10.6,
+                "estrada_gasolina": 12.3,
+                "urbano_etanol": 7.4,
+                "estrada_etanol": 8.6
+              },
+              "dimensoes": {
+                "comprimento_mm": 4404,
+                "largura_mm": 1819,
+                "altura_mm": 1640,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 410,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/55 R18"
+            },
+            {
+              "nome": "Longitude 2.0 TD 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 Multijet II Turbodiesel",
+                "cilindrada_cc": 1956,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 170,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3750",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4404,
+                "largura_mm": 1819,
+                "altura_mm": 1640,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 410,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/55 R18"
+            },
+            {
+              "nome": "Blackhawk 2.0 Turbo 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Hurricane4 2.0 Turbo",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 272,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5250",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4404,
+                "largura_mm": 1819,
+                "altura_mm": 1640,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 410,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "235/45 R19"
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (MP) — fase 1",
+          "ano_inicio": 2016,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "Longitude 2.0 Flex",
+              "ano_modelo": 2021,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Tigershark 2.0 16V",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Flex",
+                "potencia_cv": 159,
+                "potencia_cv_etanol": 166,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 19.9,
+                "torque_kgfm_etanol": 20.5,
+                "torque_rpm": "4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4416,
+                "largura_mm": 1819,
+                "altura_mm": 1640,
+                "entre_eixos_mm": 2636,
+                "porta_malas_l": 410,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "225/55 R18"
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (MK)",
+          "ano_inicio": 2007,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "Sport 2.0",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "World Engine 2.0 16V",
+                "cilindrada_cc": 1998,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 156,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 19.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "CVT",
+                "marchas": null,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2635,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Commander",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (H6)",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Longitude T270",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4769,
+                "largura_mm": 1859,
+                "altura_mm": 1682,
+                "entre_eixos_mm": 2794,
+                "porta_malas_l": 233,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "235/55 R18"
+            },
+            {
+              "nome": "Limited T270",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "T270 1.3 Turbo Flex (GSE)",
+                "cilindrada_cc": 1332,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Flex",
+                "potencia_cv": 176,
+                "potencia_cv_etanol": 185,
+                "potencia_rpm": "5750",
+                "torque_kgfm": 27.5,
+                "torque_kgfm_etanol": 27.5,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 6,
+                "tracao": "Dianteira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4769,
+                "largura_mm": 1859,
+                "altura_mm": 1682,
+                "entre_eixos_mm": 2794,
+                "porta_malas_l": 233,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "235/55 R18"
+            },
+            {
+              "nome": "Overland 2.0 TD 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "2.0 Multijet II Turbodiesel",
+                "cilindrada_cc": 1956,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 170,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "3750",
+                "torque_kgfm": 35.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4769,
+                "largura_mm": 1859,
+                "altura_mm": 1682,
+                "entre_eixos_mm": 2794,
+                "porta_malas_l": 233,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "235/50 R19"
+            },
+            {
+              "nome": "Overland 2.0 Turbo 4x4",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 7,
+              "motor": {
+                "codigo": "Hurricane4 2.0 Turbo",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 272,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5250",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4769,
+                "largura_mm": 1859,
+                "altura_mm": 1682,
+                "entre_eixos_mm": 2794,
+                "porta_malas_l": 233,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "McPherson",
+                "traseira": "McPherson"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco sólido"
+              },
+              "pneus": "235/50 R19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Wrangler",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "4ª geração (JL)",
+          "ano_inicio": 2018,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Unlimited Sahara 2.0 Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "GME 2.0 Turbo",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 272,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5250",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4882,
+                "largura_mm": 1894,
+                "altura_mm": 1838,
+                "entre_eixos_mm": 3008,
+                "porta_malas_l": 548,
+                "tanque_l": 81,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Eixo rígido com molas helicoidais",
+                "traseira": "Eixo rígido com molas helicoidais"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "255/70 R18"
+            },
+            {
+              "nome": "Unlimited Rubicon 2.0 Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "GME 2.0 Turbo",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 272,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5250",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4882,
+                "largura_mm": 1894,
+                "altura_mm": 1901,
+                "entre_eixos_mm": 3008,
+                "porta_malas_l": 548,
+                "tanque_l": 81,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Eixo rígido com molas helicoidais",
+                "traseira": "Eixo rígido com molas helicoidais"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": "285/70 R17"
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (JK)",
+          "ano_inicio": 2007,
+          "ano_fim": 2018,
+          "versoes": [
+            {
+              "nome": "Unlimited Sahara 3.6 V6",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.6 V6",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 284,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2946,
+                "porta_malas_l": null,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Unlimited Rubicon 3.6 V6",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.6 V6",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 284,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": 2946,
+                "porta_malas_l": null,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Grand Cherokee",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "5ª geração (WL)",
+          "ano_inicio": 2021,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Limited 4xe",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 Turbo + 2 motores elétricos (4xe)",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 380,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 64.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 17.3,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4914,
+                "largura_mm": 1979,
+                "altura_mm": 1795,
+                "entre_eixos_mm": 2964,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Summit Reserve 4xe",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 Turbo + 2 motores elétricos (4xe)",
+                "cilindrada_cc": 1995,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 380,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 64.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 17.3,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4914,
+                "largura_mm": 1979,
+                "altura_mm": 1795,
+                "entre_eixos_mm": 2964,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": "Braços sobrepostos",
+                "traseira": "Multilink"
+              },
+              "freios": {
+                "dianteiros": "Disco ventilado",
+                "traseiros": "Disco ventilado"
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "4ª geração (WK2)",
+          "ano_inicio": 2011,
+          "ano_fim": 2021,
+          "versoes": [
+            {
+              "nome": "Limited 3.6 V6",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.6 V6",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 286,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4822,
+                "largura_mm": 1943,
+                "altura_mm": 1781,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 93,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "SRT8 6.4 V8",
+              "ano_modelo": 2012,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "HEMI 6.4 V8",
+                "cilindrada_cc": 6417,
+                "cilindros": 8,
+                "valvulas": 16,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 468,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 63.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 5,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4822,
+                "largura_mm": 1943,
+                "altura_mm": 1781,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 93,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Limited 3.6 V6",
+              "ano_modelo": 2014,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.6 V6",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 286,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 35.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4822,
+                "largura_mm": 1943,
+                "altura_mm": 1781,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 93,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Limited 3.0 V6 Diesel",
+              "ano_modelo": 2014,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "EcoDiesel 3.0 V6",
+                "cilindrada_cc": 2987,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Common-rail",
+                "combustivel": "Diesel",
+                "potencia_cv": 241,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 56,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4822,
+                "largura_mm": 1943,
+                "altura_mm": 1781,
+                "entre_eixos_mm": 2915,
+                "porta_malas_l": null,
+                "tanque_l": 93,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Cherokee",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "5ª geração (KL)",
+          "ano_inicio": 2014,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "Longitude 3.2 V6 4x4",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.2 V6",
+                "cilindrada_cc": 3239,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 271,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4624,
+                "largura_mm": 1859,
+                "altura_mm": 1670,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Trailhawk 3.2 V6 4x4",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "Pentastar 3.2 V6",
+                "cilindrada_cc": 3239,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 271,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 9,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4624,
+                "largura_mm": 1859,
+                "altura_mm": 1670,
+                "entre_eixos_mm": 2700,
+                "porta_malas_l": null,
+                "tanque_l": 60,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

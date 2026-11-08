@@ -1,0 +1,3616 @@
+{
+  "marca": {
+    "nome": "Porsche",
+    "pais": "Alemanha"
+  },
+  "modelos": [
+    {
+      "nome": "718 Cayman",
+      "categoria": "Esportivo",
+      "geracoes": [
+        {
+          "nome": "982",
+          "ano_inicio": 2016,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "2.0",
+              "ano_modelo": 2025,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "2.0 Boxer Turbo",
+                "cilindrada_cc": 1988,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 300,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 38.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.9,
+                "vel_max_kmh": 275
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GTS 4.0",
+              "ano_modelo": 2025,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "4.0 Boxer",
+                "cilindrada_cc": 3995,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 400,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 43.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.0,
+                "vel_max_kmh": 288
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "911",
+      "categoria": "Esportivo",
+      "geracoes": [
+        {
+          "nome": "992.2",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Carrera",
+              "ano_modelo": 2025,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.0 Boxer Biturbo",
+                "cilindrada_cc": 2981,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 394,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.1,
+                "vel_max_kmh": 294
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Carrera GTS T-Hybrid",
+              "ano_modelo": 2025,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.6 Boxer Turbo",
+                "cilindrada_cc": 3591,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 541,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 62.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.0,
+                "vel_max_kmh": 312
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo S",
+              "ano_modelo": 2025,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.6 Boxer Biturbo T-Hybrid",
+                "cilindrada_cc": 3591,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido",
+                "potencia_cv": 711,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 81.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 2.5,
+                "vel_max_kmh": 322
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GT3",
+              "ano_modelo": 2025,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 2,
+              "motor": {
+                "codigo": "4.0 Boxer",
+                "cilindrada_cc": 3996,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 510,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.4,
+                "vel_max_kmh": 311
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "997",
+          "ano_inicio": 2004,
+          "ano_fim": 2012,
+          "versoes": [
+            {
+              "nome": "Carrera",
+              "ano_modelo": 2005,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.6 Boxer",
+                "cilindrada_cc": 3596,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 325,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6800",
+                "torque_kgfm": 37.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5,
+                "vel_max_kmh": 285
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4427,
+                "largura_mm": 1808,
+                "altura_mm": 1310,
+                "entre_eixos_mm": 2350,
+                "porta_malas_l": 135,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Carrera S",
+              "ano_modelo": 2005,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.8 Boxer",
+                "cilindrada_cc": 3824,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 355,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6600",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.8,
+                "vel_max_kmh": 293
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4427,
+                "largura_mm": 1808,
+                "altura_mm": 1310,
+                "entre_eixos_mm": 2350,
+                "porta_malas_l": 135,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2007,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.6 Boxer Biturbo",
+                "cilindrada_cc": 3600,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Multiponto",
+                "combustivel": "Gasolina",
+                "potencia_cv": 480,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 63.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1950-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Manual",
+                "marchas": 6,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.9,
+                "vel_max_kmh": 310
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4427,
+                "largura_mm": 1808,
+                "altura_mm": 1310,
+                "entre_eixos_mm": 2350,
+                "porta_malas_l": 135,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Carrera",
+              "ano_modelo": 2009,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.6 Boxer DFI",
+                "cilindrada_cc": 3614,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 345,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 39.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.9,
+                "vel_max_kmh": 287
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4435,
+                "largura_mm": 1808,
+                "altura_mm": 1310,
+                "entre_eixos_mm": 2350,
+                "porta_malas_l": 135,
+                "tanque_l": 67,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Carrera S",
+              "ano_modelo": 2009,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.8 Boxer DFI",
+                "cilindrada_cc": 3800,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 385,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 42.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "4400"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.5,
+                "vel_max_kmh": 300
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4435,
+                "largura_mm": 1808,
+                "altura_mm": 1310,
+                "entre_eixos_mm": 2350,
+                "porta_malas_l": 135,
+                "tanque_l": 67,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2010,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.8 Boxer Biturbo DFI",
+                "cilindrada_cc": 3800,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 500,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 66.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1950-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.7,
+                "vel_max_kmh": 312
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4435,
+                "largura_mm": 1808,
+                "altura_mm": 1310,
+                "entre_eixos_mm": 2350,
+                "porta_malas_l": 135,
+                "tanque_l": 67,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "991",
+          "ano_inicio": 2011,
+          "ano_fim": 2019,
+          "versoes": [
+            {
+              "nome": "Carrera",
+              "ano_modelo": 2012,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.4 Boxer",
+                "cilindrada_cc": 3436,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 350,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "7400",
+                "torque_kgfm": 39.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "5600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.6,
+                "vel_max_kmh": 287
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4491,
+                "largura_mm": 1808,
+                "altura_mm": 1303,
+                "entre_eixos_mm": 2450,
+                "porta_malas_l": 145,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Carrera S",
+              "ano_modelo": 2012,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.8 Boxer",
+                "cilindrada_cc": 3800,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 400,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "7400",
+                "torque_kgfm": 44.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "5600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.3,
+                "vel_max_kmh": 302
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4491,
+                "largura_mm": 1808,
+                "altura_mm": 1303,
+                "entre_eixos_mm": 2450,
+                "porta_malas_l": 145,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo S",
+              "ano_modelo": 2014,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.8 Boxer Biturbo",
+                "cilindrada_cc": 3800,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 560,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500-6750",
+                "torque_kgfm": 71.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2100-4250"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.1,
+                "vel_max_kmh": 318
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4506,
+                "largura_mm": 1880,
+                "altura_mm": 1296,
+                "entre_eixos_mm": 2450,
+                "porta_malas_l": 115,
+                "tanque_l": 68,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Carrera",
+              "ano_modelo": 2016,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.0 Boxer Biturbo",
+                "cilindrada_cc": 2981,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 370,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1700-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.4,
+                "vel_max_kmh": 293
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4499,
+                "largura_mm": 1808,
+                "altura_mm": 1294,
+                "entre_eixos_mm": 2450,
+                "porta_malas_l": 132,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Carrera S",
+              "ano_modelo": 2016,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.0 Boxer Biturbo",
+                "cilindrada_cc": 2981,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 420,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 51,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1700-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.1,
+                "vel_max_kmh": 306
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4499,
+                "largura_mm": 1808,
+                "altura_mm": 1294,
+                "entre_eixos_mm": 2450,
+                "porta_malas_l": 132,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GT3",
+              "ano_modelo": 2018,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "4.0 Boxer",
+                "cilindrada_cc": 3996,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 500,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "8250",
+                "torque_kgfm": 46.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "6000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.4,
+                "vel_max_kmh": 318
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4562,
+                "largura_mm": 1852,
+                "altura_mm": 1271,
+                "entre_eixos_mm": 2457,
+                "porta_malas_l": null,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "992.1",
+          "ano_inicio": 2019,
+          "ano_fim": 2024,
+          "versoes": [
+            {
+              "nome": "Carrera",
+              "ano_modelo": 2020,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.0 Boxer Biturbo",
+                "cilindrada_cc": 2981,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 385,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1950-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.2,
+                "vel_max_kmh": 293
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4519,
+                "largura_mm": 1852,
+                "altura_mm": 1300,
+                "entre_eixos_mm": 2450,
+                "porta_malas_l": 132,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Carrera S",
+              "ano_modelo": 2020,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.0 Boxer Biturbo",
+                "cilindrada_cc": 2981,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 450,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 54,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2300-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.7,
+                "vel_max_kmh": 308
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4519,
+                "largura_mm": 1852,
+                "altura_mm": 1300,
+                "entre_eixos_mm": 2450,
+                "porta_malas_l": 132,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo S",
+              "ano_modelo": 2021,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.8 Boxer Biturbo",
+                "cilindrada_cc": 3745,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 650,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6750",
+                "torque_kgfm": 81.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2500-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 2.7,
+                "vel_max_kmh": 330
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4535,
+                "largura_mm": 1900,
+                "altura_mm": 1303,
+                "entre_eixos_mm": 2450,
+                "porta_malas_l": 128,
+                "tanque_l": 67,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GT3",
+              "ano_modelo": 2022,
+              "carroceria": "Cupê",
+              "portas": 2,
+              "lugares": 4,
+              "motor": {
+                "codigo": "4.0 Boxer",
+                "cilindrada_cc": 3996,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 510,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "8400",
+                "torque_kgfm": 47.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "6100"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.4,
+                "vel_max_kmh": 318
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4573,
+                "largura_mm": 1852,
+                "altura_mm": 1279,
+                "entre_eixos_mm": 2457,
+                "porta_malas_l": null,
+                "tanque_l": 64,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Taycan",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "1ª geração (J1) - facelift",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Taycan",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 408,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 89.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 2,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.8,
+                "vel_max_kmh": 230
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "4S",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 598,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 105.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 2,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.7,
+                "vel_max_kmh": 250
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo S",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 952,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": null,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 105.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 2,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 2.4,
+                "vel_max_kmh": 260
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Macan Electric",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração",
+          "ano_inicio": 2024,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "Macan",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 360,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 57.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 100.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.7,
+                "vel_max_kmh": 220
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "4",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 408,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 66.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 100.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.2,
+                "vel_max_kmh": 220
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": null,
+                "cilindrada_cc": null,
+                "cilindros": null,
+                "valvulas": null,
+                "aspiracao": "Elétrico",
+                "injecao": null,
+                "combustivel": "Elétrico",
+                "potencia_cv": 639,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 115.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 100.0,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Redução única",
+                "marchas": 1,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.3,
+                "vel_max_kmh": 260
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Cayenne",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "3ª geração (E3) - facelift",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "E-Hybrid",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.0 V6 Turbo",
+                "cilindrada_cc": 2995,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 470,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 66.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 25.9,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.9,
+                "vel_max_kmh": 254
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "S",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4.0 V8 Biturbo",
+                "cilindrada_cc": 3996,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 474,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 61.2,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.7,
+                "vel_max_kmh": 273
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo E-Hybrid",
+              "ano_modelo": 2025,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4.0 V8 Biturbo",
+                "cilindrada_cc": 3996,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 739,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 96.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 25.9,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 3.7,
+                "vel_max_kmh": 295
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (92A)",
+          "ano_inicio": 2010,
+          "ano_fim": 2017,
+          "versoes": [
+            {
+              "nome": "Cayenne",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.6 V6",
+                "cilindrada_cc": 3598,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 300,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6300",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4846,
+                "largura_mm": 1939,
+                "altura_mm": 1705,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 670,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "S",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4.8 V8",
+                "cilindrada_cc": 4806,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 400,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 51,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.9,
+                "vel_max_kmh": 258
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4846,
+                "largura_mm": 1939,
+                "altura_mm": 1705,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 670,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2011,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4.8 V8 Biturbo",
+                "cilindrada_cc": 4806,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 500,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 71.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2250-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.7,
+                "vel_max_kmh": 278
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4846,
+                "largura_mm": 1939,
+                "altura_mm": 1705,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 670,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "S",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.6 V6 Biturbo",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 420,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 56.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1350-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.5,
+                "vel_max_kmh": 259
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4855,
+                "largura_mm": 1939,
+                "altura_mm": 1705,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 670,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4.8 V8 Biturbo",
+                "cilindrada_cc": 4806,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 520,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 76.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2250-4000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.5,
+                "vel_max_kmh": 279
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4855,
+                "largura_mm": 1939,
+                "altura_mm": 1705,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 670,
+                "tanque_l": 85,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "S E-Hybrid",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.0 V6 Supercharged",
+                "cilindrada_cc": 2995,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": null,
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 416,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 60.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 10.8,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.9,
+                "vel_max_kmh": 243
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4855,
+                "largura_mm": 1939,
+                "altura_mm": 1705,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 580,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "3ª geração (E3)",
+          "ano_inicio": 2017,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "Cayenne",
+              "ano_modelo": 2018,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.0 V6 Turbo",
+                "cilindrada_cc": 2995,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 340,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5300-6400",
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1340-5300"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 6.2,
+                "vel_max_kmh": 245
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4918,
+                "largura_mm": 1983,
+                "altura_mm": 1696,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 770,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "S",
+              "ano_modelo": 2018,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.9 V6 Biturbo",
+                "cilindrada_cc": 2894,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 440,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5700-6600",
+                "torque_kgfm": 56.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-5500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.2,
+                "vel_max_kmh": 265
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4918,
+                "largura_mm": 1983,
+                "altura_mm": 1696,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 770,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2018,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "4.0 V8 Biturbo",
+                "cilindrada_cc": 3996,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 550,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5750-6000",
+                "torque_kgfm": 78.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1960-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.1,
+                "vel_max_kmh": 286
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4926,
+                "largura_mm": 1983,
+                "altura_mm": 1673,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 745,
+                "tanque_l": 90,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "E-Hybrid",
+              "ano_modelo": 2019,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.0 V6 Turbo",
+                "cilindrada_cc": 2995,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 462,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 71.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 14.1,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Automático",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5,
+                "vel_max_kmh": 253
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4918,
+                "largura_mm": 1983,
+                "altura_mm": 1696,
+                "entre_eixos_mm": 2895,
+                "porta_malas_l": 645,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Panamera",
+      "categoria": "Sedan",
+      "geracoes": [
+        {
+          "nome": "3ª geração (G3)",
+          "ano_inicio": 2023,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "4 E-Hybrid",
+              "ano_modelo": 2025,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.9 V6 Biturbo",
+                "cilindrada_cc": 2894,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 470,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 66.3,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 25.9,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.1,
+                "vel_max_kmh": 280
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": null,
+                "largura_mm": null,
+                "altura_mm": null,
+                "entre_eixos_mm": null,
+                "porta_malas_l": null,
+                "tanque_l": null,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "1ª geração (970)",
+          "ano_inicio": 2009,
+          "ano_fim": 2016,
+          "versoes": [
+            {
+              "nome": "4S",
+              "ano_modelo": 2010,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "4.8 V8",
+                "cilindrada_cc": 4806,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 400,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6500",
+                "torque_kgfm": 51,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4970,
+                "largura_mm": 1931,
+                "altura_mm": 1418,
+                "entre_eixos_mm": 2920,
+                "porta_malas_l": 445,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2010,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "4.8 V8 Biturbo",
+                "cilindrada_cc": 4806,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 500,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 71.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2250-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4970,
+                "largura_mm": 1931,
+                "altura_mm": 1418,
+                "entre_eixos_mm": 2920,
+                "porta_malas_l": 445,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Panamera",
+              "ano_modelo": 2011,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.6 V6",
+                "cilindrada_cc": 3605,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Aspirado",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 300,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6200",
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "3750"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Traseira"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4970,
+                "largura_mm": 1931,
+                "altura_mm": 1418,
+                "entre_eixos_mm": 2920,
+                "porta_malas_l": 445,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "4S",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "3.0 V6 Biturbo",
+                "cilindrada_cc": 2997,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 420,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 53,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5015,
+                "largura_mm": 1931,
+                "altura_mm": 1418,
+                "entre_eixos_mm": 2920,
+                "porta_malas_l": 445,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2014,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "4.8 V8 Biturbo",
+                "cilindrada_cc": 4806,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 520,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 71.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "2250-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5015,
+                "largura_mm": 1931,
+                "altura_mm": 1418,
+                "entre_eixos_mm": 2920,
+                "porta_malas_l": 445,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        },
+        {
+          "nome": "2ª geração (971)",
+          "ano_inicio": 2016,
+          "ano_fim": 2023,
+          "versoes": [
+            {
+              "nome": "4",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "2.9 V6 Biturbo",
+                "cilindrada_cc": 2894,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 330,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 45.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5049,
+                "largura_mm": 1937,
+                "altura_mm": 1423,
+                "entre_eixos_mm": 2950,
+                "porta_malas_l": 495,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "4S",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "2.9 V6 Biturbo",
+                "cilindrada_cc": 2894,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 440,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5650-6600",
+                "torque_kgfm": 56.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1750-5500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5049,
+                "largura_mm": 1937,
+                "altura_mm": 1423,
+                "entre_eixos_mm": 2950,
+                "porta_malas_l": 495,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2017,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "4.0 V8 Biturbo",
+                "cilindrada_cc": 3996,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 550,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5750-6000",
+                "torque_kgfm": 78.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1960-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5049,
+                "largura_mm": 1937,
+                "altura_mm": 1423,
+                "entre_eixos_mm": 2950,
+                "porta_malas_l": 495,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "4 E-Hybrid",
+              "ano_modelo": 2018,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "2.9 V6 Biturbo",
+                "cilindrada_cc": 2894,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 462,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 71.4,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 14.1,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5049,
+                "largura_mm": 1937,
+                "altura_mm": 1423,
+                "entre_eixos_mm": 2950,
+                "porta_malas_l": 405,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo S",
+              "ano_modelo": 2021,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "4.0 V8 Biturbo",
+                "cilindrada_cc": 3996,
+                "cilindros": 8,
+                "valvulas": 32,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 630,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 83.6,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5049,
+                "largura_mm": 1937,
+                "altura_mm": 1423,
+                "entre_eixos_mm": 2950,
+                "porta_malas_l": 495,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "4S E-Hybrid",
+              "ano_modelo": 2021,
+              "carroceria": "Sedan",
+              "portas": 4,
+              "lugares": 4,
+              "motor": {
+                "codigo": "2.9 V6 Biturbo",
+                "cilindrada_cc": 2894,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Híbrido Plug-in",
+                "potencia_cv": 560,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 76.5,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": {
+                "bateria_kwh": 17.9,
+                "autonomia_km": null,
+                "recarga_dc_kw": null
+              },
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 8,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 5049,
+                "largura_mm": 1937,
+                "altura_mm": 1423,
+                "entre_eixos_mm": 2950,
+                "porta_malas_l": 403,
+                "tanque_l": 80,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Macan",
+      "categoria": "SUV",
+      "geracoes": [
+        {
+          "nome": "1ª geração (95B)",
+          "ano_inicio": 2014,
+          "ano_fim": null,
+          "versoes": [
+            {
+              "nome": "S",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.0 V6 Biturbo",
+                "cilindrada_cc": 2997,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 340,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5500-6500",
+                "torque_kgfm": 46.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1450-5000"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.4,
+                "vel_max_kmh": 254
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4681,
+                "largura_mm": 1923,
+                "altura_mm": 1624,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 500,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2015,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.6 V6 Biturbo",
+                "cilindrada_cc": 3604,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 400,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "6000",
+                "torque_kgfm": 56.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1350-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.8,
+                "vel_max_kmh": 266
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4681,
+                "largura_mm": 1923,
+                "altura_mm": 1624,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 500,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Macan",
+              "ano_modelo": 2017,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 Turbo",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 252,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5000-6800",
+                "torque_kgfm": 37.7,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1600-4500"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 6.7,
+                "vel_max_kmh": 229
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4681,
+                "largura_mm": 1923,
+                "altura_mm": 1624,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 500,
+                "tanque_l": 65,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "S",
+              "ano_modelo": 2019,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "3.0 V6 Turbo",
+                "cilindrada_cc": 2995,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 354,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5400-6400",
+                "torque_kgfm": 48.9,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1360-4800"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 5.3,
+                "vel_max_kmh": 254
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4696,
+                "largura_mm": 1923,
+                "altura_mm": 1624,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 488,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Turbo",
+              "ano_modelo": 2020,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.9 V6 Biturbo",
+                "cilindrada_cc": 2894,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 440,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": "5700-6600",
+                "torque_kgfm": 56.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": "1800-5600"
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": 4.5,
+                "vel_max_kmh": 270
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4696,
+                "largura_mm": 1923,
+                "altura_mm": 1624,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 488,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "Macan",
+              "ano_modelo": 2022,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.0 Turbo",
+                "cilindrada_cc": 1984,
+                "cilindros": 4,
+                "valvulas": 16,
+                "aspiracao": "Turbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 265,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 40.8,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4726,
+                "largura_mm": 1922,
+                "altura_mm": 1621,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 488,
+                "tanque_l": 65,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "S",
+              "ano_modelo": 2022,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.9 V6 Biturbo",
+                "cilindrada_cc": 2894,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 380,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 53,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4726,
+                "largura_mm": 1922,
+                "altura_mm": 1621,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 488,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            },
+            {
+              "nome": "GTS",
+              "ano_modelo": 2022,
+              "carroceria": "SUV",
+              "portas": 4,
+              "lugares": 5,
+              "motor": {
+                "codigo": "2.9 V6 Biturbo",
+                "cilindrada_cc": 2894,
+                "cilindros": 6,
+                "valvulas": 24,
+                "aspiracao": "Biturbo",
+                "injecao": "Direta",
+                "combustivel": "Gasolina",
+                "potencia_cv": 440,
+                "potencia_cv_etanol": null,
+                "potencia_rpm": null,
+                "torque_kgfm": 56.1,
+                "torque_kgfm_etanol": null,
+                "torque_rpm": null
+              },
+              "eletrico": null,
+              "transmissao": {
+                "cambio": "Dupla embreagem",
+                "marchas": 7,
+                "tracao": "Integral"
+              },
+              "desempenho": {
+                "zero_a_cem_s": null,
+                "vel_max_kmh": null
+              },
+              "consumo": {
+                "urbano_gasolina": null,
+                "estrada_gasolina": null,
+                "urbano_etanol": null,
+                "estrada_etanol": null
+              },
+              "dimensoes": {
+                "comprimento_mm": 4726,
+                "largura_mm": 1922,
+                "altura_mm": 1621,
+                "entre_eixos_mm": 2807,
+                "porta_malas_l": 488,
+                "tanque_l": 75,
+                "peso_kg": null
+              },
+              "suspensao": {
+                "dianteira": null,
+                "traseira": null
+              },
+              "freios": {
+                "dianteiros": null,
+                "traseiros": null
+              },
+              "pneus": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
