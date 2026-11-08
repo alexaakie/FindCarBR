@@ -162,6 +162,10 @@ export function fichaCompleta(db, slug) {
   const fipe = row.fipe_codigo
     ? db.prepare('SELECT ano_modelo, combustivel, valor, referencia FROM fipe_veiculos WHERE codigo_fipe = ? ORDER BY ano_modelo DESC').all(row.fipe_codigo)
     : [];
+  // Fontes desta ficha, com as seções que cada uma cobre
+  const fontes = db.prepare(`SELECT fo.chave, fo.tipo, fo.titulo, fo.url, fo.data_referencia, group_concat(ff.secao) AS secoes
+    FROM ficha_fontes ff JOIN fontes fo ON fo.id = ff.fonte_id WHERE ff.versao_id = ?
+    GROUP BY fo.id ORDER BY fo.titulo`).all(row.id).map((f) => ({ ...f, secoes: f.secoes.split(',').sort() }));
   const outrasVersoes = db.prepare(`SELECT v.slug, v.nome AS versao, v.ano_modelo, f.potencia_max_cv, f.cambio,
       ${PRECO_SQL} AS preco
     FROM versoes v LEFT JOIN fichas f ON f.versao_id = v.id WHERE v.modelo_id = ? AND v.id != ?
@@ -206,7 +210,7 @@ export function fichaCompleta(db, slug) {
       suspensao_dianteira: row.suspensao_dianteira, suspensao_traseira: row.suspensao_traseira,
       freios_dianteiros: row.freios_dianteiros, freios_traseiros: row.freios_traseiros, pneus: row.pneus,
     },
-    fipe, outras_versoes: outrasVersoes, similares,
+    fontes, fipe, outras_versoes: outrasVersoes, similares,
   };
 }
 

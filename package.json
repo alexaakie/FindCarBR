@@ -1,7 +1,7 @@
 {
   "name": "findcarbr",
   "private": true,
-  "version": "0.4.0",
+  "version": "0.5.0",
   "type": "module",
   "scripts": {
     "dev": "concurrently -n api,web -c yellow,cyan \"npm:api:dev\" \"vite\"",
@@ -13,10 +13,11 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "node --disable-warning=ExperimentalWarning --test \"server/**/*.test.js\"",
-    "db:validar": "node server/scripts/validar.js",
+    "db:validar": "node --disable-warning=ExperimentalWarning server/scripts/validar.js",
     "db:popular": "node --disable-warning=ExperimentalWarning server/scripts/popular.js",
     "db:fipe": "node --disable-warning=ExperimentalWarning server/scripts/importar-fipe.js",
-    "db:fotos": "node --disable-warning=ExperimentalWarning server/scripts/buscar-fotos.js"
+    "db:fotos": "node --disable-warning=ExperimentalWarning server/scripts/buscar-fotos.js",
+    "db:migrar": "node --disable-warning=ExperimentalWarning server/scripts/migrar.js"
   },
   "dependencies": {
     "express": "^5.3.0",

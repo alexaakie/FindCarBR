@@ -32,7 +32,8 @@ function pontuar(versao, fipeNome) {
   return pontos;
 }
 
-export function vincularFipe(db) {
+// emTransacao = false quando quem chama já abriu uma transação (ex.: popular)
+export function vincularFipe(db, { emTransacao = true } = {}) {
   const temFipe = db.prepare('SELECT count(*) n FROM fipe_veiculos').get().n;
   if (!temFipe) return { vinculadas: 0, total: 0 };
   const versoes = db.prepare(`SELECT v.id, v.nome AS versao, v.ano_modelo, mo.nome AS modelo, mo.marca_id,
@@ -45,7 +46,7 @@ export function vincularFipe(db) {
   const definir = db.prepare('UPDATE versoes SET fipe_codigo = ?, fipe_auto = 1 WHERE id = ?');
 
   let vinculadas = 0;
-  transacao(db, () => {
+  const executar = () => {
     for (const v of versoes) {
       // carro do ano corrente pode aparecer na FIPE como "zero km" (32000)
       const anoZero = v.ano_modelo >= anoMax ? 32000 : v.ano_modelo;
@@ -57,7 +58,9 @@ export function vincularFipe(db) {
       definir.run(melhor?.codigo ?? null, v.id);
       if (melhor) vinculadas++;
     }
-  });
+  };
+  if (emTransacao) transacao(db, executar);
+  else executar();
   return { vinculadas, total: versoes.length };
 }
 

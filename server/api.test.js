@@ -66,7 +66,7 @@ test('marca → modelo → ficha completa → comparar', async () => {
   const slug = modelo.geracoes[0].versoes[0].slug;
   const { body: ficha } = await get(`/versoes/${slug}`);
   assert.equal(ficha.marca, 'Volkswagen');
-  assert.ok(ficha.motor && ficha.dimensoes && Array.isArray(ficha.similares));
+  assert.ok(ficha.motor && ficha.dimensoes && Array.isArray(ficha.similares) && Array.isArray(ficha.fontes));
   const outro = (await get('/versoes?q=corolla')).body.itens[0].slug;
   const { body: cmp } = await get(`/comparar?slugs=${slug},${outro}`);
   assert.equal(cmp.length, 2);

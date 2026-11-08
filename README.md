@@ -30,24 +30,39 @@ npm run db:fotos          # grava server/data/fotos.json — revise antes de com
 
 Produção: `npm start` compila o site e serve site + API na mesma porta.
 
+Banco de dados:
+
+```bash
+npm run db:validar                 # confere todos os JSON (rode antes de commitar)
+npm run db:migrar -- --status      # versão do schema e migrações pendentes
+npm run db:migrar                  # aplica as pendentes (o servidor também aplica sozinho ao abrir)
+```
+
 ## Arquitetura
 
 ```
 server/
-  db.js                 schema SQLite (marcas → modelos → gerações → versões → fichas, FIPE, busca FTS5)
-  consultas.js          consultas da API (filtros, ordenação, paginação, similares)
+  db.js                 conexão SQLite e aplicação das migrações
+  migracoes.js          schema em migrações numeradas (marcas → modelos → gerações → versões → fichas, fontes, FIPE, busca FTS5)
+  fichas.js             formato dos JSON: validação e expansão das faixas de anos
+  consultas.js          consultas da API (filtros, ordenação, paginação, similares, fontes)
   index.js              API Express (+ serve o site compilado)
   ia.js                 Gemini, chamado só pelo servidor — a chave nunca vai para o navegador
+  fipe-vinculo.js       liga cada versão ao código FIPE correspondente (automático)
   data/fichas/*.json    fichas técnicas curadas, um arquivo por marca (formato em data/FORMATO.md)
-  scripts/validar.js    valida os JSON (enums, faixas plausíveis, duplicatas)
-  scripts/popular.js    carrega os JSON no banco (idempotente)
+  data/fontes.json      registro das fontes citadas nas fichas
+  data/fotos.json       fotos livres por modelo
+  scripts/validar.js    valida os JSON (npm run db:validar; --expandir mostra as faixas de anos)
+  scripts/popular.js    carrega os JSON no banco, que passa a refletir exatamente o Git
+  scripts/migrar.js     situação e aplicação das migrações
   scripts/importar-fipe.js  importa a Tabela FIPE da API pública
   scripts/buscar-fotos.js   fotos livres da Wikipédia/Commons → data/fotos.json
-  fipe-vinculo.js       liga cada versão ao código FIPE correspondente (automático)
 src/
-  pages/                Início, Catálogo, Marcas/Marca/Modelo, Versão, Comparar, FIPE
-  components/           layout, cards, estados de carregamento/erro, análise IA
-  lib/                  cliente da API, formatação pt-BR, estado do comparador
+  pages/                Início, Catálogo, Marcas/Marca/Modelo, Versão, Comparar, Rankings, FIPE
+  components/           layout, cards, estados de carregamento/erro, custos, análise IA
+  lib/                  cliente da API, formatação pt-BR, comparador, preferências de custo
+docs/
+  DECISOES.md           decisões de arquitetura e regras de negócio
 ```
 
 ### API
@@ -64,11 +79,15 @@ src/
 
 ## Sobre os dados
 
+- **Fonte de verdade: os JSON no Git.** O banco é gerado a partir deles por `npm run db:popular`;
+  alterar só o banco não vale (a próxima carga desfaz). Ver `docs/DECISOES.md`.
 - A base cobre os carros vendidos no Brasil de 2000 até hoje (regras da ampliação em `server/data/HISTORICO.md`).
-- As fichas em `server/data/fichas` foram escritas a partir de dados públicos de fabricantes e do Inmetro,
-  **não** copiadas de outros sites. Todas entram como **“a verificar”**; campos sem dado confiável ficam vazios.
-- Para corrigir ou ampliar: edite o JSON da marca, rode `npm run db:validar` e `npm run db:popular`.
-  Ao conferir uma versão com a fonte oficial, adicione `"status_dados": "verificado"` nela.
+- A curadoria inicial das fichas foi feita de memória, com assistência de IA, sem consulta a documentos
+  e sem copiar outros sites. Por isso todas estão como **“a verificar”**, sem fontes registradas, e campos
+  sem dado confiável ficam vazios. Ao conferir uma versão, registre a fonte (`fontes.json` + `"fontes"`
+  na versão) e marque `"status_dados": "verificado"`.
+- Uma versão vendida por vários anos pode ser escrita uma vez, com `"anos": [primeiro, último]` e o
+  que mudou em `"mudancas"` (ver `server/data/FORMATO.md`).
 - Cada versão é ligada automaticamente ao código FIPE mais parecido. Para fixar à mão, adicione
   `"fipe_codigo": "005540-0"` na versão, no JSON da marca.
 - Fotos: imagem principal do artigo da Wikipédia, só quando a licença é livre (CC/domínio público),
@@ -78,6 +97,6 @@ src/
 ## Testes
 
 ```bash
-npm test      # API + importação FIPE (com servidor FIPE simulado)
+npm test      # API, migrações, formato das fichas e importação FIPE (com servidor FIPE simulado)
 npm run lint
 ```

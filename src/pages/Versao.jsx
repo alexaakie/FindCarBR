@@ -19,7 +19,32 @@ function Numero({ rotulo, valor, unidade }) {
   );
 }
 
-const ANCORAS = [['ficha', 'Ficha técnica'], ['custos', 'Custos'], ['fipe', 'Preços FIPE'], ['versoes', 'Outras versões'], ['concorrentes', 'Concorrentes']];
+const ANCORAS = [['ficha', 'Ficha técnica'], ['fontes', 'Fontes'], ['custos', 'Custos'], ['fipe', 'Preços FIPE'], ['versoes', 'Outras versões'], ['concorrentes', 'Concorrentes']];
+
+// Mesma ordem dos blocos da ficha técnica na página
+const NOME_SECAO = { motor: 'Motor', eletrico: 'Bateria', transmissao: 'Transmissão', desempenho: 'Desempenho', consumo: 'Consumo', dimensoes: 'Dimensões', geral: 'Carroceria', chassi: 'Chassi' };
+const ORDEM_SECOES = Object.keys(NOME_SECAO);
+const NOME_TIPO = { fabricante: 'Fabricante', inmetro: 'Inmetro', 'latin-ncap': 'Latin NCAP', imprensa: 'Imprensa', outro: 'Outra fonte' };
+
+function Fontes({ fontes }) {
+  return (
+    <ul className="cartao divide-y divide-borda">
+      {fontes.map((fo) => (
+        <li key={fo.chave} className="flex flex-wrap items-start justify-between gap-2 px-4 py-3 text-sm">
+          <div className="min-w-0">
+            <p className="font-semibold">
+              {fo.url ? <a href={fo.url} target="_blank" rel="noreferrer" className="hover:text-marca-600 hover:underline">{fo.titulo}</a> : fo.titulo}
+            </p>
+            <p className="text-xs text-tinta-3">{NOME_TIPO[fo.tipo] ?? fo.tipo}{fo.data_referencia ? ` · ${fo.data_referencia}` : ''}</p>
+          </div>
+          <div className="flex flex-wrap gap-1">
+            {[...fo.secoes].sort((a, b) => ORDEM_SECOES.indexOf(a) - ORDEM_SECOES.indexOf(b)).map((s) => <span key={s} className="rounded bg-painel-2 px-1.5 py-0.5 text-[11px] font-semibold text-tinta-2 ring-1 ring-borda">{NOME_SECAO[s] ?? s}</span>)}
+          </div>
+        </li>
+      ))}
+    </ul>
+  );
+}
 
 export default function Versao() {
   const { slug } = useParams();
@@ -78,7 +103,7 @@ export default function Versao() {
         </div>
         <nav className="border-t border-borda" aria-label="Seções da página">
           <div className="mx-auto flex max-w-7xl gap-1 overflow-x-auto px-4 sm:px-6">
-            {ANCORAS.filter(([id]) => (id !== 'versoes' || f.outras_versoes.length) && (id !== 'concorrentes' || f.similares.length)).map(([id, r]) => (
+            {ANCORAS.filter(([id]) => (id !== 'versoes' || f.outras_versoes.length) && (id !== 'concorrentes' || f.similares.length) && (id !== 'fontes' || f.fontes?.length)).map(([id, r]) => (
               <a key={id} href={`#${id}`} className="whitespace-nowrap border-b-2 border-transparent px-3 py-2.5 text-[13px] font-semibold text-tinta-2 hover:border-marca-500 hover:text-tinta">{r}</a>
             ))}
           </div>
@@ -89,7 +114,7 @@ export default function Versao() {
         {f.status_dados !== 'verificado' && (
           <p className="flex items-start gap-2 rounded-lg border border-[#f3d48a] bg-aviso-50 px-4 py-3 text-sm text-[#6b4600]">
             <Info size={16} className="mt-0.5 shrink-0" />
-            Ficha preliminar, ainda não conferida com o manual do fabricante ou o Inmetro. Campos com “—” ainda não têm dado confirmado.
+            Ficha preliminar, ainda não conferida com o manual do fabricante ou o Inmetro{f.fontes?.length ? '' : ', e sem fonte registrada'}. Campos com “—” ainda não têm dado confirmado.
           </p>
         )}
 
@@ -158,6 +183,12 @@ export default function Versao() {
             ]} />
           </div>
         </Secao>
+
+        {f.fontes?.length > 0 && (
+          <Secao id="fontes" titulo="Fontes" subtitulo="De onde vieram os dados de cada parte desta ficha">
+            <Fontes fontes={f.fontes} />
+          </Secao>
+        )}
 
         <Secao id="custos" titulo="Quanto custa rodar" subtitulo="Combustível por km e IPVA estimado. Ajuste os valores à sua realidade.">
           <Custos ficha={f} />
