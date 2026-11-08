@@ -17,7 +17,7 @@ if (atual > MIGRACOES.at(-1).versao) {
   process.exit(1);
 }
 
-const historico = db.prepare('SELECT versao, nome, aplicada_em FROM schema_versao ORDER BY versao').all();
+const historico = atual > 0 ? db.prepare('SELECT versao, nome, aplicada_em FROM schema_versao ORDER BY versao').all() : [];
 for (const h of historico) console.log(`  ✓ ${h.versao}. ${h.nome}  (${h.aplicada_em})`);
 for (const m of pendentes) console.log(`  · ${m.versao}. ${m.nome}  (pendente)`);
 

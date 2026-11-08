@@ -32,6 +32,14 @@ test('banco novo recebe todas as migrações, em ordem', (t) => {
   db.close();
 });
 
+test('consultar a versão não altera o banco', (t) => {
+  const db = abrirBanco(join(pastaTemp(t), 'so-leitura.db'), { migrar: false });
+  assert.equal(versaoDoSchema(db), 0);
+  assert.equal(migracoesPendentes(db).length, MIGRACOES.length);
+  assert.deepEqual(tabelas(db), []);
+  db.close();
+});
+
 test('reabrir o banco não reaplica nada', (t) => {
   const arq = join(pastaTemp(t), 'b.db');
   abrirBanco(arq).close();

@@ -21,9 +21,10 @@ const TABELA_VERSAO = `CREATE TABLE IF NOT EXISTS schema_versao (
   aplicada_em TEXT NOT NULL DEFAULT (datetime('now'))
 )`;
 
+// Só lê: num banco sem a tabela schema_versao (novo ou de antes das migrações) devolve 0
 export function versaoDoSchema(db) {
-  db.exec(TABELA_VERSAO);
-  return db.prepare('SELECT coalesce(max(versao), 0) AS v FROM schema_versao').get().v;
+  const existe = db.prepare("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'schema_versao'").get();
+  return existe ? db.prepare('SELECT coalesce(max(versao), 0) AS v FROM schema_versao').get().v : 0;
 }
 
 export function migracoesPendentes(db, migracoes = MIGRACOES) {
@@ -35,6 +36,7 @@ export function migracoesPendentes(db, migracoes = MIGRACOES) {
 // antes de conferir a versão, então dois processos abrindo o banco ao mesmo tempo
 // (ex.: API em --watch e npm run db:popular) não aplicam a mesma migração duas vezes.
 export function migrar(db, migracoes = MIGRACOES) {
+  db.exec(TABELA_VERSAO);
   const de = versaoDoSchema(db);
   const ultima = migracoes.at(-1)?.versao ?? 0;
   if (de > ultima) {
